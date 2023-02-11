@@ -1,0 +1,181 @@
+YEAR,ROUND,PICK,OWNER,ORIGINAL,DISPLAY,VALUE
+2023.00,1,1,Lucas,Tom,Lucas (via Tom),5932
+2023.00,1,2,Lucas,Alex,Lucas (via Alex),5932
+2023.00,1,3,Lucas,Shane,Lucas (via Shane),5932
+2023.00,1,4,Lucas,PJ,Lucas (via PJ),5932
+2023.00,1,5,Lucas,Nick,Lucas (via Nick),4952
+2023.00,1,6,Lucas,Ricky,Lucas (via Ricky),4952
+2023.00,1,7,Lucas,Matt,Lucas (via Matt),4952
+2023.00,1,8,Tom,James,Tom (via James),4952
+2023.00,1,9,Jordan,Jordan,Jordan,4585
+2023.00,1,10,Luc,Luc,Luc,4585
+2023.00,1,11,Alex,Lucas,Alex (via Lucas),4585
+2023.00,1,12,PJ,Joe,PJ (via Joe),4585
+2023.00,2,1,Lucas,Tom,Lucas (via Tom),3736
+2023.00,2,2,Joe,Alex,Joe (via Alex),3736
+2023.00,2,3,James,Shane,James (via Shane),3736
+2023.00,2,4,PJ,PJ,PJ,3736
+2023.00,2,5,Tom,Nick,Tom (via Nick),3310
+2023.00,2,6,Tom,Ricky,Tom (via Ricky),3310
+2023.00,2,7,James,Matt,James (via Matt),3310
+2023.00,2,8,James,James,James,3310
+2023.00,2,9,Tom,Jordan,Tom (via Jordan),2882
+2023.00,2,10,Luc,Luc,Luc,2882
+2023.00,2,11,PJ,Lucas,PJ (via Lucas),2882
+2023.00,2,12,Tom,Joe,Tom (via Joe),2882
+2023.00,3,1,Shane,Tom,Shane (via Tom),2180
+2023.00,3,2,PJ,Alex,PJ (via Alex),2180
+2023.00,3,3,Luc,Shane,Luc (via Shane),2180
+2023.00,3,4,PJ,PJ,PJ,2180
+2023.00,3,5,Nick,Nick,Nick,2051
+2023.00,3,6,Shane,Ricky,Shane (via Ricky),2051
+2023.00,3,7,Matt,Matt,Matt,2051
+2023.00,3,8,James,James,James,2051
+2023.00,3,9,James,Jordan,James (via Jordan),1805
+2023.00,3,10,Luc,Luc,Luc,1805
+2023.00,3,11,PJ,Lucas,PJ (via Lucas),1805
+2023.00,3,12,Matt,Joe,Matt (via Joe),1805
+2023.00,4,1,Matt,Tom,Matt (via Tom),1145
+2023.00,4,2,Matt,Alex,Matt (via Alex),1145
+2023.00,4,3,Luc,Shane,Luc (via Shane),1145
+2023.00,4,4,PJ,PJ,PJ,1145
+2023.00,4,5,Nick,Nick,Nick,1157
+2023.00,4,6,Ricky,Ricky,Ricky,1157
+2023.00,4,7,Shane,Matt,Shane (via Matt),1157
+2023.00,4,8,James,James,James,1157
+2023.00,4,9,Shane,Jordan,Shane (via Jordan),969
+2023.00,4,10,Luc,Luc,Luc,969
+2023.00,4,11,Matt,Lucas,Matt (via Lucas),969
+2023.00,4,12,Tom,Joe,Tom (via Joe),969
+2023.00,5,1,Shane,Tom,Shane (via Tom),0
+2023.00,5,2,Luc,Alex,Luc (via Alex),0
+2023.00,5,3,Luc,Shane,Luc (via Shane),0
+2023.00,5,4,PJ,PJ,PJ,0
+2023.00,5,5,Matt,Nick,Matt (via Nick),0
+2023.00,5,6,Jordan,Ricky,Jordan (via Ricky),0
+2023.00,5,7,Shane,Matt,Shane (via Matt),0
+2023.00,5,8,James,James,James,0
+2023.00,5,9,Jordan,Jordan,Jordan,0
+2023.00,5,10,Luc,Luc,Luc,0
+2023.00,5,11,PJ,Lucas,PJ (via Lucas),0
+2023.00,5,12,PJ,Joe,PJ (via Joe),0
+2024.00,1,1,Tom,Tom,Tom,5471
+2024.00,1,2,Joe,Alex,Joe (via Alex),5471
+2024.00,1,3,Lucas,Shane,Lucas (via Shane),5471
+2024.00,1,4,Joe,PJ,Joe (via PJ),5471
+2024.00,1,5,Nick,Nick,Nick,4771
+2024.00,1,6,Alex,Ricky,Alex (via Ricky),4771
+2024.00,1,7,Joe,Matt,Joe (via Matt),4771
+2024.00,1,8,James,James,James,4771
+2024.00,1,9,James,Jordan,James (via Jordan),4303
+2024.00,1,10,Luc,Luc,Luc,4303
+2024.00,1,11,Tom,Lucas,Tom (via Lucas),4303
+2024.00,1,12,Alex,Joe,Alex (via Joe),4303
+2024.00,2,1,Tom,Tom,Tom,3306
+2024.00,2,2,James,Alex,James (via Alex),3306
+2024.00,2,3,PJ,Shane,PJ (via Shane),3306
+2024.00,2,4,PJ,PJ,PJ,3306
+2024.00,2,5,Nick,Nick,Nick,3019
+2024.00,2,6,Tom,Ricky,Tom (via Ricky),3019
+2024.00,2,7,Matt,Matt,Matt,3019
+2024.00,2,8,James,James,James,3019
+2024.00,2,9,Matt,Jordan,Matt (via Jordan),2795
+2024.00,2,10,Luc,Luc,Luc,2795
+2024.00,2,11,Tom,Lucas,Tom (via Lucas),2795
+2024.00,2,12,PJ,Joe,PJ (via Joe),2795
+2024.00,3,1,Tom,Tom,Tom,2051
+2024.00,3,2,Tom,Alex,Tom (via Alex),2051
+2024.00,3,3,Tom,Shane,Tom (via Shane),2051
+2024.00,3,4,PJ,PJ,PJ,2051
+2024.00,3,5,Nick,Nick,Nick,1839
+2024.00,3,6,Tom,Ricky,Tom (via Ricky),1839
+2024.00,3,7,Lucas,Matt,Lucas (via Matt),1839
+2024.00,3,8,James,James,James,1839
+2024.00,3,9,Tom,Jordan,Tom (via Jordan),1477
+2024.00,3,10,Luc,Luc,Luc,1477
+2024.00,3,11,Tom,Lucas,Tom (via Lucas),1477
+2024.00,3,12,Nick,Joe,Nick (via Joe),1477
+2024.00,4,1,Lucas,Tom,Lucas (via Tom),1043
+2024.00,4,2,Matt,Alex,Matt (via Alex),1043
+2024.00,4,3,PJ,Shane,PJ (via Shane),1043
+2024.00,4,4,PJ,PJ,PJ,1043
+2024.00,4,5,Nick,Nick,Nick,1045
+2024.00,4,6,Ricky,Ricky,Ricky,1045
+2024.00,4,7,Matt,Matt,Matt,1045
+2024.00,4,8,James,James,James,1045
+2024.00,4,9,Matt,Jordan,Matt (via Jordan),944
+2024.00,4,10,Luc,Luc,Luc,944
+2024.00,4,11,Shane,Lucas,Shane (via Lucas),944
+2024.00,4,12,PJ,Joe,PJ (via Joe),944
+2024.00,5,1,Tom,Tom,Tom,0
+2024.00,5,2,Shane,Alex,Shane (via Alex),0
+2024.00,5,3,PJ,Shane,PJ (via Shane),0
+2024.00,5,4,PJ,PJ,PJ,0
+2024.00,5,5,Nick,Nick,Nick,0
+2024.00,5,6,Ricky,Ricky,Ricky,0
+2024.00,5,7,Matt,Matt,Matt,0
+2024.00,5,8,James,James,James,0
+2024.00,5,9,Jordan,Jordan,Jordan,0
+2024.00,5,10,Luc,Luc,Luc,0
+2024.00,5,11,Matt,Lucas,Matt (via Lucas),0
+2024.00,5,12,PJ,Joe,PJ (via Joe),0
+2025.00,1,1,Tom,Tom,Tom,2966
+2025.00,1,2,Alex,Alex,Alex,2966
+2025.00,1,3,Joe,Shane,Joe (via Shane),2966
+2025.00,1,4,PJ,PJ,PJ,2966
+2025.00,1,5,Nick,Nick,Nick,2476
+2025.00,1,6,Ricky,Ricky,Ricky,2476
+2025.00,1,7,Joe,Matt,Joe (via Matt),2476
+2025.00,1,8,James,James,James,2476
+2025.00,1,9,Alex,Jordan,Alex (via Jordan),2293
+2025.00,1,10,Luc,Luc,Luc,2293
+2025.00,1,11,Tom,Lucas,Tom (via Lucas),2293
+2025.00,1,12,Joe,Joe,Joe,2293
+2025.00,2,1,Tom,Tom,Tom,1868
+2025.00,2,2,Alex,Alex,Alex,1868
+2025.00,2,3,Tom,Shane,Tom (via Shane),1868
+2025.00,2,4,PJ,PJ,PJ,1868
+2025.00,2,5,Nick,Nick,Nick,1655
+2025.00,2,6,Nick,Ricky,Nick (via Ricky),1655
+2025.00,2,7,Matt,Matt,Matt,1655
+2025.00,2,8,James,James,James,1655
+2025.00,2,9,Lucas,Jordan,Lucas (via Jordan),1441
+2025.00,2,10,Luc,Luc,Luc,1441
+2025.00,2,11,Lucas,Lucas,Lucas,1441
+2025.00,2,12,Joe,Joe,Joe,1441
+2025.00,3,1,Tom,Tom,Tom,1090
+2025.00,3,2,Alex,Alex,Alex,1090
+2025.00,3,3,Shane,Shane,Shane,1090
+2025.00,3,4,PJ,PJ,PJ,1090
+2025.00,3,5,Nick,Nick,Nick,1026
+2025.00,3,6,Ricky,Ricky,Ricky,1026
+2025.00,3,7,Matt,Matt,Matt,1026
+2025.00,3,8,James,James,James,1026
+2025.00,3,9,Lucas,Jordan,Lucas (via Jordan),903
+2025.00,3,10,Luc,Luc,Luc,903
+2025.00,3,11,Tom,Lucas,Tom (via Lucas),903
+2025.00,3,12,Tom,Joe,Tom (via Joe),903
+2025.00,4,1,Lucas,Tom,Lucas (via Tom),573
+2025.00,4,2,Alex,Alex,Alex,573
+2025.00,4,3,Shane,Shane,Shane,573
+2025.00,4,4,PJ,PJ,PJ,573
+2025.00,4,5,Nick,Nick,Nick,579
+2025.00,4,6,Ricky,Ricky,Ricky,579
+2025.00,4,7,Matt,Matt,Matt,579
+2025.00,4,8,James,James,James,579
+2025.00,4,9,Jordan,Jordan,Jordan,485
+2025.00,4,10,Luc,Luc,Luc,485
+2025.00,4,11,Alex,Lucas,Alex (via Lucas),485
+2025.00,4,12,Joe,Joe,Joe,485
+2025.00,5,1,Tom,Tom,Tom,0
+2025.00,5,2,Alex,Alex,Alex,0
+2025.00,5,3,Shane,Shane,Shane,0
+2025.00,5,4,PJ,PJ,PJ,0
+2025.00,5,5,Nick,Nick,Nick,0
+2025.00,5,6,Ricky,Ricky,Ricky,0
+2025.00,5,7,Matt,Matt,Matt,0
+2025.00,5,8,James,James,James,0
+2025.00,5,9,Jordan,Jordan,Jordan,0
+2025.00,5,10,Luc,Luc,Luc,0
+2025.00,5,11,Tom,Lucas,Tom (via Lucas),0
+2025.00,5,12,Joe,Joe,Joe,0
