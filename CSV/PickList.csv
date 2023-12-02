@@ -1,52 +1,52 @@
 YEAR,ROUND,ROUNDPICK,OVERALLPICK,OWNER,ORIGINAL,DISPLAY,VALUE
-2024,1,1,1,Joe,Matt,Joe (via Matt),6759
-2024,1,2,2,Joe,Alex,Joe (via Alex),6759
-2024,1,3,3,Ricky,Shane,Ricky (via Shane),6759
-2024,1,4,4,Jordan,Jordan,Jordan,6759
-2024,1,5,5,Alex,Ricky,Alex (via Ricky),5152
-2024,1,6,6,Luc,Luc,Luc,5152
-2024,1,7,7,Tristan,Tristan,Tristan,5152
-2024,1,8,8,James,James,James,5152
-2024,1,9,9,Joe,Jeremy,Joe (via Jeremy),4678
-2024,1,10,10,Matt,Tom,Matt (via Tom),4678
-2024,1,11,11,Alex,Joe,Alex (via Joe),4678
-2024,1,12,12,Jordan,Lucas,Jordan (via Lucas),4678
-2024,2,1,13,Matt,Matt,Matt,3676
-2024,2,2,14,James,Alex,James (via Alex),3676
-2024,2,3,15,Jordan,Shane,Jordan (via Shane),3676
-2024,2,4,16,Matt,Jordan,Matt (via Jordan),3676
-2024,2,5,17,Jordan,Ricky,Jordan (via Ricky),3142
-2024,2,6,18,Luc,Luc,Luc,3142
-2024,2,7,19,Matt,Tristan,Matt (via Tristan),3142
-2024,2,8,20,James,James,James,3142
-2024,2,9,21,Matt,Jeremy,Matt (via Jeremy),2957
-2024,2,10,22,Lucas,Tom,Lucas (via Tom),2957
-2024,2,11,23,Jeremy,Joe,Jeremy (via Joe),2957
-2024,2,12,24,Matt,Lucas,Matt (via Lucas),2957
-2024,3,1,25,Lucas,Matt,Lucas (via Matt),2144
-2024,3,2,26,Lucas,Alex,Lucas (via Alex),2144
-2024,3,3,27,James,Shane,James (via Shane),2144
-2024,3,4,28,Jeremy,Jordan,Jeremy (via Jordan),2144
-2024,3,5,29,Tom,Ricky,Tom (via Ricky),1972
-2024,3,6,30,Jeremy,Luc,Jeremy (via Luc),1972
-2024,3,7,31,Tristan,Tristan,Tristan,1972
-2024,3,8,32,James,James,James,1972
-2024,3,9,33,James,Jeremy,James (via Jeremy),1776
-2024,3,10,34,Tom,Tom,Tom,1776
-2024,3,11,35,Tristan,Joe,Tristan (via Joe),1776
-2024,3,12,36,Shane,Lucas,Shane (via Lucas),1776
-2024,4,1,37,Matt,Matt,Matt,1362
-2024,4,2,38,Matt,Alex,Matt (via Alex),1362
-2024,4,3,39,Jordan,Shane,Jordan (via Shane),1362
-2024,4,4,40,Matt,Jordan,Matt (via Jordan),1362
-2024,4,5,41,Ricky,Ricky,Ricky,1342
-2024,4,6,42,Luc,Luc,Luc,1342
-2024,4,7,43,Jordan,Tristan,Jordan (via Tristan),1342
-2024,4,8,44,James,James,James,1342
-2024,4,9,45,Jeremy,Jeremy,Jeremy,1143
-2024,4,10,46,James,Tom,James (via Tom),1143
-2024,4,11,47,James,Joe,James (via Joe),1143
-2024,4,12,48,Jeremy,Lucas,Jeremy (via Lucas),1143
+2024,1,1,1,Joe,Matt,Joe (via Matt),6719
+2024,1,2,2,Joe,Alex,Joe (via Alex),6719
+2024,1,3,3,Ricky,Shane,Ricky (via Shane),6719
+2024,1,4,4,Jordan,Jordan,Jordan,6719
+2024,1,5,5,Alex,Ricky,Alex (via Ricky),5160
+2024,1,6,6,Luc,Luc,Luc,5160
+2024,1,7,7,Tristan,Tristan,Tristan,5160
+2024,1,8,8,James,James,James,5160
+2024,1,9,9,Joe,Jeremy,Joe (via Jeremy),4720
+2024,1,10,10,Matt,Tom,Matt (via Tom),4720
+2024,1,11,11,Alex,Joe,Alex (via Joe),4720
+2024,1,12,12,Jordan,Lucas,Jordan (via Lucas),4720
+2024,2,1,13,Matt,Matt,Matt,3655
+2024,2,2,14,James,Alex,James (via Alex),3655
+2024,2,3,15,Jordan,Shane,Jordan (via Shane),3655
+2024,2,4,16,Matt,Jordan,Matt (via Jordan),3655
+2024,2,5,17,Jordan,Ricky,Jordan (via Ricky),3144
+2024,2,6,18,Luc,Luc,Luc,3144
+2024,2,7,19,Matt,Tristan,Matt (via Tristan),3144
+2024,2,8,20,James,James,James,3144
+2024,2,9,21,Matt,Jeremy,Matt (via Jeremy),2951
+2024,2,10,22,Lucas,Tom,Lucas (via Tom),2951
+2024,2,11,23,Jeremy,Joe,Jeremy (via Joe),2951
+2024,2,12,24,Matt,Lucas,Matt (via Lucas),2951
+2024,3,1,25,Lucas,Matt,Lucas (via Matt),2154
+2024,3,2,26,Lucas,Alex,Lucas (via Alex),2154
+2024,3,3,27,James,Shane,James (via Shane),2154
+2024,3,4,28,Jeremy,Jordan,Jeremy (via Jordan),2154
+2024,3,5,29,Tom,Ricky,Tom (via Ricky),1957
+2024,3,6,30,Jeremy,Luc,Jeremy (via Luc),1957
+2024,3,7,31,Tristan,Tristan,Tristan,1957
+2024,3,8,32,James,James,James,1957
+2024,3,9,33,James,Jeremy,James (via Jeremy),1786
+2024,3,10,34,Tom,Tom,Tom,1786
+2024,3,11,35,Tristan,Joe,Tristan (via Joe),1786
+2024,3,12,36,Shane,Lucas,Shane (via Lucas),1786
+2024,4,1,37,Matt,Matt,Matt,1358
+2024,4,2,38,Matt,Alex,Matt (via Alex),1358
+2024,4,3,39,Jordan,Shane,Jordan (via Shane),1358
+2024,4,4,40,Matt,Jordan,Matt (via Jordan),1358
+2024,4,5,41,Ricky,Ricky,Ricky,1332
+2024,4,6,42,Luc,Luc,Luc,1332
+2024,4,7,43,Jordan,Tristan,Jordan (via Tristan),1332
+2024,4,8,44,James,James,James,1332
+2024,4,9,45,Jeremy,Jeremy,Jeremy,1138
+2024,4,10,46,James,Tom,James (via Tom),1138
+2024,4,11,47,James,Joe,James (via Joe),1138
+2024,4,12,48,Jeremy,Lucas,Jeremy (via Lucas),1138
 2024,5,1,49,Matt,Matt,Matt,0
 2024,5,2,50,Shane,Alex,Shane (via Alex),0
 2024,5,3,51,Jeremy,Shane,Jeremy (via Shane),0
@@ -59,54 +59,54 @@ YEAR,ROUND,ROUNDPICK,OVERALLPICK,OWNER,ORIGINAL,DISPLAY,VALUE
 2024,5,10,58,Tom,Tom,Tom,0
 2024,5,11,59,Jeremy,Joe,Jeremy (via Joe),0
 2024,5,12,60,Matt,Lucas,Matt (via Lucas),0
-2025,1,1,1,Joe,Matt,Joe (via Matt),5506
-2025,1,2,2,Alex,Alex,Alex,5506
-2025,1,3,3,Joe,Shane,Joe (via Shane),5506
-2025,1,4,4,Alex,Jordan,Alex (via Jordan),5506
-2025,1,5,5,Lucas,Ricky,Lucas (via Ricky),4682
-2025,1,6,6,Luc,Luc,Luc,4682
-2025,1,7,7,Alex,Tristan,Alex (via Tristan),4682
-2025,1,8,8,James,James,James,4682
-2025,1,9,9,Jeremy,Jeremy,Jeremy,4259
-2025,1,10,10,Lucas,Tom,Lucas (via Tom),4259
-2025,1,11,11,Matt,Joe,Matt (via Joe),4259
-2025,1,12,12,Lucas,Lucas,Lucas,4259
-2025,2,1,13,Matt,Matt,Matt,3185
-2025,2,2,14,Alex,Alex,Alex,3185
-2025,2,3,15,Joe,Shane,Joe (via Shane),3185
-2025,2,4,16,Jeremy,Jordan,Jeremy (via Jordan),3185
-2025,2,5,17,Tristan,Ricky,Tristan (via Ricky),2999
-2025,2,6,18,Luc,Luc,Luc,2999
-2025,2,7,19,Tristan,Tristan,Tristan,2999
-2025,2,8,20,James,James,James,2999
-2025,2,9,21,Matt,Jeremy,Matt (via Jeremy),2777
-2025,2,10,22,Lucas,Tom,Lucas (via Tom),2777
-2025,2,11,23,Jordan,Joe,Jordan (via Joe),2777
-2025,2,12,24,Lucas,Lucas,Lucas,2777
-2025,3,1,25,Matt,Matt,Matt,1943
-2025,3,2,26,Alex,Alex,Alex,1943
-2025,3,3,27,Lucas,Shane,Lucas (via Shane),1943
-2025,3,4,28,Tristan,Jordan,Tristan (via Jordan),1943
-2025,3,5,29,Lucas,Ricky,Lucas (via Ricky),1781
-2025,3,6,30,Luc,Luc,Luc,1781
-2025,3,7,31,Tristan,Tristan,Tristan,1781
-2025,3,8,32,James,James,James,1781
-2025,3,9,33,James,Jeremy,James (via Jeremy),1706
-2025,3,10,34,Tom,Tom,Tom,1706
-2025,3,11,35,Tom,Joe,Tom (via Joe),1706
-2025,3,12,36,Tom,Lucas,Tom (via Lucas),1706
-2025,4,1,37,Matt,Matt,Matt,1281
-2025,4,2,38,Alex,Alex,Alex,1281
-2025,4,3,39,Shane,Shane,Shane,1281
-2025,4,4,40,Jordan,Jordan,Jordan,1281
-2025,4,5,41,Ricky,Ricky,Ricky,1152
-2025,4,6,42,Luc,Luc,Luc,1152
-2025,4,7,43,Tristan,Tristan,Tristan,1152
-2025,4,8,44,James,James,James,1152
-2025,4,9,45,Jeremy,Jeremy,Jeremy,955
-2025,4,10,46,Alex,Tom,Alex (via Tom),955
-2025,4,11,47,Matt,Joe,Matt (via Joe),955
-2025,4,12,48,Alex,Lucas,Alex (via Lucas),955
+2025,1,1,1,Joe,Matt,Joe (via Matt),5508
+2025,1,2,2,Alex,Alex,Alex,5508
+2025,1,3,3,Joe,Shane,Joe (via Shane),5508
+2025,1,4,4,Alex,Jordan,Alex (via Jordan),5508
+2025,1,5,5,Lucas,Ricky,Lucas (via Ricky),4657
+2025,1,6,6,Luc,Luc,Luc,4657
+2025,1,7,7,Alex,Tristan,Alex (via Tristan),4657
+2025,1,8,8,James,James,James,4657
+2025,1,9,9,Jeremy,Jeremy,Jeremy,4293
+2025,1,10,10,Lucas,Tom,Lucas (via Tom),4293
+2025,1,11,11,Matt,Joe,Matt (via Joe),4293
+2025,1,12,12,Lucas,Lucas,Lucas,4293
+2025,2,1,13,Matt,Matt,Matt,3209
+2025,2,2,14,Alex,Alex,Alex,3209
+2025,2,3,15,Joe,Shane,Joe (via Shane),3209
+2025,2,4,16,Jeremy,Jordan,Jeremy (via Jordan),3209
+2025,2,5,17,Tristan,Ricky,Tristan (via Ricky),3015
+2025,2,6,18,Luc,Luc,Luc,3015
+2025,2,7,19,Tristan,Tristan,Tristan,3015
+2025,2,8,20,James,James,James,3015
+2025,2,9,21,Matt,Jeremy,Matt (via Jeremy),2771
+2025,2,10,22,Lucas,Tom,Lucas (via Tom),2771
+2025,2,11,23,Jordan,Joe,Jordan (via Joe),2771
+2025,2,12,24,Lucas,Lucas,Lucas,2771
+2025,3,1,25,Matt,Matt,Matt,1927
+2025,3,2,26,Alex,Alex,Alex,1927
+2025,3,3,27,Lucas,Shane,Lucas (via Shane),1927
+2025,3,4,28,Tristan,Jordan,Tristan (via Jordan),1927
+2025,3,5,29,Lucas,Ricky,Lucas (via Ricky),1786
+2025,3,6,30,Luc,Luc,Luc,1786
+2025,3,7,31,Tristan,Tristan,Tristan,1786
+2025,3,8,32,James,James,James,1786
+2025,3,9,33,James,Jeremy,James (via Jeremy),1697
+2025,3,10,34,Tom,Tom,Tom,1697
+2025,3,11,35,Tom,Joe,Tom (via Joe),1697
+2025,3,12,36,Tom,Lucas,Tom (via Lucas),1697
+2025,4,1,37,Matt,Matt,Matt,1296
+2025,4,2,38,Alex,Alex,Alex,1296
+2025,4,3,39,Shane,Shane,Shane,1296
+2025,4,4,40,Jordan,Jordan,Jordan,1296
+2025,4,5,41,Ricky,Ricky,Ricky,1138
+2025,4,6,42,Luc,Luc,Luc,1138
+2025,4,7,43,Tristan,Tristan,Tristan,1138
+2025,4,8,44,James,James,James,1138
+2025,4,9,45,Jeremy,Jeremy,Jeremy,935
+2025,4,10,46,Alex,Tom,Alex (via Tom),935
+2025,4,11,47,Matt,Joe,Matt (via Joe),935
+2025,4,12,48,Alex,Lucas,Alex (via Lucas),935
 2025,5,1,49,Matt,Matt,Matt,0
 2025,5,2,50,Alex,Alex,Alex,0
 2025,5,3,51,Shane,Shane,Shane,0
@@ -119,54 +119,54 @@ YEAR,ROUND,ROUNDPICK,OVERALLPICK,OWNER,ORIGINAL,DISPLAY,VALUE
 2025,5,10,58,Tom,Tom,Tom,0
 2025,5,11,59,Matt,Joe,Matt (via Joe),0
 2025,5,12,60,Tom,Lucas,Tom (via Lucas),0
-2026,1,1,1,Joe,Matt,Joe (via Matt),3380
-2026,1,2,2,Alex,Alex,Alex,3380
-2026,1,3,3,Lucas,Shane,Lucas (via Shane),3380
-2026,1,4,4,Lucas,Jordan,Lucas (via Jordan),3380
-2026,1,5,5,Ricky,Ricky,Ricky,2576
-2026,1,6,6,Luc,Luc,Luc,2576
-2026,1,7,7,Alex,Tristan,Alex (via Tristan),2576
-2026,1,8,8,James,James,James,2576
-2026,1,9,9,Jeremy,Jeremy,Jeremy,2339
-2026,1,10,10,Joe,Tom,Joe (via Tom),2339
-2026,1,11,11,Joe,Joe,Joe,2339
-2026,1,12,12,Lucas,Lucas,Lucas,2339
-2026,2,1,13,Matt,Matt,Matt,1838
-2026,2,2,14,Alex,Alex,Alex,1838
-2026,2,3,15,Lucas,Shane,Lucas (via Shane),1838
-2026,2,4,16,Jordan,Jordan,Jordan,1838
-2026,2,5,17,Lucas,Ricky,Lucas (via Ricky),1571
-2026,2,6,18,Luc,Luc,Luc,1571
-2026,2,7,19,Tristan,Tristan,Tristan,1571
-2026,2,8,20,James,James,James,1571
-2026,2,9,21,Jeremy,Jeremy,Jeremy,1479
-2026,2,10,22,Lucas,Tom,Lucas (via Tom),1479
-2026,2,11,23,Jordan,Joe,Jordan (via Joe),1479
-2026,2,12,24,Lucas,Lucas,Lucas,1479
-2026,3,1,25,Matt,Matt,Matt,1072
-2026,3,2,26,Alex,Alex,Alex,1072
-2026,3,3,27,Shane,Shane,Shane,1072
-2026,3,4,28,Shane,Jordan,Shane (via Jordan),1072
-2026,3,5,29,Lucas,Ricky,Lucas (via Ricky),986
-2026,3,6,30,Luc,Luc,Luc,986
-2026,3,7,31,Tristan,Tristan,Tristan,986
-2026,3,8,32,James,James,James,986
-2026,3,9,33,Jeremy,Jeremy,Jeremy,888
-2026,3,10,34,Tom,Tom,Tom,888
-2026,3,11,35,Jordan,Joe,Jordan (via Joe),888
-2026,3,12,36,Jordan,Lucas,Jordan (via Lucas),888
-2026,4,1,37,Matt,Matt,Matt,681
-2026,4,2,38,Alex,Alex,Alex,681
-2026,4,3,39,Shane,Shane,Shane,681
-2026,4,4,40,Jordan,Jordan,Jordan,681
-2026,4,5,41,Ricky,Ricky,Ricky,671
-2026,4,6,42,Luc,Luc,Luc,671
-2026,4,7,43,Tristan,Tristan,Tristan,671
-2026,4,8,44,James,James,James,671
-2026,4,9,45,Jeremy,Jeremy,Jeremy,572
-2026,4,10,46,Tom,Tom,Tom,572
-2026,4,11,47,Joe,Joe,Joe,572
-2026,4,12,48,Jordan,Lucas,Jordan (via Lucas),572
+2026,1,1,1,Joe,Matt,Joe (via Matt),3360
+2026,1,2,2,Alex,Alex,Alex,3360
+2026,1,3,3,Lucas,Shane,Lucas (via Shane),3360
+2026,1,4,4,Lucas,Jordan,Lucas (via Jordan),3360
+2026,1,5,5,Ricky,Ricky,Ricky,2580
+2026,1,6,6,Luc,Luc,Luc,2580
+2026,1,7,7,Alex,Tristan,Alex (via Tristan),2580
+2026,1,8,8,James,James,James,2580
+2026,1,9,9,Jeremy,Jeremy,Jeremy,2360
+2026,1,10,10,Joe,Tom,Joe (via Tom),2360
+2026,1,11,11,Joe,Joe,Joe,2360
+2026,1,12,12,Lucas,Lucas,Lucas,2360
+2026,2,1,13,Matt,Matt,Matt,1828
+2026,2,2,14,Alex,Alex,Alex,1828
+2026,2,3,15,Lucas,Shane,Lucas (via Shane),1828
+2026,2,4,16,Jordan,Jordan,Jordan,1828
+2026,2,5,17,Lucas,Ricky,Lucas (via Ricky),1572
+2026,2,6,18,Luc,Luc,Luc,1572
+2026,2,7,19,Tristan,Tristan,Tristan,1572
+2026,2,8,20,James,James,James,1572
+2026,2,9,21,Jeremy,Jeremy,Jeremy,1476
+2026,2,10,22,Lucas,Tom,Lucas (via Tom),1476
+2026,2,11,23,Jordan,Joe,Jordan (via Joe),1476
+2026,2,12,24,Lucas,Lucas,Lucas,1476
+2026,3,1,25,Matt,Matt,Matt,1077
+2026,3,2,26,Alex,Alex,Alex,1077
+2026,3,3,27,Shane,Shane,Shane,1077
+2026,3,4,28,Shane,Jordan,Shane (via Jordan),1077
+2026,3,5,29,Lucas,Ricky,Lucas (via Ricky),979
+2026,3,6,30,Luc,Luc,Luc,979
+2026,3,7,31,Tristan,Tristan,Tristan,979
+2026,3,8,32,James,James,James,979
+2026,3,9,33,Jeremy,Jeremy,Jeremy,893
+2026,3,10,34,Tom,Tom,Tom,893
+2026,3,11,35,Jordan,Joe,Jordan (via Joe),893
+2026,3,12,36,Jordan,Lucas,Jordan (via Lucas),893
+2026,4,1,37,Matt,Matt,Matt,679
+2026,4,2,38,Alex,Alex,Alex,679
+2026,4,3,39,Shane,Shane,Shane,679
+2026,4,4,40,Jordan,Jordan,Jordan,679
+2026,4,5,41,Ricky,Ricky,Ricky,666
+2026,4,6,42,Luc,Luc,Luc,666
+2026,4,7,43,Tristan,Tristan,Tristan,666
+2026,4,8,44,James,James,James,666
+2026,4,9,45,Jeremy,Jeremy,Jeremy,569
+2026,4,10,46,Tom,Tom,Tom,569
+2026,4,11,47,Joe,Joe,Joe,569
+2026,4,12,48,Jordan,Lucas,Jordan (via Lucas),569
 2026,5,1,49,Matt,Matt,Matt,0
 2026,5,2,50,Alex,Alex,Alex,0
 2026,5,3,51,Shane,Shane,Shane,0
