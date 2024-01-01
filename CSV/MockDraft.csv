@@ -3,66 +3,66 @@ Pick 1","Optimal
 Pick 2","Optimal
 Pick 3","Optimal
 Pick 4",SELECTION,POSITION,TEAM
-1.01,Joe,3.4,1.2,1.3,3.1,"QB, TE, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Caleb Williams,QB,USC
-1.02,Joe,3.4,1.2,1.3,3.1,"QB, TE, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Marvin Harrison Jr,WR,OSU
-1.03,Ricky,4.4,8.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Drake Maye,QB,UNC
-1.04,Alex,11.4,9.2,10.3,4.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Brock Bowers,TE,UGA
-1.05,Jordan,5.4,4.2,6.3,7.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Emeka Egbuka,WR,OSU
-1.06,Luc,9.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,TreVeyon Henderson,RB,OSU
-1.07,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Malik Nabers,WR,LSU
-1.08,Joe,3.4,1.2,1.3,3.1,"QB, TE, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Raheim Sanders,RB,ARK
-1.09,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Xavier Worthy,WR,TEX
-1.10,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Braelon Allen,RB,WIS
-1.11,Alex,11.4,9.2,10.3,4.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Donovan Edwards,RB,MICH
-1.12,Jordan,5.4,4.2,6.3,7.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Rome Odunze,WR,WASH
-1.13,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Will Shipley,RB,CLEM
-2.01,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Blake Corum,RB,MICH
-2.02,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,JJ McCarthy,QB,MICH
-2.03,Jordan,5.4,4.2,6.3,7.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Ja'Tavion Sanders,TE,TEX
-2.04,Jordan,5.4,4.2,6.3,7.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Penix Jr,QB,WASH
-2.05,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Troy Franklin,WR,ORE
-2.06,Luc,9.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Shedeur Sanders,QB,COLO
-2.07,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Kyle McCord,QB,OSU
-2.08,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Jase McClellan,RB,ALA
-2.09,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Devin Neal,RB,KU
-2.10,Lucas,2.4,2.2,3.3,1.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Bo Nix,QB,ORE
-2.11,Jeremy,10.4,7.2,8.3,5.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Keon Coleman,WR,FSU
-2.12,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Ja'Corey Brooks,WR,ALA
-2.13,Alex,11.4,9.2,10.3,4.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Cameron Rising,QB,UTAH
-3.01,Lucas,2.4,2.2,3.3,1.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Cameron Ward,QB,WSU
-3.02,Lucas,2.4,2.2,3.3,1.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jaheim Bell,TE,FSU
-3.03,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Trigg,TE,MISS
-3.04,Tom,6.4,6.2,7.3,8.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Brant Kuithe,TE,UTAH
-3.05,Jeremy,10.4,7.2,8.3,5.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.06,Jeremy,10.4,7.2,8.3,5.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.07,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.08,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.09,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.10,Tom,6.4,6.2,7.3,8.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.11,Tristan,12.4,11.2,9.3,6.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.12,Shane,7.4,10.2,11.3,12.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.13,Shane,7.4,10.2,11.3,12.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.01,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.02,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.03,Jordan,5.4,4.2,6.3,7.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.04,Ricky,4.4,8.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.05,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.06,Luc,9.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.07,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.08,Jeremy,10.4,7.2,8.3,5.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.09,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.10,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.11,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.12,Jeremy,10.4,7.2,8.3,5.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.01,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.02,Shane,7.4,10.2,11.3,12.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.03,Jeremy,10.4,7.2,8.3,5.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.04,Ricky,4.4,8.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.05,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.06,Luc,9.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.07,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.08,Jeremy,10.4,7.2,8.3,5.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.09,James,1.4,3.2,4.3,9.1,"TE, RB, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.10,Tom,6.4,6.2,7.3,8.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.11,Jeremy,10.4,7.2,8.3,5.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.12,Matt,8.4,12.2,2.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+1.01,Joe,2.4,1.2,2.3,4.1,"TE, QB, RB, WR",Tier 18,TE18,QB18,RB18,WR18,Bijan Robinson,RB,ATL
+1.02,Joe,2.4,1.2,2.3,4.1,"TE, QB, RB, WR",Tier 18,TE18,QB18,RB18,WR18,Anthony Richardson,QB,IND
+1.03,Ricky,11.4,8.2,10.3,11.1,"QB, TE, RB, WR",Tier 18,QB18,TE18,RB18,WR18,Jahmyr Gibbs,RB,DET
+1.04,Alex,8.4,11.2,12.3,8.1,"RB, WR, QB, TE",Tier 18,RB18,WR18,QB18,TE18,CJ Stroud,QB,HOU
+1.05,Jordan,5.4,7.2,4.3,6.1,"WR, TE, QB, RB",Tier 18,WR18,TE18,QB18,RB18,Jordan Addison,WR,MIN
+1.06,Luc,9.4,6.2,6.3,3.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Bryce Young,QB,CAR
+1.07,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Jaxon Smith-Njigba,WR,SEA
+1.08,Joe,2.4,1.2,2.3,4.1,"TE, QB, RB, WR",Tier 18,TE18,QB18,RB18,WR18,Zay Flowers,WR,BAL
+1.09,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Puka Nacua,WR,LAR
+1.10,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Quentin Johnston,WR,LAC
+1.11,Alex,8.4,11.2,12.3,8.1,"RB, WR, QB, TE",Tier 18,RB18,WR18,QB18,TE18,Sam LaPorta,TE,DET
+1.12,Jordan,5.4,7.2,4.3,6.1,"WR, TE, QB, RB",Tier 18,WR18,TE18,QB18,RB18,Dalton Kincaid,TE,BUF
+1.13,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Roschon Johnson,RB,CHI
+2.01,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Zach Charbonnet,RB,SEA
+2.02,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Marvin Mims,WR,DEN
+2.03,Jordan,5.4,7.2,4.3,6.1,"WR, TE, QB, RB",Tier 18,WR18,TE18,QB18,RB18,Jayden Reed,WR,GBP
+2.04,Jordan,5.4,7.2,4.3,6.1,"WR, TE, QB, RB",Tier 18,WR18,TE18,QB18,RB18,Jonathan Mingo,WR,CAR
+2.05,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Rashee Rice,WR,KCC
+2.06,Luc,9.4,6.2,6.3,3.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Tyjae Spears,RB,TEN
+2.07,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Luke Musgrave,TE,GBP
+2.08,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Nathaniel Dell,WR,HOU
+2.09,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Michael Mayer,TE,LVR
+2.10,Lucas,1.4,2.2,1.3,1.1,"WR, QB, RB, TE",Tier 18,WR18,QB18,RB18,TE18,Andrei Iosivas,WR,CIN
+2.11,Jeremy,6.4,5.2,7.3,5.1,"RB, QB, WR, TE",Tier 18,RB18,QB18,WR18,TE18,Jalin Hyatt,WR,NYG
+2.12,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Josh Downs,WR,IND
+2.13,Alex,8.4,11.2,12.3,8.1,"RB, WR, QB, TE",Tier 18,RB18,WR18,QB18,TE18,Devon Achane,RB,MIA
+3.01,Lucas,1.4,2.2,1.3,1.1,"WR, QB, RB, TE",Tier 18,WR18,QB18,RB18,TE18,Tank Bigsby,RB,JAC
+3.02,Lucas,1.4,2.2,1.3,1.1,"WR, QB, RB, TE",Tier 18,WR18,QB18,RB18,TE18,Sean Tucker,RB,TBB
+3.03,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Will Levis,QB,TEN
+3.04,Tom,4.4,4.2,5.3,9.1,"TE, RB, QB, WR",Tier 18,TE18,RB18,QB18,WR18,Michael Wilson,WR,ARI
+3.05,Jeremy,6.4,5.2,7.3,5.1,"RB, QB, WR, TE",Tier 18,RB18,QB18,WR18,TE18,Dorian Thompson-Robinson,QB,CLE
+3.06,Jeremy,6.4,5.2,7.3,5.1,"RB, QB, WR, TE",Tier 18,RB18,QB18,WR18,TE18,Hendon Hooker,QB,DET
+3.07,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Luke Schoonmaker,TE,DAL
+3.08,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Deuce Vaughn,RB,DAL
+3.09,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Chase Brown,RB,CIN
+3.10,Tom,4.4,4.2,5.3,9.1,"TE, RB, QB, WR",Tier 18,TE18,RB18,QB18,WR18,Cameron Latu,TE,SFO
+3.11,Tristan,12.4,12.2,8.3,7.1,"QB, WR, RB, TE",Tier 18,QB18,WR18,RB18,TE18,Kayshon Boutte,WR,NEP
+3.12,Shane,7.4,9.2,11.3,12.1,"TE, RB, WR, QB",Tier 18,TE18,RB18,WR18,QB18,Trey Palmer,WR,TBB
+3.13,Shane,7.4,9.2,11.3,12.1,"TE, RB, WR, QB",Tier 18,TE18,RB18,WR18,QB18,Evan Hull,RB,IND
+4.01,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Demario Douglas,WR,NEP
+4.02,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Xavier Hutchinson,WR,HOU
+4.03,Jordan,5.4,7.2,4.3,6.1,"WR, TE, QB, RB",Tier 18,WR18,TE18,QB18,RB18,Aidan O'Connell,QB,LVR
+4.04,Ricky,11.4,8.2,10.3,11.1,"QB, TE, RB, WR",Tier 18,QB18,TE18,RB18,WR18,Zach Evans,RB,LAR
+4.05,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Darnell Washington,TE,PIT
+4.06,Luc,9.4,6.2,6.3,3.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Israel Abanikanda,RB,NYJ
+4.07,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Jaleel McLaughlin,RB,DEN
+4.08,Jeremy,6.4,5.2,7.3,5.1,"RB, QB, WR, TE",Tier 18,RB18,QB18,WR18,TE18,Dontayvion Wicks,WR,GBP
+4.09,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Eric Gray,RB,NYG
+4.10,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Jake Haener,QB,NOS
+4.11,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Tucker Kraft,TE,GBP
+4.12,Jeremy,6.4,5.2,7.3,5.1,"RB, QB, WR, TE",Tier 18,RB18,QB18,WR18,TE18,Clayton Tune,QB,ARI
+5.01,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Ronnie Bell,WR,SFO
+5.02,Shane,7.4,9.2,11.3,12.1,"TE, RB, WR, QB",Tier 18,TE18,RB18,WR18,QB18,Chris Rodriguez,RB,WAS
+5.03,Jeremy,6.4,5.2,7.3,5.1,"RB, QB, WR, TE",Tier 18,RB18,QB18,WR18,TE18,Tyler Scott,WR,CHI
+5.04,Ricky,11.4,8.2,10.3,11.1,"QB, TE, RB, WR",Tier 18,QB18,TE18,RB18,WR18,Brenton Strange,TE,JAC
+5.05,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Stetson Bennett,QB,LAR
+5.06,Luc,9.4,6.2,6.3,3.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Keaton Mitchell,RB,BAL
+5.07,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Kenny McIntosh,RB,SEA
+5.08,Jeremy,6.4,5.2,7.3,5.1,"RB, QB, WR, TE",Tier 18,RB18,QB18,WR18,TE18,Parker Washington,WR,JAC
+5.09,James,3.4,3.2,3.3,2.1,"QB, RB, WR, TE",Tier 18,QB18,RB18,WR18,TE18,Charlie Jones,WR,CIN
+5.10,Tom,4.4,4.2,5.3,9.1,"TE, RB, QB, WR",Tier 18,TE18,RB18,QB18,WR18,Cameron Latu,TE,SFO
+5.11,Jeremy,6.4,5.2,7.3,5.1,"RB, QB, WR, TE",Tier 18,RB18,QB18,WR18,TE18,Rakim Jarrett,WR,TBB
+5.12,Matt,10.4,10.2,9.3,10.1,"QB, WR, TE, RB",Tier 18,QB18,WR18,TE18,RB18,Elijah Higgins,TE,ARI
