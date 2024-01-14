@@ -5,64 +5,64 @@ Pick 3","Optimal
 Pick 4",SELECTION,POSITION,TEAM
 1.01,Joe,1.4,1.2,4.3,4.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Caleb Williams,QB,USC
 1.02,Joe,1.4,1.2,4.3,4.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Marvin Harrison Jr,WR,OSU
-1.03,Ricky,4.4,8.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Drake Maye,QB,UNC
-1.04,Alex,8.4,4.2,11.3,12.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Jayden Daniels,QB,LSU
-1.05,Jordan,5.4,7.2,2.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Malik Nabers,WR,LSU
-1.06,Luc,11.4,3.2,7.3,3.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Rome Odunze,WR,WASH
-1.07,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Brock Bowers,TE,UGA
+1.03,Ricky,4.4,7.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Drake Maye,QB,UNC
+1.04,Alex,8.4,5.2,11.3,11.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Jayden Daniels,QB,LSU
+1.05,Jordan,5.4,8.2,3.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Malik Nabers,WR,LSU
+1.06,Luc,12.4,3.2,7.3,3.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Rome Odunze,WR,WASH
+1.07,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Brock Bowers,TE,UGA
 1.08,Joe,1.4,1.2,4.3,4.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Penix Jr,QB,WASH
-1.09,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Troy Franklin,WR,ORE
-1.10,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Keon Coleman,WR,FSU
-1.11,Alex,8.4,4.2,11.3,12.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Xavier Worthy,WR,TEX
-1.12,Jordan,5.4,7.2,2.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Bo Nix,QB,ORE
-1.13,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Adonai Mitchell,WR,TEX
-2.01,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Shedeur Sanders,QB,COLO
-2.02,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,JJ McCarthy,QB,MICH
-2.03,Jordan,5.4,7.2,2.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Blake Corum,RB,MICH
-2.04,Jordan,5.4,7.2,2.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Braelon Allen,RB,WIS
-2.05,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Quinshon Judkins,RB,OSU
-2.06,Luc,11.4,3.2,7.3,3.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Raheim Sanders,RB,SC
-2.07,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Donovan Edwards,RB,MICH
+1.09,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Keon Coleman,WR,FSU
+1.10,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Troy Franklin,WR,ORE
+1.11,Alex,8.4,5.2,11.3,11.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Xavier Worthy,WR,TEX
+1.12,Jordan,5.4,8.2,3.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Shedeur Sanders,QB,COLO
+1.13,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Bo Nix,QB,ORE
+2.01,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Adonai Mitchell,WR,TEX
+2.02,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,JJ McCarthy,QB,MICH
+2.03,Jordan,5.4,8.2,3.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Blake Corum,RB,MICH
+2.04,Jordan,5.4,8.2,3.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Quinshon Judkins,RB,MISS
+2.05,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Braelon Allen,RB,WIS
+2.06,Luc,12.4,3.2,7.3,3.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Raheim Sanders,RB,ARK
+2.07,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Donovan Edwards,RB,MICH
 2.08,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Ja'Tavion Sanders,TE,TEX
-2.09,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Will Shipley,RB,CLEM
-2.10,Lucas,3.4,2.2,3.3,1.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Trey Benson,RB,FSU
+2.09,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Will Shipley,RB,CLEM
+2.10,Lucas,2.4,2.2,2.3,1.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Trey Benson,RB,FSU
 2.11,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jase McClellan,RB,ALA
-2.12,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Jonathon Brooks,RB,TEX
-2.13,Alex,8.4,4.2,11.3,12.1,"TE, RB, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Devin Neal,RB,KU
-3.01,Lucas,3.4,2.2,3.3,1.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Xavier Legette,WR,SC
-3.02,Lucas,3.4,2.2,3.3,1.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Ladd McConkey,WR,UGA
-3.03,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Devontez Walker,WR,UNC
-3.04,Tom,7.4,6.2,6.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Kyle McCord,QB,SYR
-3.05,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Cameron Ward,QB,WSU
-3.06,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jordan Travis,QB,FSU
-3.07,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Ja'Lynn Polk,WR,WASH
-3.08,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Carson Beck,QB,UGA
-3.09,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Jalon Daniels,QB,KU
-3.10,Tom,7.4,6.2,6.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Bucky Irving,RB,ORE
-3.11,Tristan,12.4,12.2,8.3,6.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jalen Milroe,QB,ALA
-3.12,Shane,10.4,11.2,10.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Cade Stover,TE,OSU
-3.13,Shane,10.4,11.2,10.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Audric Estimé,RB,ND
-4.01,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Jalen McMillan,WR,WASH
-4.02,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Roman Wilson,WR,MICH
-4.03,Jordan,5.4,7.2,2.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Jacob Cowing,WR,ARIZ
-4.04,Ricky,4.4,8.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,MarShawn Lloyd,RB,USC
-4.05,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Malachi Corley,WR,WKU
-4.06,Luc,11.4,3.2,7.3,3.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Dillon Gabriel,QB,ORE
-4.07,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Brenden Rice,WR,USC
-4.08,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Antwane Wells Jr,WR,MISS
-4.09,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Johnny Wilson,WR,FSU
-4.10,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Ja'Corey Brooks,WR,LOU
-4.11,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Dillon Johnson,RB,WASH
-4.12,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Riley Leonard,QB,ND
-5.01,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Tory Horton,WR,CSU
-5.02,Shane,10.4,11.2,10.3,11.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Jaheim Bell,TE,FSU
-5.03,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Tyler Van Dyke,QB,WIS
-5.04,Ricky,4.4,8.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Ray Davis,RB,UK
-5.05,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Spencer Rattler,QB,SC
-5.06,Luc,11.4,3.2,7.3,3.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Cameron Rising,QB,UTAH
-5.07,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Pratt,QB,TULN
-5.08,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Brant Kuithe,TE,UTAH
-5.09,James,2.4,5.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Trigg,TE,MISS
+2.12,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Xavier Legette,WR,SC
+2.13,Alex,8.4,5.2,11.3,11.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Jonathon Brooks,RB,TEX
+3.01,Lucas,2.4,2.2,2.3,1.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Devin Neal,RB,KU
+3.02,Lucas,2.4,2.2,2.3,1.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Kyle McCord,QB,SYR
+3.03,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Ladd McConkey,WR,UGA
+3.04,Tom,7.4,6.2,6.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Cameron Ward,QB,WSU
+3.05,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jordan Travis,QB,FSU
+3.06,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Carson Beck,QB,UGA
+3.07,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Ja'Lynn Polk,WR,WASH
+3.08,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Bucky Irving,RB,ORE
+3.09,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Jalen McMillan,WR,WASH
+3.10,Tom,7.4,6.2,6.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Jalon Daniels,QB,KU
+3.11,Tristan,11.4,12.2,8.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jalen Milroe,QB,ALA
+3.12,Shane,10.4,11.2,10.3,12.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Audric Estimé,RB,ND
+3.13,Shane,10.4,11.2,10.3,12.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Roman Wilson,WR,MICH
+4.01,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Devontez Walker,WR,UNC
+4.02,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Antwane Wells Jr,WR,SC
+4.03,Jordan,5.4,8.2,3.3,9.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Cade Stover,TE,OSU
+4.04,Ricky,4.4,7.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,MarShawn Lloyd,RB,USC
+4.05,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Jacob Cowing,WR,ARIZ
+4.06,Luc,12.4,3.2,7.3,3.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Dillon Gabriel,QB,OKLA
+4.07,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Brenden Rice,WR,USC
+4.08,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Riley Leonard,QB,DUKE
+4.09,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Ja'Corey Brooks,WR,ALA
+4.10,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Johnny Wilson,WR,FSU
+4.11,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Tory Horton,WR,CSU
+4.12,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Tyler Van Dyke,QB,MIAMI
+5.01,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Malachi Corley,WR,WKU
+5.02,Shane,10.4,11.2,10.3,12.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Cameron Rising,QB,UTAH
+5.03,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Spencer Rattler,QB,SC
+5.04,Ricky,4.4,7.2,12.3,10.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Ray Davis,RB,UK
+5.05,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Jaheim Bell,TE,FSU
+5.06,Luc,12.4,3.2,7.3,3.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Pratt,QB,TULN
+5.07,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Brant Kuithe,TE,UTAH
+5.08,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Trigg,TE,MISS
+5.09,James,3.4,4.2,1.3,2.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.10,Tom,7.4,6.2,6.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.11,Jeremy,9.4,9.2,5.3,5.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.12,Matt,6.4,10.2,9.3,7.1,"WR, RB, TE, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
