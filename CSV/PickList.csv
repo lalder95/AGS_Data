@@ -4,7 +4,7 @@ YEAR,ROUND,ROUNDPICK,OVERALLPICK,OWNER,ORIGINAL,DISPLAY,VALUE
 2024,1,3,3,Joe,Jeremy,Joe (via Jeremy),7053
 2024,1,4,4,Jordan,Lucas,Jordan (via Lucas),7053
 2024,1,5,5,Tristan,Tristan,Tristan,5534
-2024,1,6,6,Matt,Jordan,Matt (via Jordan),5534
+2024,1,6,6,Lucas,Jordan,Lucas (via Jordan),5534
 2024,1,7,7,Ricky,Shane,Ricky (via Shane),5534
 2024,1,8,8,Joe,Alex,Joe (via Alex),5534
 2024,1,9,9,Lucas,Matt,Lucas (via Matt),4744
@@ -59,7 +59,7 @@ YEAR,ROUND,ROUNDPICK,OVERALLPICK,OWNER,ORIGINAL,DISPLAY,VALUE
 2024,5,10,58,Ricky,Ricky,Ricky,0
 2024,5,11,59,James,James,James,0
 2024,5,12,60,Luc,Luc,Luc,0
-2025,1,1,1,Lucas,Tom,Lucas (via Tom),5533
+2025,1,1,1,Matt,Tom,Matt (via Tom),5533
 2025,1,2,2,Matt,Joe,Matt (via Joe),5533
 2025,1,3,3,Jeremy,Jeremy,Jeremy,5533
 2025,1,4,4,Jordan,Lucas,Jordan (via Lucas),5533
@@ -122,7 +122,7 @@ YEAR,ROUND,ROUNDPICK,OVERALLPICK,OWNER,ORIGINAL,DISPLAY,VALUE
 2026,1,1,1,Matt,Tom,Matt (via Tom),3527
 2026,1,2,2,Joe,Joe,Joe,3527
 2026,1,3,3,Jeremy,Jeremy,Jeremy,3527
-2026,1,4,4,Lucas,Lucas,Lucas,3527
+2026,1,4,4,Matt,Lucas,Matt (via Lucas),3527
 2026,1,5,5,Alex,Tristan,Alex (via Tristan),2767
 2026,1,6,6,Lucas,Jordan,Lucas (via Jordan),2767
 2026,1,7,7,Lucas,Shane,Lucas (via Shane),2767
