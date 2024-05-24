@@ -13,7 +13,7 @@ Pick 4",SELECTION,POSITION,TEAM
 1.08,Luc,7.4,2.2,7.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Rome Odunze,WR,FA
 1.09,Joe,2.4,3.2,3.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,J.J. McCarthy,QB,FA
 1.10,Luc,7.4,2.2,7.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Brian Thomas Jr.,WR,FA
-1.11,Tristan,9.4,10.2,8.3,5.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Penix Jr.,QB,FA
+1.11,Tristan,9.4,10.2,8.3,4.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Michael Penix Jr.,QB,FA
 1.12,Alex,10.4,11.2,10.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Bo Nix,QB,FA
 1.13,Matt,8.4,5.2,9.3,9.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 2.01,Matt,8.4,5.2,9.3,9.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Blake Corum,RB,FA
@@ -38,9 +38,9 @@ Pick 4",SELECTION,POSITION,TEAM
 3.07,James,3.4,4.2,2.3,11.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Malachi Corley,WR,FA
 3.08,James,3.4,4.2,2.3,11.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Jaylen Wright,RB,FA
 3.09,Matt,8.4,5.2,9.3,9.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Brenden Rice,WR,FA
-3.10,Tom,5.4,8.2,4.3,4.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Ricky Pearsall,WR,FA
-3.11,Tristan,9.4,10.2,8.3,5.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Luke McCaffrey,WR,FA
-3.12,Tristan,9.4,10.2,8.3,5.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jalen McMillan,WR,FA
+3.10,Tom,5.4,8.2,4.3,5.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Ricky Pearsall,WR,FA
+3.11,Tristan,9.4,10.2,8.3,4.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Luke McCaffrey,WR,FA
+3.12,Tristan,9.4,10.2,8.3,4.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jalen McMillan,WR,FA
 3.13,Shane,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,Brandon Inniss,WR,OSU
 4.01,Joe,2.4,3.2,3.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Johnny Wilson,WR,FA
 4.02,Joe,2.4,3.2,3.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Ray Davis,RB,FA
@@ -63,6 +63,6 @@ Pick 4",SELECTION,POSITION,TEAM
 5.07,James,3.4,4.2,2.3,11.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.08,Jeremy,11.4,9.2,6.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.09,Lucas,1.4,1.2,1.3,10.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.10,Tom,5.4,8.2,4.3,4.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.11,Tristan,9.4,10.2,8.3,5.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.10,Tom,5.4,8.2,4.3,5.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.11,Tristan,9.4,10.2,8.3,4.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.12,Jeremy,11.4,9.2,6.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
