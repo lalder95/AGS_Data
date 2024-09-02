@@ -3,66 +3,66 @@ Pick 1","Optimal
 Pick 2","Optimal
 Pick 3","Optimal
 Pick 4",SELECTION,POSITION,TEAM
-1.01,Joe,1.4,3.2,3.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Arch Manning,QB,TEX
-1.02,Alex,5.4,9.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Nico Iamaleava,QB,TENN
-1.03,Shane,9.4,6.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Zachariah Branch,WR,USC
-1.04,Ricky,4.4,8.2,12.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jackson Arnold,QB,OKLA
-1.05,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Carnell Tate,WR,OSU
-1.06,Luc,12.4,2.2,6.3,7.1,"QB, TE, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Eugene Wilson III,WR,FLA
-1.07,James,3.4,11.2,1.3,9.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,CJ Baxter,RB,TEX
-1.08,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Justice Haynes,RB,ALA
-1.09,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Johntay Cook II,WR,TEX
-1.10,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Duce Robinson,WR,USC
-1.11,Alex,5.4,9.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Makai Lemon,WR,USC
-1.12,Joe,1.4,3.2,3.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Kevin Concepcion,WR,NCST
-1.13,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Nyck Harbor,WR,SC
-2.01,Joe,1.4,3.2,3.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Rueben Owens,RB,TA\u
-2.02,Alex,5.4,9.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Roderick Robinson II,RB,UGA
-2.03,Lucas,2.4,1.2,2.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,TJ Moore,WR,CLEM
-2.04,Lucas,2.4,1.2,2.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,LaNorris Sellers,QB,SC
-2.05,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Aidan Chiles,QB,MSU
-2.06,Joe,1.4,3.2,3.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Dylan Edwards,RB,KSU
-2.07,James,3.4,11.2,1.3,9.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Brandon Inniss,WR,OSU
-2.08,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Luke Hasz,TE,ARK
-2.09,Lucas,2.4,1.2,2.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-2.10,Lucas,2.4,1.2,2.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-2.11,Tristan,10.4,10.2,7.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+1.01,Joe,1.4,2.2,2.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Arch Manning,QB,TEX
+1.02,Alex,5.4,10.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Nico Iamaleava,QB,TENN
+1.03,Shane,9.4,7.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Zachariah Branch,WR,USC
+1.04,Ricky,4.4,9.2,12.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Jackson Arnold,QB,OKLA
+1.05,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Carnell Tate,WR,OSU
+1.06,Luc,12.4,4.2,3.3,7.1,"QB, TE, WR, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Justice Haynes,RB,ALA
+1.07,James,3.4,6.2,4.3,9.1,"TE, WR, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Eugene Wilson III,WR,FLA
+1.08,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,CJ Baxter,RB,TEX
+1.09,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Johntay Cook II,WR,TEX
+1.10,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Duce Robinson,WR,USC
+1.11,Alex,5.4,10.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Makai Lemon,WR,USC
+1.12,Joe,1.4,2.2,2.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Kevin Concepcion,WR,NCST
+1.13,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Nyck Harbor,WR,SC
+2.01,Joe,1.4,2.2,2.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Rueben Owens,RB,TA\u
+2.02,Alex,5.4,10.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Roderick Robinson II,RB,UGA
+2.03,Lucas,2.4,1.2,1.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,TJ Moore,WR,CLEM
+2.04,Lucas,2.4,1.2,1.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,LaNorris Sellers,QB,SC
+2.05,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Aidan Chiles,QB,MSU
+2.06,Joe,1.4,2.2,2.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Dylan Edwards,RB,KSU
+2.07,James,3.4,6.2,4.3,9.1,"TE, WR, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,Brandon Inniss,WR,OSU
+2.08,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Luke Hasz,TE,ARK
+2.09,Lucas,2.4,1.2,1.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+2.10,Lucas,2.4,1.2,1.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+2.11,Tristan,10.4,11.2,7.3,3.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 2.12,Jordan,6.4,12.2,8.3,5.1,"WR, RB, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-2.13,Alex,5.4,9.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.01,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.02,Alex,5.4,9.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.03,Shane,9.4,6.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.04,Lucas,2.4,1.2,2.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.05,Shane,9.4,6.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.06,Joe,1.4,3.2,3.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.07,James,3.4,11.2,1.3,9.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.08,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+2.13,Alex,5.4,10.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.01,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.02,Alex,5.4,10.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.03,Shane,9.4,7.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.04,Lucas,2.4,1.2,1.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.05,Shane,9.4,7.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.06,Joe,1.4,2.2,2.3,1.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.07,James,3.4,6.2,4.3,9.1,"TE, WR, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.08,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 3.09,Jordan,6.4,12.2,8.3,5.1,"WR, RB, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.10,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.11,Lucas,2.4,1.2,2.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.12,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.13,Shane,9.4,6.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.01,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.02,Alex,5.4,9.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.03,Shane,9.4,6.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.04,Ricky,4.4,8.2,12.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.10,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.11,Lucas,2.4,1.2,1.3,8.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.12,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.13,Shane,9.4,7.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.01,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.02,Alex,5.4,10.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.03,Shane,9.4,7.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.04,Ricky,4.4,9.2,12.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.05,Jordan,6.4,12.2,8.3,5.1,"WR, RB, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.06,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.07,James,3.4,11.2,1.3,9.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.08,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.06,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.07,James,3.4,6.2,4.3,9.1,"TE, WR, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.08,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.09,Jordan,6.4,12.2,8.3,5.1,"WR, RB, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.10,Tom,7.4,7.2,5.3,6.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.11,Tristan,10.4,10.2,7.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.12,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.01,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.02,Alex,5.4,9.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.03,Shane,9.4,6.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.04,Ricky,4.4,8.2,12.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.10,Tom,7.4,8.2,6.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.11,Tristan,10.4,11.2,7.3,3.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.12,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.01,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.02,Alex,5.4,10.2,11.3,11.1,"RB, TE, WR, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.03,Shane,9.4,7.2,9.3,12.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.04,Ricky,4.4,9.2,12.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.05,Jordan,6.4,12.2,8.3,5.1,"WR, RB, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.06,Luc,12.4,2.2,6.3,7.1,"QB, TE, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.07,James,3.4,11.2,1.3,9.1,"WR, TE, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.08,Jeremy,11.4,5.2,4.3,2.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.09,Matt,8.4,4.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.10,Tom,7.4,7.2,5.3,6.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.11,Tristan,10.4,10.2,7.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.12,Tom,7.4,7.2,5.3,6.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.06,Luc,12.4,4.2,3.3,7.1,"QB, TE, WR, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.07,James,3.4,6.2,4.3,9.1,"TE, WR, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.08,Jeremy,11.4,5.2,5.3,2.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.09,Matt,8.4,3.2,10.3,10.1,"RB, TE, QB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.10,Tom,7.4,8.2,6.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.11,Tristan,10.4,11.2,7.3,3.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.12,Tom,7.4,8.2,6.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
