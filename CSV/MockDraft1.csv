@@ -6,12 +6,12 @@ Pick 4",SELECTION,POSITION,TEAM
 1.01,Jeremy,2.4,2.2,10.3,2.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Tetairoa McMillan,WR,ARIZ
 1.02,Alex,6.4,5.2,4.3,11.1,"TE, QB, WR, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Luther Burden III,WR,MIZ
 1.03,Joe,5.4,4.2,1.3,1.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Ashton Jeanty,RB,BSU
-1.04,Jordan,8.4,10.2,5.3,6.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Quinshon Judkins,RB,OSU
+1.04,Jordan,8.4,10.2,5.3,8.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Quinshon Judkins,RB,OSU
 1.05,Alex,6.4,5.2,4.3,11.1,"TE, QB, WR, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Ollie Gordon II,RB,OKST
-1.06,Luc,10.4,3.2,9.3,8.1,"QB, RB, TE, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Shedeur Sanders,QB,COLO
+1.06,Luc,10.4,3.2,9.3,7.1,"QB, RB, TE, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Shedeur Sanders,QB,COLO
 1.07,James,3.4,6.2,7.3,3.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Emeka Egbuka,WR,OSU
 1.08,Jeremy,2.4,2.2,10.3,2.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Carson Beck,QB,UGA
-1.09,Jordan,8.4,10.2,5.3,6.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Evan Stewart,WR,ORE
+1.09,Jordan,8.4,10.2,5.3,8.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Evan Stewart,WR,ORE
 1.10,Matt,4.4,7.2,3.3,10.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,TreVeyon Henderson,RB,OSU
 1.11,Alex,6.4,5.2,4.3,11.1,"TE, QB, WR, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Quinn Ewers,QB,TEX
 1.12,Matt,4.4,7.2,3.3,10.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Jalen Milroe,QB,ALA
@@ -37,16 +37,16 @@ Pick 4",SELECTION,POSITION,TEAM
 3.06,Matt,4.4,7.2,3.3,10.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Matthew Golden,WR,TEX
 3.07,James,3.4,6.2,7.3,3.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Nic Anderson,WR,OKLA
 3.08,James,3.4,6.2,7.3,3.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Tory Horton,WR,CSU
-3.09,Tom,7.4,8.2,6.3,7.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Elic Ayomanor,WR,STAN
-3.10,Tom,7.4,8.2,6.3,7.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Cade Klubnik,QB,CLEM
+3.09,Tom,7.4,8.2,6.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Elic Ayomanor,WR,STAN
+3.10,Tom,7.4,8.2,6.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Cade Klubnik,QB,CLEM
 3.11,Tristan,9.4,9.2,8.3,4.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Kaytron Allen,RB,PSU
-3.12,Tom,7.4,8.2,6.3,7.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Damien Martinez,RB,MIAM
+3.12,Tom,7.4,8.2,6.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Damien Martinez,RB,MIAM
 3.13,Shane,12.4,12.2,11.3,12.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Squirrel White,WR,TENN
 4.01,Matt,4.4,7.2,3.3,10.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Oscar Delp,TE,UGA
 4.02,Alex,6.4,5.2,4.3,11.1,"TE, QB, WR, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Devin Brown,QB,OSU
 4.03,Shane,12.4,12.2,11.3,12.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,Dylan Sampson,RB,TENN
 4.04,Ricky,11.4,11.2,12.3,5.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.05,Jordan,8.4,10.2,5.3,6.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.05,Jordan,8.4,10.2,5.3,8.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.06,Matt,4.4,7.2,3.3,10.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.07,James,3.4,6.2,7.3,3.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.08,Jeremy,2.4,2.2,10.3,2.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
@@ -59,10 +59,10 @@ Pick 4",SELECTION,POSITION,TEAM
 5.03,Shane,12.4,12.2,11.3,12.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.04,Ricky,11.4,11.2,12.3,5.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.05,Alex,6.4,5.2,4.3,11.1,"TE, QB, WR, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.06,Luc,10.4,3.2,9.3,8.1,"QB, RB, TE, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.06,Luc,10.4,3.2,9.3,7.1,"QB, RB, TE, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.07,James,3.4,6.2,7.3,3.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.08,Jeremy,2.4,2.2,10.3,2.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.09,Tom,7.4,8.2,6.3,7.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.10,Tom,7.4,8.2,6.3,7.1,"WR, QB, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.09,Tom,7.4,8.2,6.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.10,Tom,7.4,8.2,6.3,6.1,"WR, QB, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.11,Tristan,9.4,9.2,8.3,4.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.12,Matt,4.4,7.2,3.3,10.1,"TE, WR, QB, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
