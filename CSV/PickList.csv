@@ -79,8 +79,8 @@ YEAR,ROUND,ROUNDPICK,OVERALLPICK,OWNER,ORIGINAL,DISPLAY,VALUE
 2025,2,6,18,Jeremy,Luc,Jeremy (via Luc),3103
 2025,2,7,19,James,James,James,3103
 2025,2,8,20,Lucas,Jeremy,Lucas (via Jeremy),3103
-2025,2,9,21,Lucas,Lucas,Lucas,2794
-2025,2,10,22,Lucas,Tom,Lucas (via Tom),2794
+2025,2,9,21,Jordan,Lucas,Jordan (via Lucas),2794
+2025,2,10,22,Jeremy,Tom,Jeremy (via Tom),2794
 2025,2,11,23,Tristan,Tristan,Tristan,2794
 2025,2,12,24,Jeremy,Joe,Jeremy (via Joe),2794
 2025,3,1,25,Matt,Matt,Matt,2294
@@ -151,7 +151,7 @@ YEAR,ROUND,ROUNDPICK,OVERALLPICK,OWNER,ORIGINAL,DISPLAY,VALUE
 2026,3,6,30,Joe,Luc,Joe (via Luc),0
 2026,3,7,31,James,James,James,0
 2026,3,8,32,Jeremy,Jeremy,Jeremy,0
-2026,3,9,33,Jeremy,Lucas,Jeremy (via Lucas),0
+2026,3,9,33,Jordan,Lucas,Jordan (via Lucas),0
 2026,3,10,34,Jeremy,Tom,Jeremy (via Tom),0
 2026,3,11,35,Lucas,Tristan,Lucas (via Tristan),0
 2026,3,12,36,Jeremy,Joe,Jeremy (via Joe),0
