@@ -10,8 +10,8 @@ Pick 4",SELECTION,POSITION,TEAM
 1.05,Luc,9.4,6.2,7.3,6.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Julian Sayin,QB,OSU
 1.06,Lucas,3.4,1.2,2.3,7.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,Cam Coleman,WR,AUB
 1.07,Ricky,4.4,5.2,11.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Micah Hudson,WR,TTU
-1.08,Tristan,11.4,7.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Kam Davis,RB,FSU
-1.09,Tom,8.4,8.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+1.08,Tristan,11.4,8.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,Kam Davis,RB,FSU
+1.09,Tom,8.4,7.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 1.10,Joe,2.4,2.2,3.3,1.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 1.11,Joe,2.4,2.2,3.3,1.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 1.12,James,1.4,11.2,5.3,10.1,"WR, TE, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
@@ -23,7 +23,7 @@ Pick 4",SELECTION,POSITION,TEAM
 2.05,Luc,9.4,6.2,7.3,6.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 2.06,Matt,10.4,10.2,10.3,8.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 2.07,Ricky,4.4,5.2,11.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-2.08,Tristan,11.4,7.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+2.08,Tristan,11.4,8.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 2.09,Lucas,3.4,1.2,2.3,7.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 2.10,Lucas,3.4,1.2,2.3,7.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 2.11,Lucas,3.4,1.2,2.3,7.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
@@ -36,8 +36,8 @@ Pick 4",SELECTION,POSITION,TEAM
 3.05,Luc,9.4,6.2,7.3,6.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 3.06,Matt,10.4,10.2,10.3,8.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 3.07,Ricky,4.4,5.2,11.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.08,Tristan,11.4,7.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-3.09,Tom,8.4,8.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.08,Tristan,11.4,8.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+3.09,Tom,8.4,7.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 3.10,Joe,2.4,2.2,3.3,1.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 3.11,Lucas,3.4,1.2,2.3,7.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 3.12,James,1.4,11.2,5.3,10.1,"WR, TE, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
@@ -49,8 +49,8 @@ Pick 4",SELECTION,POSITION,TEAM
 4.05,Luc,9.4,6.2,7.3,6.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.06,Matt,10.4,10.2,10.3,8.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.07,Ricky,4.4,5.2,11.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.08,Tristan,11.4,7.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-4.09,Tom,8.4,8.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.08,Tristan,11.4,8.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+4.09,Tom,8.4,7.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.10,Joe,2.4,2.2,3.3,1.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.11,Lucas,3.4,1.2,2.3,7.1,"TE, QB, RB, WR",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 4.12,James,1.4,11.2,5.3,10.1,"WR, TE, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
@@ -61,8 +61,8 @@ Pick 4",SELECTION,POSITION,TEAM
 5.05,Luc,9.4,6.2,7.3,6.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.06,Matt,10.4,10.2,10.3,8.1,"QB, RB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.07,Ricky,4.4,5.2,11.3,4.1,"RB, WR, QB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.08,Tristan,11.4,7.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.09,Tom,8.4,8.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.08,Tristan,11.4,8.2,6.3,3.1,"QB, WR, RB, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.09,Tom,8.4,7.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.10,Joe,2.4,2.2,3.3,1.1,"RB, QB, WR, TE",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
-5.11,Tom,8.4,8.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
+5.11,Tom,8.4,7.2,4.3,5.1,"QB, WR, TE, RB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
 5.12,James,1.4,11.2,5.3,10.1,"WR, TE, RB, QB",#N/A,#N/A,#N/A,#N/A,#N/A,???,?,?
