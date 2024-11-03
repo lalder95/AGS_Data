@@ -1,13 +1,13 @@
 Name,QB1,RB1,RB2,WR1,WR2,TE1,FLEX1,FLEX2,SUPERFLEX,QB1 Value,RB1 Value,RB2 Value,WR1 Value,WR2 Value,TE1 Value,Flex1 Value,Flex2 Value,SuperFlex Value,Starter Value,Bench Value
-Joe,Jordan Love,Kyren Williams,Jonathan Taylor,Puka Nacua,Garrett Wilson,Dalton Kincaid,DeVonta Smith,James Cook,Brock Purdy,7600,6367,5827,7281,6235,4779,5427,5362,6005,54883,38354
-Lucas,Josh Allen,Bijan Robinson,Saquon Barkley,Justin Jefferson,Ja'Marr Chase,Travis Kelce,Chris Olave,Aaron Jones,Patrick Mahomes,9994,7694,6465,9991,9146,3366,5412,3369,7223,62660,25080
-James,Lamar Jackson,Breece Hall,Alvin Kamara,Drake London,Chris Godwin,Dallas Goedert,Travis Etienne,Zach Charbonnet,Joe Burrow,9991,7078,4143,6565,3630,2894,3397,2925,7437,48060,22347
-Tom,Jalen Hurts,Christian McCaffrey,David Montgomery,DK Metcalf,Tyreek Hill,Mark Andrews,James Conner,Christian Watson,Joe Mixon,7834,5302,4580,5610,5183,3393,3201,2826,4502,42431,34251
-Jordan,Trevor Lawrence,Jahmyr Gibbs,De'Von Achane,Zay Flowers,Brandon Aiyuk,Kyle Pitts,Tank Bigsby,Davante Adams,Isiah Pacheco,4777,7820,6094,4987,4276,5160,3647,3070,4396,44227,23512
-Jeremy,Derek Carr,Chase Brown,Ty Chandler,Rashee Rice,Josh Downs,David Njoku,Isaiah Likely,Wan'Dale Robinson,Cade Otton,2472,3402,1666,5490,3993,3722,3273,2827,3593,30438,25880
-Tristan,Dak Prescott,Derrick Henry,Brian Robinson,George Pickens,Deebo Samuel,George Kittle,Amari Cooper,Darnell Mooney,Cole Kmet,4491,5304,4415,5205,4279,4702,3157,2971,3337,37861,24422
-Matt,Baker Mayfield,Tony Pollard,Dameon Pierce,Jaxon Smith-Njigba,Cooper Kupp,Dalton Schultz,DeMario Douglas,Keenan Allen,Diontae Johnson,5321,3191,1545,4615,3809,2493,2626,2200,2946,28746,19924
-Luc,Russell Wilson,Josh Jacobs,Najee Harris,CeeDee Lamb,Jaylen Waddle,Sam LaPorta,Stefon Diggs,Tyjae Spears,Tank Dell,2498,4579,3524,8862,4858,5916,2764,2554,4371,39926,22148
-Ricky,Kyler Murray,Jordan Mason,Clyde Edwards-Helaire,Tee Higgins,Jordan Addison,Trey McBride,Mike Evans,Romeo Doubs,Jameson Williams,6389,2835,990,4999,3995,6499,3742,3216,3777,36442,27787
-Alex,Will Levis,Emanuel Wilson,Antonio Gibson,Nico Collins,Michael Pittman,Hunter Henry,Juwan Johnson,Will Dissly,Jakobi Meyers,2115,1713,1607,7452,3616,2446,1715,1419,2577,24660,12084
-Shane,Jared Goff,Rhamondre Stevenson,Devin Singletary,Jayden Reed,Terry McLaurin,Evan Engram,Christian Kirk,Justice Hill,Dontayvion Wicks,5180,3133,2059,5461,4327,3424,2329,1859,2796,30568,10184
+Joe,Jordan Love,Kyren Williams,Jonathan Taylor,Puka Nacua,Garrett Wilson,Dalton Kincaid,DeVonta Smith,James Cook,Brock Purdy,7592,6355,5827,7307,6314,4755,5443,5346,5978,54917,38476
+Lucas,Josh Allen,Bijan Robinson,Saquon Barkley,Justin Jefferson,Ja'Marr Chase,Travis Kelce,Chris Olave,Aaron Jones,Patrick Mahomes,9991,7697,6484,9997,9153,3345,5425,3334,7208,62634,25095
+James,Lamar Jackson,Breece Hall,Alvin Kamara,Drake London,Chris Godwin,Dallas Goedert,Travis Etienne,Zach Charbonnet,Joe Burrow,9992,7060,4135,6541,3654,2888,3422,2886,7414,47992,22393
+Tom,Jalen Hurts,Christian McCaffrey,David Montgomery,DK Metcalf,Tyreek Hill,Mark Andrews,James Conner,Christian Watson,Joe Mixon,7898,5265,4565,5592,5203,3412,3226,2824,4528,42513,34348
+Jordan,Trevor Lawrence,Jahmyr Gibbs,De'Von Achane,Zay Flowers,Brandon Aiyuk,Kyle Pitts,Tank Bigsby,Davante Adams,Isiah Pacheco,4793,7834,6096,4972,4306,5151,3642,3087,4383,44264,23502
+Jeremy,Derek Carr,Chase Brown,Ty Chandler,Rashee Rice,Josh Downs,David Njoku,Isaiah Likely,Wan'Dale Robinson,Cade Otton,2467,3429,1664,5488,4016,3682,3257,2828,3584,30415,25922
+Tristan,Dak Prescott,Derrick Henry,Brian Robinson,George Pickens,Deebo Samuel,George Kittle,Amari Cooper,Darnell Mooney,Cole Kmet,4466,5281,4393,5192,4284,4735,3141,2980,3349,37821,24301
+Matt,Baker Mayfield,Tony Pollard,Dameon Pierce,Jaxon Smith-Njigba,Cooper Kupp,Dalton Schultz,DeMario Douglas,Keenan Allen,Diontae Johnson,5310,3161,1530,4582,3779,2492,2603,2183,2921,28561,20137
+Luc,Russell Wilson,Josh Jacobs,Najee Harris,CeeDee Lamb,Jaylen Waddle,Sam LaPorta,Stefon Diggs,Tyjae Spears,Tank Dell,2511,4564,3510,8856,4898,5914,2774,2504,4405,39936,22164
+Ricky,Kyler Murray,Jordan Mason,Clyde Edwards-Helaire,Tee Higgins,Jordan Addison,Trey McBride,Mike Evans,Romeo Doubs,Jameson Williams,6386,2821,986,4977,3928,6505,3716,3223,3770,36312,27730
+Alex,Will Levis,Emanuel Wilson,Antonio Gibson,Nico Collins,Michael Pittman,Hunter Henry,Juwan Johnson,Will Dissly,Jakobi Meyers,2125,1706,1593,7448,3637,2446,1727,1454,2614,24750,12174
+Shane,Jared Goff,Rhamondre Stevenson,Devin Singletary,Jayden Reed,Terry McLaurin,Evan Engram,Christian Kirk,Justice Hill,Dontayvion Wicks,5223,3155,2042,5466,4329,3412,2317,1830,2801,30575,10197
