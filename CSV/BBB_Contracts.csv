@@ -1,7 +1,15 @@
 Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First Year,Contract Final Year,Contract Duration,Contract Year,Year 1 Salary,Year 2 Salary,Year 3 Salary,Year 4 Salary,Contract Original Team,Contract Current Team,Status,Relative Year 1 Salary,Relative Year 2 Salary,Relative Year 3 Salary,Relative Year 4 Salary,Startup Contract?,Cut?,Position,Dead Cap Rate,Commish Notes,Relative Year 1 Dead,Relative Year 2 Dead,Relative Year 3 Dead,Relative Year 4 Dead,CreatedByTransactionID,CreatedByTransactionType,Duplicate?,Last Trade Transaction
+138,Ben Roethlisberger,Waiver,45645.87103,2024,2024,1,1,1,0,0,0,1,1,Active,1,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175575953754378240,Waiver,FALSE,
+515,Rob Gronkowski,Waiver,45645.87065,2024,2024,1,1,1,0,0,0,1,1,Active,1,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1175575816067960832,Waiver,FALSE,
+232,Frank Gore,Waiver,45645.87027,2024,2024,1,1,1,0,0,0,1,1,Active,1,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1175575676888371200,Waiver,FALSE,
+223,Larry Fitzgerald,Waiver,45645.87009,2024,2024,1,1,1,0,0,0,1,1,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1175575612849737728,Waiver,FALSE,
+167,Tom Brady,Waiver,45645.86905,2024,2024,1,1,1,0,0,0,1,1,Active,1,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175575234091503616,Waiver,FALSE,
+4972,Mason Rudolph,Waiver,45645.19203,2024,2024,1,1,1,0,0,0,9,9,Active,1,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175329891034677248,Waiver,FALSE,
+6963,Patrick Taylor,Waiver,45639.02179,2024,2024,1,1,1,0,0,0,10,10,Active,1,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1173093870578696192,Waiver,FALSE,
+8177,Grant Calcaterra,Waiver,45633.69772,2024,2024,1,1,1,0,0,0,4,4,Active,1,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1171164491812290560,Waiver,FALSE,
 9487,Parker Washington,Waiver,45631.80784,2024,2024,1,1,1,0,0,0,7,7,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1170479621708558336,Waiver,FALSE,
 11651,Isaac Guerendo,Waiver,45630.33477,2024,2024,1,1,72,0,0,0,1,1,Active,72,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1169442024488132608,Waiver,FALSE,
-9227,Israel Abanikanda,Waiver,45630.33477,2024,2024,1,1,2,0,0,0,10,10,Active,2,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1169848453409751040,Waiver,FALSE,
+9227,Israel Abanikanda,Waiver,45630.33477,2024,2024,1,1,2,0,0,0,10,10,Expired,2,0,0,0,FALSE,TRUE,RB,1,,2,0,0,0,1169848453409751040,Waiver,FALSE,
 11834,Devaughn Vele,Waiver,45623.33527,2024,2024,1,1,1,0,0,0,7,7,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1166892731969658880,Waiver,FALSE,
 5010,Will Dissly,Waiver,45620.661,2024,2024,1,1,1,0,0,0,9,9,Active,1,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1166440140982571008,Waiver,FALSE,
 3357,Brandon Allen,Waiver,45619.60652,2024,2024,1,1,1,0,0,0,1,1,Expired,1,0,0,0,FALSE,TRUE,QB,1,,1,0,0,0,1166058010611933184,Waiver,FALSE,
@@ -24,7 +32,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 5917,Mecole Hardman,Waiver,45588.2935,2024,2024,1,1,1,0,0,0,2,2,Expired,1,0,0,0,FALSE,TRUE,WR,1,,1,0,0,0,1154444279650095104,Waiver,FALSE,
 10444,Cedric Tillman,Waiver,45588.2935,2024,2024,1,1,1,0,0,0,2,2,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154444320058093568,Waiver,FALSE,
 2306,Jameis Winston,Waiver,45588.2935,2024,2024,1,1,9,0,0,0,1,9,Active,9,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1154662637356089344,Waiver,FALSE,1.15483E+18
-7083,Tyler Huntley,Waiver,45582.57787,2024,2024,1,1,5,0,0,0,6,6,Active,5,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1152266228933881856,Waiver,FALSE,
+7083,Tyler Huntley,Waiver,45582.57787,2024,2024,1,1,5,0,0,0,6,6,Expired,5,0,0,0,FALSE,TRUE,QB,1,,5,0,0,0,1152266228933881856,Waiver,FALSE,
 11575,Ray Davis,Waiver,45581.54706,2024,2024,1,1,1,0,0,0,10,10,Expired,1,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1152265724191166464,Waiver,FALSE,
 9506,Sean Tucker,Waiver,45581.29302,2024,2024,1,1,16,0,0,0,1,7,Active,16,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1153098940963811328-9506,Waiver,TRUE,1.1531E+18
 9506,Sean Tucker,Waiver,45581.29302,2024,2024,1,1,16,0,0,0,1,1,Active,16,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1151975124023918592,Waiver,TRUE,
@@ -36,7 +44,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 11655,Tyrone Tracy,Waiver,45570.07058,2024,2024,1,1,1,0,0,0,4,4,Active,1,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1148106790140215296,Waiver,FALSE,
 10213,Tre Tucker,Waiver,45569.73352,2024,2024,1,1,1,0,0,0,11,11,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1147984643757551616,Waiver,FALSE,
 7593,Trey Sermon,Waiver,45569.7328,2024,2024,1,1,1,0,0,0,11,11,Expired,1,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1147984380770496512,Waiver,FALSE,
-11623,Jordan Whittington,Waiver,45569.73269,2024,2024,1,1,1,0,0,0,11,11,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1147984340526149632,Waiver,FALSE,
+11623,Jordan Whittington,Waiver,45569.73269,2024,2024,1,1,1,0,0,0,11,11,Expired,1,0,0,0,FALSE,TRUE,WR,1,,1,0,0,0,1147984340526149632,Waiver,FALSE,
 19,Joe Flacco,Waiver,45567.29319,2024,2024,1,1,2,0,0,0,4,4,Active,2,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1146352426757423104,Waiver,FALSE,
 7083,Tyler Huntley,Waiver,45563.69242,2024,2024,1,1,1,0,0,0,1,1,Expired,1,0,0,0,FALSE,TRUE,QB,1,,1,0,0,0,1145795419092430848,Waiver,FALSE,
 10226,Andrei Iosivas,Waiver,45561.70454,2024,2024,1,1,1,0,0,0,8,8,Expired,1,0,0,0,FALSE,TRUE,WR,1,,1,0,0,0,1145075036647206912,Waiver,FALSE,
@@ -51,14 +59,14 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 8180,Jalen Nailor,Waiver,45553.29318,2024,2024,1,1,2,0,0,0,1,7,Active,2,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1141418792669650944,Waiver,FALSE,1.1549E+18
 829,Andy Dalton,Waiver,45553.29318,2024,2024,1,1,16,0,0,0,1,9,Expired,16,0,0,0,FALSE,TRUE,QB,1,,16,0,0,0,1141473651871608832,Waiver,FALSE,1.15044E+18
 4098,Kareem Hunt,Waiver,45551.91506,2024,2024,1,1,1,0,0,0,6,6,Active,1,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1141527446290817024,Waiver,FALSE,
-8161,Malik Willis,Waiver,45547.65929,2024,2024,1,1,1,0,0,0,1,11,Active,1,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1139985212462456832,Waiver,FALSE,1.14072E+18
+8161,Malik Willis,Waiver,45547.65929,2024,2024,1,1,1,0,0,0,1,11,Expired,1,0,0,0,FALSE,TRUE,QB,1,,1,0,0,0,1139985212462456832,Waiver,FALSE,1.14072E+18
 5185,Allen Lazard,Waiver,45546.29319,2024,2024,1,1,3,0,0,0,10,10,Active,3,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1139448349108740096,Waiver,FALSE,
 8117,Jalen Tolbert,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,8,8,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1134294766612557824,Waiver,FALSE,
 6938,Cam Akers,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,1,1,Expired,1,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1134299813299834880,Waiver,FALSE,
 8116,Pierre Strong,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,1,1,Expired,1,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1134299789715451904,Waiver,FALSE,
 4029,Dalvin Cook,Waiver,45538.29228,2024,2024,1,1,7,0,0,0,1,1,Expired,7,0,0,0,FALSE,TRUE,RB,1,,7,0,0,0,1134299600501948416,Waiver,FALSE,
 11435,Emanuel Wilson,Waiver,45538.29228,2024,2024,1,1,10,0,0,0,1,1,Active,10,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299520193736704,Waiver,FALSE,
-4171,Josh Reynolds,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,8,8,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1134294891091177472,Waiver,FALSE,
+4171,Josh Reynolds,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,8,8,Expired,1,0,0,0,FALSE,TRUE,WR,1,,1,0,0,0,1134294891091177472,Waiver,FALSE,
 8408,Jordan Mason,Waiver,45538.29228,2024,2024,1,1,16,0,0,0,1,8,Active,16,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299736632233984,Waiver,FALSE,1.15194E+18
 11655,Tyrone Tracy,Waiver,45426.29591,2024,2024,1,1,4,0,0,0,1,1,Expired,4,0,0,0,FALSE,TRUE,RB,1,,4,0,0,0,1095814818281385984,Waiver,FALSE,
 10859,Sam LaPorta,Base,45423,2024,2025,2,1,28,30.8,0,0,9,9,Active,28,30.8,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_01,Startup Draft,FALSE,
@@ -171,7 +179,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 8110,Jake Ferguson,Base,45423,2024,2027,4,1,2,2.2,2.5,2.8,10,10,Active,2,2.2,2.5,2.8,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_108,Startup Draft,FALSE,
 4035,Alvin Kamara,Base,45423,2024,2026,3,1,2,2.2,2.5,0,5,5,Active,2,2.2,2.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_109,Startup Draft,FALSE,
 8154,Brian Robinson,Base,45423,2024,2026,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_110,Startup Draft,FALSE,
-2028,Derek Carr,Base,45423,2024,2025,2,1,1,1.1,0,0,9,9,Active,1,1.1,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_111,Startup Draft,FALSE,
+2028,Derek Carr,Base,45423,2024,2025,2,1,1,1.1,0,0,9,9,Expired,1,1.1,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_111,Startup Draft,FALSE,
 4137,James Conner,Base,45423,2024,2026,3,1,1,1.1,1.3,0,3,3,Active,1,1.1,1.3,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_112,Startup Draft,FALSE,
 11439,Jaleel McLaughlin,Base,45423,2024,2025,2,1,1,1.1,0,0,11,11,Active,1,1.1,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_113,Startup Draft,FALSE,
 5001,Dalton Schultz,Base,45423,2024,2025,2,1,2,2.2,0,0,6,6,Active,2,2.2,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_114,Startup Draft,FALSE,
@@ -188,7 +196,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 6826,Cole Kmet,Base,45423,2024,2025,2,1,1,1.1,0,0,11,1,Active,1,1.1,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1107336472975347712-6826,Startup Draft,FALSE,1.10734E+18
 4981,Calvin Ridley,Base,45423,2024,2025,2,1,2,2.2,0,0,11,11,Active,2,2.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_126,Startup Draft,FALSE,
 7600,Pat Freiermuth,Base,45423,2024,2025,2,1,1,1.1,0,0,8,8,Active,1,1.1,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_127,Startup Draft,FALSE,
-8139,Zamir White,Base,45423,2024,2026,3,1,3,3.3,3.7,0,2,2,Active,3,3.3,3.7,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_128,Startup Draft,FALSE,
+8139,Zamir White,Base,45423,2024,2026,3,1,3,3.3,3.7,0,2,2,Expired,3,3.3,3.7,0,TRUE,TRUE,RB,0.5,Startup Draft,1.5,1.7,1.9,0,StartupDraft_128,Startup Draft,FALSE,
 8167,Christian Watson,Base,45423,2024,2027,4,1,2,2.2,2.5,2.8,10,10,Active,2,2.2,2.5,2.8,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_129,Startup Draft,FALSE,
 8228,Jaylen Warren,Base,45423,2024,2027,4,1,1,1.1,1.3,1.5,7,7,Active,1,1.1,1.3,1.5,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_130,Startup Draft,FALSE,
 4988,Nick Chubb,Base,45423,2024,2026,3,1,1,1.1,1.3,0,10,9,Active,1,1.1,1.3,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1154831004835020800-4988,Startup Draft,FALSE,1.15483E+18
@@ -211,7 +219,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 2749,Raheem Mostert,Base,45423,2024,2025,2,1,1,1.1,0,0,3,3,Active,1,1.1,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_148,Startup Draft,FALSE,
 6845,Zack Moss,Base,45423,2024,2027,4,1,2,2.2,2.5,2.8,10,10,Active,2,2.2,2.5,2.8,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_149,Startup Draft,FALSE,
 2374,Tyler Lockett,Base,45423,2024,2025,2,1,1,1.1,0,0,6,6,Active,1,1.1,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_150,Startup Draft,FALSE,
-8119,Jahan Dotson,Base,45423,2024,2025,2,1,1,1.1,0,0,8,8,Active,1,1.1,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_151,Startup Draft,FALSE,
+8119,Jahan Dotson,Base,45423,2024,2025,2,1,1,1.1,0,0,8,8,Expired,1,1.1,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_151,Startup Draft,FALSE,
 6783,Jerry Jeudy,Base,45423,2024,2026,3,1,1,1.1,1.3,0,12,1,Active,1,1.1,1.3,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154488961423917056-6783,Startup Draft,FALSE,1.15449E+18
 9757,Kendre Miller,Base,45423,2024,2026,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_153,Startup Draft,FALSE,
 11627,Troy Franklin,Base,45423,2024,2026,3,1,1,1.1,1.3,0,7,7,Active,1,1.1,1.3,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_154,Startup Draft,FALSE,
@@ -226,7 +234,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 9754,Quentin Johnston,Base,45423,2024,2025,2,1,1,1.1,0,0,8,3,Active,1,1.1,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-9754,Startup Draft,FALSE,1.12619E+18
 9482,Michael Mayer,Base,45423,2024,2026,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_164,Startup Draft,FALSE,
 8143,Jerome Ford,Base,45423,2024,2026,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_165,Startup Draft,FALSE,
-3225,Tyler Boyd,Base,45423,2024,2026,3,1,1,1.1,1.3,0,7,7,Active,1,1.1,1.3,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_166,Startup Draft,FALSE,
+3225,Tyler Boyd,Base,45423,2024,2026,3,1,1,1.1,1.3,0,7,7,Expired,1,1.1,1.3,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_166,Startup Draft,FALSE,
 10232,Michael Wilson,Base,45423,2024,2027,4,1,1,1.1,1.3,1.5,10,10,Active,1,1.1,1.3,1.5,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_167,Startup Draft,FALSE,
 8676,Rashid Shaheed,Base,45423,2024,2026,3,1,1,1.1,1.3,0,5,5,Active,1,1.1,1.3,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_168,Startup Draft,FALSE,
 11645,Javon Baker,Base,45423,2024,2025,2,1,1,1.1,0,0,4,4,Active,1,1.1,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_169,Startup Draft,FALSE,
@@ -292,7 +300,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 11651,Isaac Guerendo,Base,45423,2024,2025,2,1,1,1.1,0,0,9,9,Expired,1,1.1,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_229,Startup Draft,FALSE,
 11597,Theo Johnson,Base,45423,2024,2026,3,1,1,1.1,1.3,0,3,3,Expired,1,1.1,1.3,0,TRUE,TRUE,TE,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_230,Startup Draft,FALSE,
 6820,Clyde Edwards-Helaire,Base,45423,2024,2025,2,1,1,1.1,0,0,11,11,Expired,1,1.1,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_231,Startup Draft,FALSE,
-8172,Greg Dulcich,Base,45423,2024,2025,2,1,1,1.1,0,0,8,8,Active,1,1.1,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_232,Startup Draft,FALSE,
+8172,Greg Dulcich,Base,45423,2024,2025,2,1,1,1.1,0,0,8,8,Expired,1,1.1,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_232,Startup Draft,FALSE,
 5987,Alexander Mattison,Base,45423,2024,2025,2,1,1,1.1,0,0,12,12,Active,1,1.1,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_233,Startup Draft,FALSE,
 11567,Jordan Travis,Base,45423,2024,2025,2,1,1,1.1,0,0,5,5,Expired,1,1.1,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_234,Startup Draft,FALSE,
 4993,Mike Gesicki,Base,45423,2024,2025,2,1,1,1.1,0,0,9,9,Active,1,1.1,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_235,Startup Draft,FALSE,
