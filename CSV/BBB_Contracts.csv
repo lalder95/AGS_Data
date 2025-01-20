@@ -139,7 +139,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 11564,Drake Maye,Base,45423,2024,2026,3,1,17,18.7,20.6,0,8,8,Active,17,18.7,20.6,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_67,Startup Draft,FALSE,,22
 9502,Tank Dell,Base,45423,2024,2027,4,1,9,9.9,10.9,12,7,1,Active,9,9.9,10.9,12,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1153827347214417920-9502,Startup Draft,FALSE,1.15383E+18,25
 11559,Michael Penix,Base,45423,2024,2027,4,1,5,5.5,6.1,6.8,1,1,Active,5,5.5,6.1,6.8,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_69,Startup Draft,FALSE,,24
-11565,J.J. McCarthy,Base,45423,2024,2026,3,1,13,14.3,15.8,0,7,7,Active,13,14.3,15.8,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_70,Startup Draft,FALSE,,21
+11565,J.J. McCarthy,Base,45423,2024,2026,3,1,13,14.3,15.8,0,7,7,Active,13,14.3,15.8,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_70,Startup Draft,FALSE,,22
 6768,Tua Tagovailoa,Base,45423,2024,2027,4,1,16,17.6,19.4,21.4,6,6,Active,16,17.6,19.4,21.4,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_71,Startup Draft,FALSE,,26
 3198,Derrick Henry,Base,45423,2024,2025,2,1,13,14.3,0,0,6,6,Active,13,14.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_72,Startup Draft,FALSE,,31
 5846,DK Metcalf,Base,45423,2024,2027,4,1,9,9.9,10.9,12,10,10,Active,9,9.9,10.9,12,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_73,Startup Draft,FALSE,,27
@@ -272,7 +272,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 4082,Curtis Samuel,Base,45423,2024,2026,3,1,1,1.1,1.3,0,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_200,Startup Draft,FALSE,,28
 11618,Jalen McMillan,Base,45423,2024,2025,2,1,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_201,Startup Draft,FALSE,,23
 8129,Dameon Pierce,Base,45423,2024,2025,2,1,1,1.1,0,0,9,9,Active,1,1.1,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_202,Startup Draft,FALSE,,24
-11576,Braelon Allen,Base,45423,2024,2027,4,1,1,1.1,1.3,1.5,3,3,Active,1,1.1,1.3,1.5,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_203,Startup Draft,FALSE,,20
+11576,Braelon Allen,Base,45423,2024,2027,4,1,1,1.1,1.3,1.5,3,3,Active,1,1.1,1.3,1.5,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_203,Startup Draft,FALSE,,21
 6945,Antonio Gibson,Base,45423,2024,2025,2,1,1,1.1,0,0,11,11,Active,1,1.1,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_204,Startup Draft,FALSE,,26
 2505,Darren Waller,Base,45423,2024,2027,4,1,1,1.1,1.3,1.5,6,6,Expired,0,0,0,0,TRUE,TRUE,TE,0,Retired,0,0,0,0,StartupDraft_205,Startup Draft,FALSE,,31
 8230,Ty Chandler,Base,45423,2024,2025,2,1,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_206,Startup Draft,FALSE,,26
