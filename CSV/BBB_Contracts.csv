@@ -61,7 +61,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 4098,Kareem Hunt,Waiver,45551.91506,2024,2024,1,1,1,0,0,0,6,6,Active,1,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1141527446290817024,Waiver,FALSE,,29,tylercrain
 8161,Malik Willis,Waiver,45547.65929,2024,2024,1,1,1,0,0,0,1,11,Expired,0,0,0,0,FALSE,TRUE,QB,1,,1,0,0,0,1139985212462456832,Waiver,FALSE,1.14072E+18,25,Schoontang
 5185,Allen Lazard,Waiver,45546.29319,2024,2024,1,1,3,0,0,0,10,10,Active,3,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1139448349108740096,Waiver,FALSE,,29,jwalwer81
-8117,Jalen Tolbert,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,8,8,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1134294766612557824,Waiver,FALSE,,25,EthanL21
+8117,Jalen Tolbert,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,8,8,Active,1,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1134294766612557824,Waiver,FALSE,,26,EthanL21
 6938,Cam Akers,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1134299813299834880,Waiver,FALSE,,25,lalder
 8116,Pierre Strong,Waiver,45538.29228,2024,2024,1,1,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1134299789715451904,Waiver,FALSE,,26,lalder
 4029,Dalvin Cook,Waiver,45538.29228,2024,2024,1,1,7,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,7,0,0,0,1134299600501948416,Waiver,FALSE,,29,lalder
@@ -175,7 +175,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 11635,Ladd McConkey,Base,45423,2024,2027,4,1,5,5.5,6.1,6.8,10,9,Active,5,5.5,6.1,6.8,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154831004835020800-11635,Startup Draft,FALSE,1.15483E+18,23,mlthomas5095
 1479,Keenan Allen,Base,45423,2024,2025,2,1,3,3.3,0,0,1,5,Active,3,3.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1119737220165918720-1479,Startup Draft,FALSE,1.11974E+18,32,Chewy2552
 9508,Tyjae Spears,Base,45423,2024,2027,4,1,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0.7,0.8,StartupDraft_106,Startup Draft,FALSE,,23,Vikingsfan80
-4037,Chris Godwin,Base,45423,2024,2025,2,1,2,2.2,0,0,1,8,Active,2,2.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1149765488134803456-4037,Startup Draft,FALSE,1.14977E+18,28,EthanL21
+4037,Chris Godwin,Base,45423,2024,2025,2,1,2,2.2,0,0,1,8,Active,2,2.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1149765488134803456-4037,Startup Draft,FALSE,1.14977E+18,29,EthanL21
 8110,Jake Ferguson,Base,45423,2024,2027,4,1,2,2.2,2.5,2.8,10,10,Active,2,2.2,2.5,2.8,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_108,Startup Draft,FALSE,,26,jwalwer81
 4035,Alvin Kamara,Base,45423,2024,2026,3,1,2,2.2,2.5,0,5,5,Active,2,2.2,2.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_109,Startup Draft,FALSE,,29,Chewy2552
 8154,Brian Robinson,Base,45423,2024,2026,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_110,Startup Draft,FALSE,,25,aintEZBNwheezE
