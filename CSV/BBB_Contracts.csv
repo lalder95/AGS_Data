@@ -56,7 +56,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 11582,Carson Steele,Waiver,45553.29318,2024,2024,1,1,12,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,12,0,0,0,1141947780433354752,Waiver,FALSE,,22,jwalwer81
 4147,Samaje Perine,Waiver,45553.29318,2024,2024,1,1,5,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,5,0,0,0,1141411080393203712,Waiver,FALSE,,29,lalder
 8206,Skylar Thompson,Waiver,45553.29318,2024,2024,1,1,2,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,2,0,0,0,1140715728975360000,Waiver,FALSE,,27,lalder
-8180,Jalen Nailor,Waiver,45553.29318,2024,2024,1,1,2,0,0,0,1,7,Active,2,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1141418792669650944,Waiver,FALSE,1.1549E+18,25,Vikingsfan80
+8180,Jalen Nailor,Waiver,45553.29318,2024,2024,1,1,2,0,0,0,1,7,Active,2,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1141418792669650944,Waiver,FALSE,1.1549E+18,26,Vikingsfan80
 829,Andy Dalton,Waiver,45553.29318,2024,2024,1,1,16,0,0,0,1,9,Expired,0,0,0,0,FALSE,TRUE,QB,1,,16,0,0,0,1141473651871608832,Waiver,FALSE,1.15044E+18,37,mlthomas5095
 4098,Kareem Hunt,Waiver,45551.91506,2024,2024,1,1,1,0,0,0,6,6,Active,1,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1141527446290817024,Waiver,FALSE,,29,tylercrain
 8161,Malik Willis,Waiver,45547.65929,2024,2024,1,1,1,0,0,0,1,11,Expired,0,0,0,0,FALSE,TRUE,QB,1,,1,0,0,0,1139985212462456832,Waiver,FALSE,1.14072E+18,25,Schoontang
@@ -112,7 +112,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 10236,Dalton Kincaid,Base,45423,2024,2026,3,1,19,20.9,23,0,11,11,Active,19,20.9,23,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_41,Startup Draft,FALSE,,25,Schoontang
 9226,De'Von Achane,Base,45423,2024,2026,3,1,25,27.5,30.3,0,1,11,Active,25,27.5,30.3,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1107336472975347712-9226,Startup Draft,FALSE,1.10734E+18,23,Schoontang
 6803,Brandon Aiyuk,Base,45423,2024,2027,4,1,23,25.3,27.9,30.7,2,2,Active,23,25.3,27.9,30.7,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_43,Startup Draft,FALSE,,26,aintEZBNwheezE
-8205,Isiah Pacheco,Base,45423,2024,2027,4,1,22,24.2,26.7,29.4,2,2,Active,22,24.2,26.7,29.4,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_44,Startup Draft,FALSE,,25,aintEZBNwheezE
+8205,Isiah Pacheco,Base,45423,2024,2027,4,1,22,24.2,26.7,29.4,2,2,Active,22,24.2,26.7,29.4,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_44,Startup Draft,FALSE,,26,aintEZBNwheezE
 8151,Kenneth Walker,Base,45423,2024,2027,4,1,22,24.2,26.7,29.4,2,2,Active,22,24.2,26.7,29.4,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_45,Startup Draft,FALSE,,24,aintEZBNwheezE
 8136,Rachaad White,Base,45423,2024,2026,3,1,30,33,36.3,0,4,11,Active,30,33,36.3,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1149765488134803456-8136,Startup Draft,FALSE,1.14977E+18,26,Schoontang
 7523,Trevor Lawrence,Base,45423,2024,2027,4,1,33,36.3,40,44,2,2,Active,33,36.3,40,44,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_47,Startup Draft,FALSE,,25,aintEZBNwheezE
@@ -139,7 +139,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 9502,Tank Dell,Base,45423,2024,2027,4,1,9,9.9,10.9,12,7,1,Active,9,9.9,10.9,12,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1153827347214417920-9502,Startup Draft,FALSE,1.15383E+18,25,lalder
 11559,Michael Penix,Base,45423,2024,2027,4,1,5,5.5,6.1,6.8,1,1,Active,5,5.5,6.1,6.8,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_69,Startup Draft,FALSE,,24,lalder
 11565,J.J. McCarthy,Base,45423,2024,2026,3,1,13,14.3,15.8,0,7,7,Active,13,14.3,15.8,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_70,Startup Draft,FALSE,,22,Vikingsfan80
-6768,Tua Tagovailoa,Base,45423,2024,2027,4,1,16,17.6,19.4,21.4,6,6,Active,16,17.6,19.4,21.4,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_71,Startup Draft,FALSE,,26,tylercrain
+6768,Tua Tagovailoa,Base,45423,2024,2027,4,1,16,17.6,19.4,21.4,6,6,Active,16,17.6,19.4,21.4,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_71,Startup Draft,FALSE,,27,tylercrain
 3198,Derrick Henry,Base,45423,2024,2025,2,1,13,14.3,0,0,6,6,Active,13,14.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_72,Startup Draft,FALSE,,31,tylercrain
 5846,DK Metcalf,Base,45423,2024,2027,4,1,9,9.9,10.9,12,10,10,Active,9,9.9,10.9,12,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_73,Startup Draft,FALSE,,27,jwalwer81
 10222,Jayden Reed,Base,45423,2024,2027,4,1,6,6.6,7.3,8.1,2,2,Active,6,6.6,7.3,8.1,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_74,Startup Draft,FALSE,,24,aintEZBNwheezE
