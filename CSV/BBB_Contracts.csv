@@ -10,10 +10,10 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 8177,Grant Calcaterra,Waiver,45633.69772,2024,2024,1,2,1,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1171164491812290560,Waiver,FALSE,,26,Delusional1
 9487,Parker Washington,Waiver,45631.80784,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1170479621708558336,Waiver,FALSE,,22,Vikingsfan80
 11651,Isaac Guerendo,Waiver,45630.33477,2024,2024,1,2,72,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1169442024488132608,Waiver,FALSE,,24,lalder
-9227,Israel Abanikanda,Waiver,45630.33477,2024,2024,1,2,2,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,2,0,0,0,1169848453409751040,Waiver,FALSE,,22,jwalwer81
+9227,Israel Abanikanda,Waiver,45630.33477,2024,2024,1,2,2,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1169848453409751040,Waiver,FALSE,,22,jwalwer81
 11834,Devaughn Vele,Waiver,45623.33527,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1166892731969658880,Waiver,FALSE,,27,Vikingsfan80
 5010,Will Dissly,Waiver,45620.661,2024,2024,1,2,1,0,0,0,9,9,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1166440140982571008,Waiver,FALSE,,28,mlthomas5095
-3357,Brandon Allen,Waiver,45619.60652,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,1,0,0,0,1166058010611933184,Waiver,FALSE,,32,lalder
+3357,Brandon Allen,Waiver,45619.60652,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1166058010611933184,Waiver,FALSE,,32,lalder
 5854,Drew Lock,Waiver,45619.19882,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1165910268342296576,Waiver,FALSE,,28,jwalwer81
 11579,Audric Estime,Waiver,45618.02103,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1165483450938425344,Waiver,FALSE,,21,Chewy2552
 11292,Tommy DeVito,Waiver,45614.71512,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1164285427726004224,Waiver,FALSE,,26,Chewy2552
@@ -22,53 +22,53 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 4234,Noah Brown,Waiver,45606.01071,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1161131055810723841,Waiver,FALSE,,29,lalder
 6938,Cam Akers,Waiver,45602.58346,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159889060421283840,Waiver,FALSE,,25,lalder
 11575,Ray Davis,Waiver,45602.5834,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159889040414453760,Waiver,FALSE,,25,lalder
-9508,Tyjae Spears,Waiver,45602.58332,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1159889010299351040,Waiver,FALSE,,23,lalder
+9508,Tyjae Spears,Waiver,45602.58332,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1159889010299351040,Waiver,FALSE,,23,lalder
 5995,Justice Hill,Waiver,45602.33465,2024,2024,1,2,2,0,0,0,2,2,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159520085099466752,Waiver,FALSE,,27,aintEZBNwheezE
 4574,Cooper Rush,Waiver,45602.33465,2024,2024,1,2,1,0,0,0,3,3,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1159667132712484864,Waiver,FALSE,,31,DylanBears2022
 7828,Noah Gray,Waiver,45599.66877,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1158832816579379200,Waiver,FALSE,,25,Henrypavlak3
-11651,Isaac Guerendo,Waiver,45595.29297,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1156633527467978752,Waiver,FALSE,,24,Vikingsfan80
-11596,Ben Sinnott,Waiver,45591.52653,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,TRUE,TE,1,,1,0,0,0,1155882163124948992,Waiver,FALSE,,22,Chewy2552
+11651,Isaac Guerendo,Waiver,45595.29297,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1156633527467978752,Waiver,FALSE,,24,Vikingsfan80
+11596,Ben Sinnott,Waiver,45591.52653,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1155882163124948992,Waiver,FALSE,,22,Chewy2552
 3200,Sterling Shepard,Waiver,45588.80345,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154895355280998400,Waiver,FALSE,,32,lalder
 11618,Jalen McMillan,Waiver,45588.62002,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154828883703746560,Waiver,FALSE,,23,Chewy2552
-5917,Mecole Hardman,Waiver,45588.2935,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,WR,1,,1,0,0,0,1154444279650095104,Waiver,FALSE,,26,aintEZBNwheezE
+5917,Mecole Hardman,Waiver,45588.2935,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1154444279650095104,Waiver,FALSE,,26,aintEZBNwheezE
 10444,Cedric Tillman,Waiver,45588.2935,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154444320058093568,Waiver,FALSE,,24,aintEZBNwheezE
 2306,Jameis Winston,Waiver,45588.2935,2024,2024,1,2,9,0,0,0,1,9,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1154662637356089344,Waiver,FALSE,1.15483E+18,31,mlthomas5095
-7083,Tyler Huntley,Waiver,45582.57787,2024,2024,1,2,5,0,0,0,6,6,Expired,0,0,0,0,FALSE,TRUE,QB,1,,5,0,0,0,1152266228933881856,Waiver,FALSE,,27,tylercrain
-11575,Ray Davis,Waiver,45581.54706,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1152265724191166464,Waiver,FALSE,,25,jwalwer81
+7083,Tyler Huntley,Waiver,45582.57787,2024,2024,1,2,5,0,0,0,6,6,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1152266228933881856,Waiver,FALSE,,27,tylercrain
+11575,Ray Davis,Waiver,45581.54706,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1152265724191166464,Waiver,FALSE,,25,jwalwer81
 9506,Sean Tucker,Waiver,45581.29302,2024,2024,1,2,16,0,0,0,1,7,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1151975124023918592,Waiver,FALSE,1.1531E+18,23,Vikingsfan80
-4718,Dare Ogunbowale,Waiver,45577.84002,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1150922340906156032,Waiver,FALSE,,30,aintEZBNwheezE
+4718,Dare Ogunbowale,Waiver,45577.84002,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1150922340906156032,Waiver,FALSE,,30,aintEZBNwheezE
 5096,Ray-Ray McCloud,Waiver,45576.9252,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1150590818097418240,Waiver,FALSE,,28,Chewy2552
 4040,JuJu Smith-Schuster,Waiver,45575.96639,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1150243359706042368,Waiver,FALSE,,28,Henrypavlak3
-5995,Justice Hill,Waiver,45574.98111,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1149886305908654080,Waiver,FALSE,,27,jwalwer81
+5995,Justice Hill,Waiver,45574.98111,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1149886305908654080,Waiver,FALSE,,27,jwalwer81
 9225,Tank Bigsby,Waiver,45574.58744,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1149743646552457216,Waiver,FALSE,,22,EthanL21
 11655,Tyrone Tracy,Waiver,45570.07058,2024,2024,1,2,1,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1148106790140215296,Waiver,FALSE,,25,Delusional1
 10213,Tre Tucker,Waiver,45569.73352,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1147984643757551616,Waiver,FALSE,,24,Schoontang
-7593,Trey Sermon,Waiver,45569.7328,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1147984380770496512,Waiver,FALSE,,26,Schoontang
-11623,Jordan Whittington,Waiver,45569.73269,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,TRUE,WR,1,,1,0,0,0,1147984340526149632,Waiver,FALSE,,24,Schoontang
+7593,Trey Sermon,Waiver,45569.7328,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1147984380770496512,Waiver,FALSE,,26,Schoontang
+11623,Jordan Whittington,Waiver,45569.73269,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1147984340526149632,Waiver,FALSE,,24,Schoontang
 19,Joe Flacco,Waiver,45567.29319,2024,2024,1,2,2,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1146352426757423104,Waiver,FALSE,,40,Delusional1
-7083,Tyler Huntley,Waiver,45563.69242,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,1,0,0,0,1145795419092430848,Waiver,FALSE,,27,lalder
-10226,Andrei Iosivas,Waiver,45561.70454,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,1,0,0,0,1145075036647206912,Waiver,FALSE,,25,EthanL21
-6865,Colby Parkinson,Waiver,45561.70417,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,TE,1,,1,0,0,0,1145074904237223936,Waiver,FALSE,,26,EthanL21
+7083,Tyler Huntley,Waiver,45563.69242,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1145795419092430848,Waiver,FALSE,,27,lalder
+10226,Andrei Iosivas,Waiver,45561.70454,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1145075036647206912,Waiver,FALSE,,25,EthanL21
+6865,Colby Parkinson,Waiver,45561.70417,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1145074904237223936,Waiver,FALSE,,26,EthanL21
 1339,Zach Ertz,Waiver,45560.29289,2024,2024,1,2,6,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1144391445906939904,Waiver,FALSE,,34,Delusional1
 7562,Tutu Atwell,Waiver,45560.29289,2024,2024,1,2,7,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1144135999489880064,Waiver,FALSE,,25,Delusional1
 7049,Jauan Jennings,Waiver,45560.29289,2024,2024,1,2,10,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1144318781628702720,Waiver,FALSE,,27,EthanL21
-9480,Brenton Strange,Waiver,45557.51295,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,TE,1,,1,0,0,0,1143556058707779584,Waiver,FALSE,,24,aintEZBNwheezE
-11582,Carson Steele,Waiver,45553.29318,2024,2024,1,2,12,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,12,0,0,0,1141947780433354752,Waiver,FALSE,,22,jwalwer81
-4147,Samaje Perine,Waiver,45553.29318,2024,2024,1,2,5,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,5,0,0,0,1141411080393203712,Waiver,FALSE,,29,lalder
-8206,Skylar Thompson,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,2,0,0,0,1140715728975360000,Waiver,FALSE,,27,lalder
+9480,Brenton Strange,Waiver,45557.51295,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1143556058707779584,Waiver,FALSE,,24,aintEZBNwheezE
+11582,Carson Steele,Waiver,45553.29318,2024,2024,1,2,12,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1141947780433354752,Waiver,FALSE,,22,jwalwer81
+4147,Samaje Perine,Waiver,45553.29318,2024,2024,1,2,5,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1141411080393203712,Waiver,FALSE,,29,lalder
+8206,Skylar Thompson,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1140715728975360000,Waiver,FALSE,,27,lalder
 8180,Jalen Nailor,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1141418792669650944,Waiver,FALSE,1.1549E+18,26,Vikingsfan80
-829,Andy Dalton,Waiver,45553.29318,2024,2024,1,2,16,0,0,0,1,9,Expired,0,0,0,0,FALSE,TRUE,QB,1,,16,0,0,0,1141473651871608832,Waiver,FALSE,1.15044E+18,37,mlthomas5095
+829,Andy Dalton,Waiver,45553.29318,2024,2024,1,2,16,0,0,0,1,9,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1141473651871608832,Waiver,FALSE,1.15044E+18,37,mlthomas5095
 4098,Kareem Hunt,Waiver,45551.91506,2024,2024,1,2,1,0,0,0,6,6,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1141527446290817024,Waiver,FALSE,,29,tylercrain
-8161,Malik Willis,Waiver,45547.65929,2024,2024,1,2,1,0,0,0,1,11,Expired,0,0,0,0,FALSE,TRUE,QB,1,,1,0,0,0,1139985212462456832,Waiver,FALSE,1.14072E+18,25,Schoontang
+8161,Malik Willis,Waiver,45547.65929,2024,2024,1,2,1,0,0,0,1,11,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1139985212462456832,Waiver,FALSE,1.14072E+18,25,Schoontang
 5185,Allen Lazard,Waiver,45546.29319,2024,2024,1,2,3,0,0,0,10,10,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1139448349108740096,Waiver,FALSE,,29,jwalwer81
 8117,Jalen Tolbert,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1134294766612557824,Waiver,FALSE,,26,EthanL21
-6938,Cam Akers,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1134299813299834880,Waiver,FALSE,,25,lalder
-8116,Pierre Strong,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,1,0,0,0,1134299789715451904,Waiver,FALSE,,26,lalder
-4029,Dalvin Cook,Waiver,45538.29228,2024,2024,1,2,7,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,7,0,0,0,1134299600501948416,Waiver,FALSE,,29,lalder
+6938,Cam Akers,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299813299834880,Waiver,FALSE,,25,lalder
+8116,Pierre Strong,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299789715451904,Waiver,FALSE,,26,lalder
+4029,Dalvin Cook,Waiver,45538.29228,2024,2024,1,2,7,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299600501948416,Waiver,FALSE,,29,lalder
 11435,Emanuel Wilson,Waiver,45538.29228,2024,2024,1,2,10,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299520193736704,Waiver,FALSE,,25,lalder
-4171,Josh Reynolds,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,1,0,0,0,1134294891091177472,Waiver,FALSE,,30,EthanL21
+4171,Josh Reynolds,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1134294891091177472,Waiver,FALSE,,30,EthanL21
 8408,Jordan Mason,Waiver,45538.29228,2024,2024,1,2,16,0,0,0,1,8,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299736632233984,Waiver,FALSE,1.15194E+18,25,EthanL21
-11655,Tyrone Tracy,Waiver,45426.29591,2024,2024,1,2,4,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,4,0,0,0,1095814818281385984,Waiver,FALSE,,25,lalder
+11655,Tyrone Tracy,Waiver,45426.29591,2024,2024,1,2,4,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1095814818281385984,Waiver,FALSE,,25,lalder
 10859,Sam LaPorta,Base,45423,2024,2025,2,2,28,30.8,0,0,9,9,Active,31,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_01,Startup Draft,FALSE,,24,mlthomas5095
 4046,Patrick Mahomes,Base,45423,2024,2027,4,2,60,66,72.6,79.9,4,4,Active,66,72.6,79.9,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_02,Startup Draft,FALSE,,29,Delusional1
 2449,Stefon Diggs,Base,45423,2024,2026,3,2,15,16.5,18.2,0,9,9,Active,16,18.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_03,Startup Draft,FALSE,,31,mlthomas5095
@@ -174,12 +174,12 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 11637,Keon Coleman,Base,45423,2024,2026,3,2,3,3.3,3.7,0,8,3,Active,3,3.7,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-11637,Startup Draft,FALSE,1.12619E+18,21,DylanBears2022
 11635,Ladd McConkey,Base,45423,2024,2027,4,2,5,5.5,6.1,6.8,10,9,Active,6,6.1,6.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154831004835020800-11635,Startup Draft,FALSE,1.15483E+18,23,mlthomas5095
 1479,Keenan Allen,Base,45423,2024,2025,2,2,3,3.3,0,0,1,5,Active,3,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1119737220165918720-1479,Startup Draft,FALSE,1.11974E+18,32,Chewy2552
-9508,Tyjae Spears,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0.7,0.8,StartupDraft_106,Startup Draft,FALSE,,23,Vikingsfan80
+9508,Tyjae Spears,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_106,Startup Draft,FALSE,,23,Vikingsfan80
 4037,Chris Godwin,Base,45423,2024,2025,2,2,2,2.2,0,0,1,8,Active,2,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1149765488134803456-4037,Startup Draft,FALSE,1.14977E+18,29,EthanL21
 8110,Jake Ferguson,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2,2.5,2.8,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_108,Startup Draft,FALSE,,26,jwalwer81
 4035,Alvin Kamara,Base,45423,2024,2026,3,2,2,2.2,2.5,0,5,5,Active,2,2.5,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_109,Startup Draft,FALSE,,29,Chewy2552
 8154,Brian Robinson,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_110,Startup Draft,FALSE,,25,aintEZBNwheezE
-2028,Derek Carr,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_111,Startup Draft,FALSE,,33,mlthomas5095
+2028,Derek Carr,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_111,Startup Draft,FALSE,,33,mlthomas5095
 4137,James Conner,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Active,1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_112,Startup Draft,FALSE,,29,DylanBears2022
 11439,Jaleel McLaughlin,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_113,Startup Draft,FALSE,,24,Schoontang
 5001,Dalton Schultz,Base,45423,2024,2025,2,2,2,2.2,0,0,6,6,Active,2,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_114,Startup Draft,FALSE,,28,tylercrain
@@ -196,7 +196,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 6826,Cole Kmet,Base,45423,2024,2025,2,2,1,1.1,0,0,11,1,Active,1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1107336472975347712-6826,Startup Draft,FALSE,1.10734E+18,25,lalder
 4981,Calvin Ridley,Base,45423,2024,2025,2,2,2,2.2,0,0,11,11,Active,2,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_126,Startup Draft,FALSE,,30,Schoontang
 7600,Pat Freiermuth,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_127,Startup Draft,FALSE,,26,EthanL21
-8139,Zamir White,Base,45423,2024,2026,3,2,3,3.3,3.7,0,2,2,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,1.5,1.7,1.9,0,StartupDraft_128,Startup Draft,FALSE,,25,aintEZBNwheezE
+8139,Zamir White,Base,45423,2024,2026,3,2,3,3.3,3.7,0,2,2,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,1.7,1.9,0,0,StartupDraft_128,Startup Draft,FALSE,,25,aintEZBNwheezE
 8167,Christian Watson,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2,2.5,2.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_129,Startup Draft,FALSE,,25,jwalwer81
 8228,Jaylen Warren,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Active,1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_130,Startup Draft,FALSE,,26,Vikingsfan80
 4988,Nick Chubb,Base,45423,2024,2026,3,2,1,1.1,1.3,0,10,9,Active,1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1154831004835020800-4988,Startup Draft,FALSE,1.15483E+18,29,mlthomas5095
@@ -219,7 +219,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 2749,Raheem Mostert,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_148,Startup Draft,FALSE,,32,DylanBears2022
 6845,Zack Moss,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2,2.5,2.8,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_149,Startup Draft,FALSE,,27,jwalwer81
 2374,Tyler Lockett,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_150,Startup Draft,FALSE,,32,tylercrain
-8119,Jahan Dotson,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_151,Startup Draft,FALSE,,24,EthanL21
+8119,Jahan Dotson,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_151,Startup Draft,FALSE,,24,EthanL21
 6783,Jerry Jeudy,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,1,Active,1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154488961423917056-6783,Startup Draft,FALSE,1.15449E+18,25,lalder
 9757,Kendre Miller,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_153,Startup Draft,FALSE,,22,lalder
 11627,Troy Franklin,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Active,1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_154,Startup Draft,FALSE,,22,Vikingsfan80
@@ -234,7 +234,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 9754,Quentin Johnston,Base,45423,2024,2025,2,2,1,1.1,0,0,8,3,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-9754,Startup Draft,FALSE,1.12619E+18,23,DylanBears2022
 9482,Michael Mayer,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_164,Startup Draft,FALSE,,23,Henrypavlak3
 8143,Jerome Ford,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_165,Startup Draft,FALSE,,25,lalder
-3225,Tyler Boyd,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_166,Startup Draft,FALSE,,30,Vikingsfan80
+3225,Tyler Boyd,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_166,Startup Draft,FALSE,,30,Vikingsfan80
 10232,Michael Wilson,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_167,Startup Draft,FALSE,,25,jwalwer81
 8676,Rashid Shaheed,Base,45423,2024,2026,3,2,1,1.1,1.3,0,5,5,Active,1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_168,Startup Draft,FALSE,,26,Chewy2552
 11645,Javon Baker,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_169,Startup Draft,FALSE,,23,Delusional1
@@ -247,14 +247,14 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 10235,Roschon Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_176,Startup Draft,FALSE,,24,Henrypavlak3
 9486,Dontayvion Wicks,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,1,1,Active,1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_177,Startup Draft,FALSE,,23,lalder
 6806,J.K. Dobbins,Base,45423,2024,2025,2,2,1,1.1,0,0,7,7,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_178,Startup Draft,FALSE,,26,Vikingsfan80
-11596,Ben Sinnott,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.5,0.6,0.7,0.8,StartupDraft_179,Startup Draft,FALSE,,22,jwalwer81
+11596,Ben Sinnott,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_179,Startup Draft,FALSE,,22,jwalwer81
 8210,Chig Okonkwo,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_180,Startup Draft,FALSE,,25,Chewy2552
-9225,Tank Bigsby,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_181,Startup Draft,FALSE,,22,Delusional1
+9225,Tank Bigsby,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_181,Startup Draft,FALSE,,22,Delusional1
 9494,Marvin Mims,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_182,Startup Draft,FALSE,,22,mlthomas5095
-8135,Treylon Burks,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0.8,StartupDraft_183,Startup Draft,FALSE,,24,DylanBears2022
+8135,Treylon Burks,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_183,Startup Draft,FALSE,,24,DylanBears2022
 7090,Darnell Mooney,Base,45423,2024,2026,3,2,1,1.1,1.3,0,11,11,Active,1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_184,Startup Draft,FALSE,,27,Schoontang
 7571,Rashod Bateman,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_185,Startup Draft,FALSE,,25,tylercrain
-11643,Jaylen Wright,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_186,Startup Draft,FALSE,,21,EthanL21
+11643,Jaylen Wright,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_186,Startup Draft,FALSE,,21,EthanL21
 9511,Keaton Mitchell,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_187,Startup Draft,FALSE,,23,Henrypavlak3
 6828,AJ Dillon,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_188,Startup Draft,FALSE,,26,lalder
 4943,Sam Darnold,Base,45423,2024,2025,2,2,1,1.1,0,0,7,7,Active,1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_189,Startup Draft,FALSE,,27,Vikingsfan80
@@ -268,44 +268,44 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 4080,Zay Jones,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_197,Startup Draft,FALSE,,29,Henrypavlak3
 7561,Elijah Mitchell,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_198,Startup Draft,FALSE,,26,lalder
 7002,Juwan Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,7,7,Active,1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_199,Startup Draft,FALSE,,28,Vikingsfan80
-4082,Curtis Samuel,Base,45423,2024,2026,3,2,1,1.1,1.3,0,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_200,Startup Draft,FALSE,,28,Chewy2552
-11618,Jalen McMillan,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_201,Startup Draft,FALSE,,23,Delusional1
+4082,Curtis Samuel,Base,45423,2024,2026,3,2,1,1.1,1.3,0,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_200,Startup Draft,FALSE,,28,Chewy2552
+11618,Jalen McMillan,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_201,Startup Draft,FALSE,,23,Delusional1
 8129,Dameon Pierce,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_202,Startup Draft,FALSE,,25,mlthomas5095
 11576,Braelon Allen,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Active,1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_203,Startup Draft,FALSE,,21,DylanBears2022
 6945,Antonio Gibson,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_204,Startup Draft,FALSE,,26,Schoontang
 2505,Darren Waller,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,6,6,Expired,0,0,0,0,TRUE,TRUE,TE,0,Retired,0,0,0,0,StartupDraft_205,Startup Draft,FALSE,,31,tylercrain
-8230,Ty Chandler,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_206,Startup Draft,FALSE,,26,EthanL21
+8230,Ty Chandler,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_206,Startup Draft,FALSE,,26,EthanL21
 4381,Taysom Hill,Base,45423,2024,2025,2,2,1,1.1,0,0,12,4,Active,1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1097624084013309952-4381,Startup Draft,FALSE,1.09762E+18,34,Delusional1
 8162,Sam Howell,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,1,1,Active,1,1.3,1.5,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_208,Startup Draft,FALSE,,24,lalder
 11562,Spencer Rattler,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Active,1,1.3,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_209,Startup Draft,FALSE,,24,Vikingsfan80
-11629,Devontez Walker,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0.8,StartupDraft_210,Startup Draft,FALSE,,23,Chewy2552
+11629,Devontez Walker,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_210,Startup Draft,FALSE,,23,Chewy2552
 8142,Alec Pierce,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_211,Startup Draft,FALSE,,24,Delusional1
-11640,Jermaine Burton,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_212,Startup Draft,FALSE,,23,mlthomas5095
+11640,Jermaine Burton,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_212,Startup Draft,FALSE,,23,mlthomas5095
 11621,Brenden Rice,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Active,1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_213,Startup Draft,FALSE,,22,DylanBears2022
 10866,Aidan O'Connell,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_214,Startup Draft,FALSE,,26,Schoontang
 11650,Luke McCaffrey,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,6,6,Active,1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_215,Startup Draft,FALSE,,23,tylercrain
 7021,Rico Dowdle,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_216,Startup Draft,FALSE,,26,EthanL21
 5857,Noah Fant,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_217,Startup Draft,FALSE,,27,Henrypavlak3
 8219,Jelani Woods,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_218,Startup Draft,FALSE,,26,lalder
-10863,A.T. Perry,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0.8,StartupDraft_219,Startup Draft,FALSE,,25,Vikingsfan80
+10863,A.T. Perry,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_219,Startup Draft,FALSE,,25,Vikingsfan80
 3286,Demarcus Robinson,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_220,Startup Draft,FALSE,,30,Chewy2552
-11575,Ray Davis,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_221,Startup Draft,FALSE,,25,Delusional1
+11575,Ray Davis,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_221,Startup Draft,FALSE,,25,Delusional1
 11584,Bucky Irving,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_222,Startup Draft,FALSE,,22,mlthomas5095
 5970,Greg Dortch,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Active,1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_223,Startup Draft,FALSE,,26,DylanBears2022
 11647,Kimani Vidal,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_224,Startup Draft,FALSE,,23,Schoontang
 7601,Rondale Moore,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_225,Startup Draft,FALSE,,24,EthanL21
-10225,Jonathan Mingo,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_226,Startup Draft,FALSE,,23,Henrypavlak3
-4951,DJ Chark,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_227,Startup Draft,FALSE,,28,lalder
-5133,Tyler Conklin,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_228,Startup Draft,FALSE,,29,Chewy2552
-11651,Isaac Guerendo,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_229,Startup Draft,FALSE,,24,mlthomas5095
-11597,Theo Johnson,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_230,Startup Draft,FALSE,,24,DylanBears2022
-6820,Clyde Edwards-Helaire,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_231,Startup Draft,FALSE,,25,Schoontang
-8172,Greg Dulcich,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_232,Startup Draft,FALSE,,24,EthanL21
+10225,Jonathan Mingo,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_226,Startup Draft,FALSE,,23,Henrypavlak3
+4951,DJ Chark,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_227,Startup Draft,FALSE,,28,lalder
+5133,Tyler Conklin,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0,0,0,StartupDraft_228,Startup Draft,FALSE,,29,Chewy2552
+11651,Isaac Guerendo,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_229,Startup Draft,FALSE,,24,mlthomas5095
+11597,Theo Johnson,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_230,Startup Draft,FALSE,,24,DylanBears2022
+6820,Clyde Edwards-Helaire,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_231,Startup Draft,FALSE,,25,Schoontang
+8172,Greg Dulcich,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0,0,0,StartupDraft_232,Startup Draft,FALSE,,24,EthanL21
 5987,Alexander Mattison,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_233,Startup Draft,FALSE,,26,Henrypavlak3
-11567,Jordan Travis,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_234,Startup Draft,FALSE,,24,Chewy2552
+11567,Jordan Travis,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_234,Startup Draft,FALSE,,24,Chewy2552
 4993,Mike Gesicki,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_235,Startup Draft,FALSE,,29,mlthomas5095
-3257,Jacoby Brissett,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_236,Startup Draft,FALSE,,32,EthanL21
-2078,Odell Beckham,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0,0,StartupDraft_237,Startup Draft,FALSE,,32,Henrypavlak3
+3257,Jacoby Brissett,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_236,Startup Draft,FALSE,,32,EthanL21
+2078,Odell Beckham,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_237,Startup Draft,FALSE,,32,Henrypavlak3
 6149,Darius Slayton,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_238,Startup Draft,FALSE,,28,Chewy2552
 6151,Miles Sanders,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_239,Startup Draft,FALSE,,27,Henrypavlak3
-7066,K.J. Osborn,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.5,0.6,0.7,0,StartupDraft_240,Startup Draft,FALSE,,27,Henrypavlak3
+7066,K.J. Osborn,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_240,Startup Draft,FALSE,,27,Henrypavlak3
