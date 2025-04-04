@@ -214,7 +214,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 9224,Chase Brown,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_143,Startup Draft,FALSE,,25,jwalwer81
 8121,Romeo Doubs,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_144,Startup Draft,FALSE,,24,Chewy2552
 6011,Gardner Minshew,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_145,Startup Draft,FALSE,,28,Delusional1
-5248,Gus Edwards,Base,45423,2024,2025,2,2,1,1.1,0,0,2,2,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_146,Startup Draft,FALSE,,29,aintEZBNwheezE
+5248,Gus Edwards,Base,45423,2024,2025,2,2,1,1.1,0,0,2,2,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_146,Startup Draft,FALSE,,29,aintEZBNwheezE
 9484,Tucker Kraft,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_147,Startup Draft,FALSE,,24,mlthomas5095
 2749,Raheem Mostert,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_148,Startup Draft,FALSE,,32,DylanBears2022
 6845,Zack Moss,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2.2,2.5,2.8,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_149,Startup Draft,FALSE,,27,jwalwer81
