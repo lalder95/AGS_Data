@@ -76,7 +76,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 6794,Justin Jefferson,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,7,7,Active,45.1,49.7,54.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_05,Startup Draft,FALSE,,25,Vikingsfan80
 9758,C.J. Stroud,Base,45423,2024,2026,3,2,52,57.2,63,0,12,12,Active,57.2,63,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_06,Startup Draft,FALSE,,23,Henrypavlak3
 4034,Christian McCaffrey,Base,45423,2024,2026,3,2,58,63.8,70.2,0,1,12,Active,63.8,70.2,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_07,Startup Draft,FALSE,1.15519E+18,28,Henrypavlak3
-10229,Rashee Rice,Base,45423,2024,2026,3,2,19,20.9,23,0,7,7,Active,20.9,23,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_08,Startup Draft,FALSE,,24,Vikingsfan80
+10229,Rashee Rice,Base,45423,2024,2026,3,2,19,20.9,23,0,7,10,Active,20.9,23,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_08,Startup Draft,FALSE,1.21792E+18,24,jwalwer81
 6904,Jalen Hurts,Base,45423,2024,2027,4,2,48,52.8,58.1,64,8,8,Active,52.8,58.1,64,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_09,Startup Draft,FALSE,,26,EthanL21
 9493,Puka Nacua,Base,45423,2024,2026,3,2,35,38.5,42.4,0,3,8,Active,38.5,42.4,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-9493,Startup Draft,FALSE,1.12619E+18,23,EthanL21
 6770,Joe Burrow,Base,45423,2024,2027,4,2,46,50.6,55.7,61.3,5,5,Active,50.6,55.7,61.3,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_11,Startup Draft,FALSE,,28,Chewy2552
@@ -87,7 +87,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 1466,Travis Kelce,Base,45423,2024,2026,3,2,28,30.8,33.9,0,6,6,Active,30.8,33.9,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_16,Startup Draft,FALSE,,35,tylercrain
 6786,CeeDee Lamb,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,8,8,Active,45.1,49.7,54.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_17,Startup Draft,FALSE,,26,EthanL21
 7564,Ja'Marr Chase,Base,45423,2024,2026,3,2,40,44,48.4,0,12,4,Active,44,48.4,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1095779391986135040-7564,Startup Draft,FALSE,1.09578E+18,25,Delusional1
-8155,Breece Hall,Base,45423,2024,2025,2,2,43,47.3,0,0,9,10,Active,47.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1154831004835020800-8155,Startup Draft,FALSE,1.15483E+18,23,jwalwer81
+8155,Breece Hall,Base,45423,2024,2025,2,2,43,47.3,0,0,9,7,Active,47.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1154831004835020800-8155,Startup Draft,FALSE,1.21792E+18,23,Vikingsfan80
 6797,Justin Herbert,Base,45423,2024,2027,4,2,43,47.3,52.1,57.4,7,7,Active,47.3,52.1,57.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_20,Startup Draft,FALSE,,27,Vikingsfan80
 4983,DJ Moore,Base,45423,2024,2026,3,2,30,33,36.3,0,9,9,Active,33,36.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_21,Startup Draft,FALSE,,28,mlthomas5095
 5859,A.J. Brown,Base,45423,2024,2027,4,2,35,38.5,42.4,46.7,10,10,Active,38.5,42.4,46.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_22,Startup Draft,FALSE,,27,jwalwer81
