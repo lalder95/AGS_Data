@@ -69,7 +69,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 4171,Josh Reynolds,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1134294891091177472,Waiver,FALSE,,30,EthanL21,759
 8408,Jordan Mason,Waiver,45538.29228,2024,2024,1,2,16,0,0,0,1,8,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299736632233984,Waiver,FALSE,1.15194E+18,25,EthanL21,2730
 11655,Tyrone Tracy,Waiver,45426.29591,2024,2024,1,2,4,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1095814818281385984,Waiver,FALSE,,25,lalder,3317
-10859,Sam LaPorta,Base,45423,2024,2025,2,2,28,30.8,0,0,9,9,Active,30.8,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_01,Startup Draft,FALSE,,24,mlthomas5095,6040
+10859,Sam LaPorta,Base,45423,2024,2025,2,2,28,30.8,0,0,9,8,Active,30.8,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_01,Startup Draft,FALSE,1.22333E+18,24,EthanL21,6040
 4046,Patrick Mahomes,Base,45423,2024,2027,4,2,60,66,72.6,79.9,4,4,Active,66,72.6,79.9,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_02,Startup Draft,FALSE,,29,Delusional1,7250
 2449,Stefon Diggs,Base,45423,2024,2026,3,2,15,16.5,18.2,0,9,9,Active,16.5,18.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_03,Startup Draft,FALSE,,31,mlthomas5095,2878
 4984,Josh Allen,Base,45423,2024,2026,3,2,60,66,72.6,0,1,1,Active,66,72.6,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_04,Startup Draft,FALSE,,28,lalder,9999
@@ -110,7 +110,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 5844,T.J. Hockenson,Base,45423,2024,2027,4,2,21,23.1,25.5,28.1,12,12,Active,23.1,25.5,28.1,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_39,Startup Draft,FALSE,1.21292E+18,27,Henrypavlak3,0
 7553,Kyle Pitts,Base,45423,2024,2026,3,2,28,30.8,33.9,0,7,7,Active,30.8,33.9,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_40,Startup Draft,FALSE,,24,Vikingsfan80,3758
 10236,Dalton Kincaid,Base,45423,2024,2026,3,2,19,20.9,23,0,11,11,Active,20.9,23,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_41,Startup Draft,FALSE,,25,Schoontang,3966
-9226,De'Von Achane,Base,45423,2024,2026,3,2,25,27.5,30.3,0,1,11,Active,27.5,30.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1107336472975347712-9226,Startup Draft,FALSE,1.10734E+18,23,Schoontang,6010
+9226,De'Von Achane,Base,45423,2024,2026,3,2,25,27.5,30.3,0,1,9,Active,27.5,30.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1107336472975347712-9226,Startup Draft,FALSE,1.22333E+18,23,mlthomas5095,6010
 6803,Brandon Aiyuk,Base,45423,2024,2027,4,2,23,25.3,27.9,30.7,2,2,Active,25.3,27.9,30.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_43,Startup Draft,FALSE,,27,aintEZBNwheezE,3962
 8205,Isiah Pacheco,Base,45423,2024,2027,4,2,22,24.2,26.7,29.4,2,2,Active,24.2,26.7,29.4,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_44,Startup Draft,FALSE,,26,aintEZBNwheezE,3277
 8151,Kenneth Walker,Base,45423,2024,2027,4,2,22,24.2,26.7,29.4,2,2,Active,24.2,26.7,29.4,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_45,Startup Draft,FALSE,,24,aintEZBNwheezE,0
@@ -195,7 +195,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 1373,Geno Smith,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_124,Startup Draft,FALSE,,34,DylanBears2022,3344
 6826,Cole Kmet,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1107336472975347712-6826,Startup Draft,FALSE,1.22259E+18,26,Schoontang,2634
 4981,Calvin Ridley,Base,45423,2024,2025,2,2,2,2.2,0,0,11,11,Active,2.2,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_126,Startup Draft,FALSE,,30,Schoontang,2807
-7600,Pat Freiermuth,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_127,Startup Draft,FALSE,,26,EthanL21,3221
+7600,Pat Freiermuth,Base,45423,2024,2025,2,2,1,1.1,0,0,8,9,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_127,Startup Draft,FALSE,1.22333E+18,26,mlthomas5095,3221
 8139,Zamir White,Base,45423,2024,2026,3,2,3,3.3,3.7,0,2,2,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,1.7,1.9,0,0,StartupDraft_128,Startup Draft,FALSE,,25,aintEZBNwheezE,1093
 8167,Christian Watson,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2.2,2.5,2.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_129,Startup Draft,FALSE,,25,jwalwer81,2511
 8228,Jaylen Warren,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Active,1.1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_130,Startup Draft,FALSE,,26,Vikingsfan80,2877
