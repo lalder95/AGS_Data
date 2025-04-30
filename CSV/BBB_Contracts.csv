@@ -25,7 +25,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 9508,Tyjae Spears,Waiver,45602.58332,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1159889010299351040,Waiver,FALSE,,23,lalder,2905
 5995,Justice Hill,Waiver,45602.33465,2024,2024,1,2,2,0,0,0,2,2,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159520085099466752,Waiver,FALSE,,27,aintEZBNwheezE,1473
 4574,Cooper Rush,Waiver,45602.33465,2024,2024,1,2,1,0,0,0,3,3,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1159667132712484864,Waiver,FALSE,,31,DylanBears2022,685
-7828,Noah Gray,Waiver,45599.66877,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1158832816579379200,Waiver,FALSE,,25,Henrypavlak3,2474
+7828,Noah Gray,Waiver,45599.66877,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1158832816579379200,Waiver,FALSE,,26,Henrypavlak3,2474
 11651,Isaac Guerendo,Waiver,45595.29297,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1156633527467978752,Waiver,FALSE,,24,Vikingsfan80,2635
 11596,Ben Sinnott,Waiver,45591.52653,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1155882163124948992,Waiver,FALSE,,22,Chewy2552,2967
 3200,Sterling Shepard,Waiver,45588.80345,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154895355280998400,Waiver,FALSE,,32,lalder,0
@@ -143,7 +143,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 3198,Derrick Henry,Base,45423,2024,2025,2,2,13,14.3,0,0,6,6,Active,14.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_72,Startup Draft,FALSE,,31,tylercrain,4401
 5846,DK Metcalf,Base,45423,2024,2027,4,2,9,9.9,10.9,12,10,10,Active,9.9,10.9,12,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_73,Startup Draft,FALSE,,27,jwalwer81,4692
 10222,Jayden Reed,Base,45423,2024,2027,4,2,6,6.6,7.3,8.1,2,2,Active,6.6,7.3,8.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_74,Startup Draft,FALSE,,25,aintEZBNwheezE,3662
-5967,Tony Pollard,Base,45423,2024,2025,2,2,8,8.8,0,0,9,9,Active,8.8,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_75,Startup Draft,FALSE,,27,mlthomas5095,2994
+5967,Tony Pollard,Base,45423,2024,2025,2,2,8,8.8,0,0,9,9,Active,8.8,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_75,Startup Draft,FALSE,,28,mlthomas5095,2994
 4199,Aaron Jones,Base,45423,2024,2025,2,2,10,11,0,0,7,7,Active,11,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_76,Startup Draft,FALSE,,30,Vikingsfan80,2964
 7569,Nico Collins,Base,45423,2024,2027,4,2,9,9.9,10.9,12,2,2,Active,9.9,10.9,12,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_77,Startup Draft,FALSE,,26,aintEZBNwheezE,6578
 4039,Cooper Kupp,Base,45423,2024,2025,2,2,6,6.6,0,0,12,12,Active,6.6,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_78,Startup Draft,FALSE,,31,Henrypavlak3,3019
