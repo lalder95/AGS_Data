@@ -1,54 +1,65 @@
 Name,PlayerID,Position,Team,Age,Height,Weight,DraftRound,DraftPick,Value,RookieTier,College
-Ashton Jeanty,1742,RB,FA,,,,,,7123,Tier 1,Boise State
-Omarion Hampton,1744,RB,FA,,,,,,5602,Tier 2,North Carolina
-Cam Ward,1730,QB,FA,,,,,,5455,Tier 2,Miami
-Tetairoa McMillan,1771,WR,FA,,,,,,5264,Tier 2,Arizona
-TreVeyon Henderson,1743,RB,FA,,,,,,4958,Tier 2,Ohio State
-Travis Hunter,1774,WR,FA,,"6' 1""",185,,,4908,Tier 2,Colorado
-Tyler Warren,1802,TE,FA,,,,,,4725,Tier 2,Penn State
-Quinshon Judkins,1751,RB,FA,,,,,,4702,Tier 2,Ohio State
-Emeka Egbuka,1781,WR,FA,,,,,,4692,Tier 2,Ohio State
-Shedeur Sanders,1731,QB,FA,,,,,,4359,Tier 3,Colorado
-Luther Burden,1770,WR,FA,,,,,,4246,Tier 3,Missouri
-Colston Loveland,1804,TE,FA,,,,,,3925,Tier 4,Michigan
-Matthew Golden,1775,WR,FA,,,,,,3891,Tier 4,Texas
-Kaleb Johnson,1748,RB,FA,,,,,,3865,Tier 4,Iowa
-Jaxson Dart,1732,QB,FA,,,,,,3735,Tier 4,Mississippi
-Cam Skattebo,1745,RB,FA,,,,,,3329,Tier 5,Arizona State
-Jalen Milroe,1733,QB,FA,,,,,,2942,Tier 6,Alabama
-Dylan Sampson,1747,RB,FA,,,,,,2646,Tier 7,Tennessee
-Tre Harris,1772,WR,FA,,,,,,2641,Tier 7,Mississippi
-Devin Neal,1746,RB,FA,,,,,,2567,Tier 7,Kansas
-Jayden Higgins,1783,WR,FA,,,,,,2562,Tier 7,Iowa State
-Ollie Gordon,1759,RB,FA,,,,,,2415,Tier 8,Oklahoma State
-Trevor Etienne,1756,RB,FA,,,,,,2411,Tier 8,Georgia
-Isaiah Bond,1776,WR,FA,,,,,,2353,Tier 8,Texas
-Quinn Ewers,1734,QB,FA,,,,,,2277,Tier 8,Texas
-Bhayshul Tuten,1752,RB,FA,,,,,,2252,Tier 8,Virginia Tech
-Elic Ayomanor,1773,WR,FA,,,,,,2114,Tier 9,Stanford
-Harold Fannin,1803,TE,FA,,,,,,2027,Tier 9,Bowling Green
-Jaylin Noel,1780,WR,FA,,,,,,2004,Tier 9,Iowa State
-Jalen Royals,1786,WR,FA,,,,,,1916,Tier 10,Utah State
-DJ Giddens,1760,RB,FA,,,,,,1881,Tier 10,Kansas State
-RJ Harvey,1768,RB,FA,,,,,,1844,Tier 10,UCF
-Xavier Restrepo,1777,WR,FA,,,,,,1828,Tier 10,Miami
-Jack Bech,1778,WR,FA,,,,,,1826,Tier 10,TCU
-Elijah Arroyo,1808,TE,FA,,,,,,1759,Tier 10,Miami
-Damien Martinez,1754,RB,FA,,,,,,1758,Tier 10,Miami
-Will Howard,1736,QB,FA,,,,,,1639,Tier 10,Ohio State
-Tez Johnson,1779,WR,FA,,,,,,1452,Tier 11,Oregon
-Dillon Gabriel,1737,QB,FA,,,,,,1427,Tier 11,Oregon
-Jaydon Blue,1769,RB,FA,,,,,,1395,Tier 11,Texas
-Mason Taylor,1806,TE,FA,,,,,,1123,Tier 12,LSU
-Gunnar Helm,1805,TE,FA,,,,,,1096,Tier 12,Texas
-Tyler Shough,1739,QB,FA,,,,,,1075,Tier 12,Louisville
-Jordan James,1755,RB,FA,,,,,,1042,Tier 12,Oregon
-Terrance Ferguson,1807,TE,FA,,,,,,880,Tier 13,Oregon
-Riley Leonard,1735,QB,FA,,,,,,878,Tier 13,Notre Dame
-Kyle McCord,1738,QB,FA,,,,,,874,Tier 13,Syracuse
-Donovan Edwards,1757,RB,FA,,,,,,820,Tier 13,Michigan
-Brashard Smith,1749,RB,FA,,,,,,790,Tier 13,SMU
-LeQuint Allen,1761,RB,FA,,,,,,709,Tier 14,Syracuse
-Tory Horton,1798,WR,FA,,,,,,546,Tier 15,Colorado State
-Oronde Gadsen II,1799,WR,FA,,,,,,527,Tier 15,Syracuse
-Raheim Sanders,1762,RB,FA,,,,,,482,Tier 15,South Carolina
+Mason Taylor,1806,TE,NYJ,21.0,"6' 6""",253,2,10,v:1626},Tier v:1598},{d:250330
+Riley Leonard,1735,QB,IND,22.6,"6' 4""",216,6,13,991,Tier 16,draftYear:2025
+Oronde Gadsden,1799,WR,LAC,21.8,"6' 5""",236,5,27,991,Tier 16,draftYear:2025
+Brashard Smith,1749,RB,KCC,22.0,"5' 10""",196,7,12,969,Tier 16,draftYear:2025
+Kyle McCord,1738,QB,PHI,22.6,"6' 3""",220,6,5,865,Tier 16,draftYear:2025
+Ashton Jeanty,1742,RB,LVR,21.4,"5' 8""",211,1,6,7569,Tier 1,draftYear:2025
+Donovan Edwards,1757,RB,NYJ,-1.0,"6' 1""",212,0,0,684,Tier 17,Michigan
+LeQuint Allen,1761,RB,JAC,20.7,"6' 0""",201,7,20,648,Tier 17,draftYear:2025
+Omarion Hampton,1744,RB,LAC,22.1,"6' 0""",221,1,22,6147,Tier 2,draftYear:2025
+Travis Hunter,1774,WR,JAC,22.0,"6' 0""",188,1,2,6014,Tier 2,draftYear:2025
+Phil Mafah,1763,RB,DAL,22.5,"6' 1""",230,7,23,586,Tier 17,draftYear:2025
+Cam Ward,1730,QB,TEN,22.9,"6' 2""",219,1,1,5591,Tier 2,draftYear:2025
+Tetairoa McMillan,1771,WR,CAR,22.1,"6' 4""",219,1,8,5510,Tier 2,draftYear:2025
+TreVeyon Henderson,1743,RB,NEP,22.5,"5' 10""",208,2,6,5451,Tier 2,draftYear:2025
+Quinshon Judkins,1751,RB,CLE,21.5,"6' 0""",219,2,4,5183,Tier 3,draftYear:2025
+Raheim Sanders,1762,RB,LAC,-1.0,"6' 0""",230,0,0,494,Tier 17,South Carolina
+Tyler Warren,1802,TE,IND,22.9,"6' 5""",256,1,14,4745,Tier 4,draftYear:2025
+Emeka Egbuka,1781,WR,TBB,22.5,"6' 1""",202,1,19,4739,Tier 4,draftYear:2025
+Luke Lachey,1811,TE,HOU,23.8,"6' 6""",247,7,39,470,Tier 17,draftYear:2025
+Colston Loveland,1804,TE,CHI,21.0,"6' 6""",248,1,10,4682,Tier 4,draftYear:2025
+Kaleb Johnson,1748,RB,PIT,21.7,"6' 0""",225,3,19,4490,Tier 4,draftYear:2025
+Matthew Golden,1775,WR,GBP,21.7,"5' 11""",191,1,23,4416,Tier 4,draftYear:2025
+RJ Harvey,1768,RB,DEN,24.2,"5' 9""",205,2,28,4364,Tier 4,draftYear:2025
+Jaxson Dart,1732,QB,NYG,22.0,"6' 2""",223,1,25,4222,Tier 4,draftYear:2025
+Luther Burden,1770,WR,CHI,21.4,"5' 11""",208,2,7,4026,Tier 4,draftYear:2025
+Jayden Higgins,1783,WR,HOU,22.4,"6' 4""",210,2,2,3758,Tier 5,draftYear:2025
+Cam Skattebo,1745,RB,NYG,23.2,"5' 10""",225,4,3,3586,Tier 5,draftYear:2025
+Tre Harris,1772,WR,LAC,23.2,"6' 2""",205,2,23,3435,Tier 5,draftYear:2025
+Jack Bech,1778,WR,LVR,22.4,"6' 2""",215,2,26,3224,Tier 6,draftYear:2025
+Jalen Milroe,1733,QB,SEA,22.4,"6' 2""",225,3,28,3119,Tier 6,draftYear:2025
+Jaylin Noel,1780,WR,HOU,22.6,"5' 10""",200,3,15,2927,Tier 7,draftYear:2025
+Bhayshul Tuten,1752,RB,JAC,23.2,"5' 11""",209,4,2,2920,Tier 7,draftYear:2025
+Jaydon Blue,1769,RB,DAL,21.3,"6' 0""",200,5,11,2825,Tier 7,draftYear:2025
+Dylan Sampson,1747,RB,CLE,20.6,"5' 11""",201,4,24,2763,Tier 7,draftYear:2025
+Tyler Shough,1739,QB,NOS,25.6,"6' 5""",225,2,8,2692,Tier 8,draftYear:2025
+Shedeur Sanders,1731,QB,CLE,23.2,"6' 2""",215,5,6,2689,Tier 8,draftYear:2025
+Terrance Ferguson,1807,TE,LAR,22.1,"6' 5""",255,2,14,2632,Tier 8,draftYear:2025
+Jalen Royals,1786,WR,KCC,22.2,"6' 0""",205,4,31,2603,Tier 8,draftYear:2025
+Devin Neal,1746,RB,NOS,21.7,"5' 11""",215,6,8,2504,Tier 9,draftYear:2025
+Elijah Arroyo,1808,TE,SEA,22.1,"6' 4""",245,2,18,2501,Tier 9,draftYear:2025
+Trevor Etienne,1756,RB,CAR,20.8,"5' 9""",205,4,12,2493,Tier 9,draftYear:2025
+Harold Fannin,1803,TE,CLE,20.8,"6' 4""",230,3,3,2455,Tier 9,draftYear:2025
+Ollie Gordon,1759,RB,MIA,21.3,"6' 2""",225,6,3,2372,Tier 9,draftYear:2025
+Elic Ayomanor,1773,WR,TEN,21.9,"6' 2""",210,4,34,2241,Tier 10,draftYear:2025
+DJ Giddens,1760,RB,IND,21.7,"6' 1""",212,5,13,2198,Tier 10,draftYear:2025
+Kyle Williams,1812,WR,NEP,22.4,"6' 0""",186,3,5,2168,Tier 10,draftYear:2025
+Will Howard,1736,QB,PIT,23.6,"6' 4""",237,6,9,2014,Tier 11,draftYear:2025
+Jordan James,1755,RB,SFO,21.1,"5' 10""",205,5,9,2011,Tier 11,draftYear:2025
+Dillon Gabriel,1737,QB,CLE,24.3,"5' 11""",204,3,30,1982,Tier 11,draftYear:2025
+Quinn Ewers,1734,QB,MIA,22.0,"6' 2""",210,7,15,1902,Tier 12,draftYear:2025
+Pat Bryant,1782,WR,DEN,22.4,"6' 3""",200,3,10,1888,Tier 12,draftYear:2025
+Damien Martinez,1754,RB,SEA,21.2,"6' 0""",232,7,7,1845,Tier 12,draftYear:2025
+Isaac TeSlaa,1813,WR,DET,23.2,"6' 4""",217,3,6,1752,Tier 13,draftYear:2025
+Savion Williams,1796,WR,GBP,23.4,"6' 5""",225,3,23,1709,Tier 13,draftYear:2025
+Tai Felton,1797,WR,MIN,22.1,"6' 2""",186,3,38,1630,Tier 14,draftYear:2025
+Tez Johnson,1779,WR,TBB,23.0,"5' 10""",160,7,19,1573,Tier 14,draftYear:2025
+Tahj Brooks,1758,RB,CIN,23.0,"5' 10""",230,6,17,1541,Tier 14,draftYear:2025
+Tory Horton,1798,WR,SEA,22.4,"6' 2""",190,5,28,1529,Tier 14,draftYear:2025
+Jarquez Hunter,1764,RB,LAR,22.3,"5' 10""",209,4,15,1512,Tier 14,draftYear:2025
+Woody Marks,1753,RB,HOU,24.3,"5' 10""",208,4,14,1479,Tier 14,draftYear:2025
+Xavier Restrepo,1777,WR,FA,-1.0,"5' 10""",198,0,0,1435,Tier 14,Miami
+Gunnar Helm,1805,TE,TEN,22.6,"6' 5""",250,4,18,1270,Tier 15,draftYear:2025
+Kyle Monangai,1766,RB,CHI,22.9,"5' 9""",209,7,17,1235,Tier 15,draftYear:2025
+Isaiah Bond,1776,WR,FA,-1.0,"5' 11""",180,0,0,1203,Tier 15,Texas
