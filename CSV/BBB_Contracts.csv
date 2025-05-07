@@ -1,312 +1,480 @@
-Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First Year,Contract Final Year,Contract Duration,Contract Year,Year 1 Salary,Year 2 Salary,Year 3 Salary,Year 4 Salary,Contract Original Team,Contract Current Team,Status,Relative Year 1 Salary,Relative Year 2 Salary,Relative Year 3 Salary,Relative Year 4 Salary,Startup Contract?,Cut?,Position,Dead Cap Rate,Commish Notes,Relative Year 1 Dead,Relative Year 2 Dead,Relative Year 3 Dead,Relative Year 4 Dead,CreatedByTransactionID,CreatedByTransactionType,Duplicate?,Last Trade Transaction,Age,TeamDisplayName,Current KTC Value
-559,Tim Tebow,Waiver,45653.91619,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1178491422442336256,Waiver,FALSE,,34,lalder,0
-138,Ben Roethlisberger,Waiver,45645.87103,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175575953754378240,Waiver,FALSE,,39,lalder,0
-515,Rob Gronkowski,Waiver,45645.87065,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1175575816067960832,Waiver,FALSE,,32,lalder,0
-232,Frank Gore,Waiver,45645.87027,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1175575676888371200,Waiver,FALSE,,38,lalder,0
-223,Larry Fitzgerald,Waiver,45645.87009,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1175575612849737728,Waiver,FALSE,,38,lalder,0
-167,Tom Brady,Waiver,45645.86905,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175575234091503616,Waiver,FALSE,,45,lalder,0
-4972,Mason Rudolph,Waiver,45645.19203,2024,2024,1,2,1,0,0,0,9,9,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175329891034677248,Waiver,FALSE,,29,mlthomas5095,1292
-6963,Patrick Taylor,Waiver,45639.02179,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1173093870578696192,Waiver,FALSE,,27,jwalwer81,0
-8177,Grant Calcaterra,Waiver,45633.69772,2024,2024,1,2,1,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1171164491812290560,Waiver,FALSE,,26,Delusional1,1463
-9487,Parker Washington,Waiver,45631.80784,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1170479621708558336,Waiver,FALSE,,23,Vikingsfan80,1721
-11651,Isaac Guerendo,Waiver,45630.33477,2024,2024,1,2,72,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1169442024488132608,Waiver,FALSE,,24,lalder,2603
-9227,Israel Abanikanda,Waiver,45630.33477,2024,2024,1,2,2,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1169848453409751040,Waiver,FALSE,,22,jwalwer81,1101
-11834,Devaughn Vele,Waiver,45623.33527,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1166892731969658880,Waiver,FALSE,,27,Vikingsfan80,1514
-5010,Will Dissly,Waiver,45620.661,2024,2024,1,2,1,0,0,0,9,9,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1166440140982571008,Waiver,FALSE,,28,mlthomas5095,1478
-3357,Brandon Allen,Waiver,45619.60652,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1166058010611933184,Waiver,FALSE,,32,lalder,0
-5854,Drew Lock,Waiver,45619.19882,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1165910268342296576,Waiver,FALSE,,28,jwalwer81,1066
-11579,Audric Estime,Waiver,45618.02103,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1165483450938425344,Waiver,FALSE,,21,Chewy2552,2129
-11292,Tommy DeVito,Waiver,45614.71512,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1164285427726004224,Waiver,FALSE,,26,Chewy2552,416
-4144,Jonnu Smith,Waiver,45613.66569,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1163905129884532736,Waiver,FALSE,,29,Schoontang,3101
-7527,Mac Jones,Waiver,45609.335,2024,2024,1,2,1,0,0,0,6,6,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1161842583636230144,Waiver,FALSE,,26,tylercrain,1335
-4234,Noah Brown,Waiver,45606.01071,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1161131055810723841,Waiver,FALSE,,29,lalder,1134
-6938,Cam Akers,Waiver,45602.58346,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159889060421283840,Waiver,FALSE,,25,lalder,1090
-11575,Ray Davis,Waiver,45602.5834,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159889040414453760,Waiver,FALSE,,25,lalder,2528
-9508,Tyjae Spears,Waiver,45602.58332,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1159889010299351040,Waiver,FALSE,,23,lalder,2941
-5995,Justice Hill,Waiver,45602.33465,2024,2024,1,2,2,0,0,0,2,2,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159520085099466752,Waiver,FALSE,,27,aintEZBNwheezE,1402
-4574,Cooper Rush,Waiver,45602.33465,2024,2024,1,2,1,0,0,0,3,3,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1159667132712484864,Waiver,FALSE,,31,DylanBears2022,415
-7828,Noah Gray,Waiver,45599.66877,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1158832816579379200,Waiver,FALSE,,26,Henrypavlak3,2376
-11651,Isaac Guerendo,Waiver,45595.29297,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1156633527467978752,Waiver,FALSE,,24,Vikingsfan80,2603
-11596,Ben Sinnott,Waiver,45591.52653,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1155882163124948992,Waiver,FALSE,,22,Chewy2552,2907
-3200,Sterling Shepard,Waiver,45588.80345,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154895355280998400,Waiver,FALSE,,32,lalder,415
-11618,Jalen McMillan,Waiver,45588.62002,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154828883703746560,Waiver,FALSE,,23,Chewy2552,2921
-5917,Mecole Hardman,Waiver,45588.2935,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1154444279650095104,Waiver,FALSE,,27,aintEZBNwheezE,897
-10444,Cedric Tillman,Waiver,45588.2935,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154444320058093568,Waiver,FALSE,,25,aintEZBNwheezE,2598
-2306,Jameis Winston,Waiver,45588.2935,2024,2024,1,2,9,0,0,0,1,9,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1154662637356089344,Waiver,FALSE,1.15483E+18,31,mlthomas5095,1695
-7083,Tyler Huntley,Waiver,45582.57787,2024,2024,1,2,5,0,0,0,6,6,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1152266228933881856,Waiver,FALSE,,27,tylercrain,713
-11575,Ray Davis,Waiver,45581.54706,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1152265724191166464,Waiver,FALSE,,25,jwalwer81,2528
-9506,Sean Tucker,Waiver,45581.29302,2024,2024,1,2,16,0,0,0,1,7,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1151975124023918592,Waiver,FALSE,1.1531E+18,23,Vikingsfan80,1765
-4718,Dare Ogunbowale,Waiver,45577.84002,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1150922340906156032,Waiver,FALSE,,31,aintEZBNwheezE,0
-5096,Ray-Ray McCloud,Waiver,45576.9252,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1150590818097418240,Waiver,FALSE,,28,Chewy2552,1051
-4040,JuJu Smith-Schuster,Waiver,45575.96639,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1150243359706042368,Waiver,FALSE,,28,Henrypavlak3,976
-5995,Justice Hill,Waiver,45574.98111,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1149886305908654080,Waiver,FALSE,,27,jwalwer81,1402
-9225,Tank Bigsby,Waiver,45574.58744,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1149743646552457216,Waiver,FALSE,,22,EthanL21,2777
-11655,Tyrone Tracy,Waiver,45570.07058,2024,2024,1,2,1,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1148106790140215296,Waiver,FALSE,,25,Delusional1,3249
-10213,Tre Tucker,Waiver,45569.73352,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1147984643757551616,Waiver,FALSE,,24,Schoontang,1703
-7593,Trey Sermon,Waiver,45569.7328,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1147984380770496512,Waiver,FALSE,,26,Schoontang,790
-11623,Jordan Whittington,Waiver,45569.73269,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1147984340526149632,Waiver,FALSE,,24,Schoontang,1935
-19,Joe Flacco,Waiver,45567.29319,2024,2024,1,2,2,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1146352426757423104,Waiver,FALSE,,40,Delusional1,1382
-7083,Tyler Huntley,Waiver,45563.69242,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1145795419092430848,Waiver,FALSE,,27,lalder,713
-10226,Andrei Iosivas,Waiver,45561.70454,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1145075036647206912,Waiver,FALSE,,25,EthanL21,1903
-6865,Colby Parkinson,Waiver,45561.70417,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1145074904237223936,Waiver,FALSE,,26,EthanL21,1534
-1339,Zach Ertz,Waiver,45560.29289,2024,2024,1,2,6,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1144391445906939904,Waiver,FALSE,,34,Delusional1,2032
-7562,Tutu Atwell,Waiver,45560.29289,2024,2024,1,2,7,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1144135999489880064,Waiver,FALSE,,25,Delusional1,1680
-7049,Jauan Jennings,Waiver,45560.29289,2024,2024,1,2,10,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1144318781628702720,Waiver,FALSE,,27,EthanL21,3085
-9480,Brenton Strange,Waiver,45557.51295,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1143556058707779584,Waiver,FALSE,,24,aintEZBNwheezE,3097
-11582,Carson Steele,Waiver,45553.29318,2024,2024,1,2,12,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1141947780433354752,Waiver,FALSE,,22,jwalwer81,931
-4147,Samaje Perine,Waiver,45553.29318,2024,2024,1,2,5,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1141411080393203712,Waiver,FALSE,,29,lalder,856
-8206,Skylar Thompson,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1140715728975360000,Waiver,FALSE,,27,lalder,0
-8180,Jalen Nailor,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1141418792669650944,Waiver,FALSE,1.1549E+18,26,Vikingsfan80,1512
-829,Andy Dalton,Waiver,45553.29318,2024,2024,1,2,16,0,0,0,1,9,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1141473651871608832,Waiver,FALSE,1.15044E+18,37,mlthomas5095,0
-4098,Kareem Hunt,Waiver,45551.91506,2024,2024,1,2,1,0,0,0,6,6,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1141527446290817024,Waiver,FALSE,,29,tylercrain,1657
-8161,Malik Willis,Waiver,45547.65929,2024,2024,1,2,1,0,0,0,1,11,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1139985212462456832,Waiver,FALSE,1.14072E+18,25,Schoontang,1445
-5185,Allen Lazard,Waiver,45546.29319,2024,2024,1,2,3,0,0,0,10,10,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1139448349108740096,Waiver,FALSE,,29,jwalwer81,824
-8117,Jalen Tolbert,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1134294766612557824,Waiver,FALSE,,26,EthanL21,1690
-6938,Cam Akers,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299813299834880,Waiver,FALSE,,25,lalder,1090
-8116,Pierre Strong,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299789715451904,Waiver,FALSE,,26,lalder,0
-4029,Dalvin Cook,Waiver,45538.29228,2024,2024,1,2,7,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299600501948416,Waiver,FALSE,,29,lalder,0
-11435,Emanuel Wilson,Waiver,45538.29228,2024,2024,1,2,10,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299520193736704,Waiver,FALSE,,25,lalder,1236
-4171,Josh Reynolds,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1134294891091177472,Waiver,FALSE,,30,EthanL21,730
-8408,Jordan Mason,Waiver,45538.29228,2024,2024,1,2,16,0,0,0,1,8,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299736632233984,Waiver,FALSE,1.15194E+18,25,EthanL21,2737
-11655,Tyrone Tracy,Waiver,45426.29591,2024,2024,1,2,4,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1095814818281385984,Waiver,FALSE,,25,lalder,3249
-10859,Sam LaPorta,Base,45423,2024,2025,2,2,28,30.8,0,0,9,8,Active,30.8,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_01,Startup Draft,FALSE,1.22333E+18,24,EthanL21,6063
-4046,Patrick Mahomes,Base,45423,2024,2027,4,2,60,66,72.6,79.9,4,4,Active,66,72.6,79.9,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_02,Startup Draft,FALSE,,29,Delusional1,7180
-2449,Stefon Diggs,Base,45423,2024,2026,3,2,15,16.5,18.2,0,9,9,Active,16.5,18.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_03,Startup Draft,FALSE,,31,mlthomas5095,2878
-4984,Josh Allen,Base,45423,2024,2026,3,2,60,66,72.6,0,1,1,Active,66,72.6,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_04,Startup Draft,FALSE,,28,lalder,9990
-6794,Justin Jefferson,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,7,7,Active,45.1,49.7,54.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_05,Startup Draft,FALSE,,25,Vikingsfan80,9470
-9758,C.J. Stroud,Base,45423,2024,2026,3,2,52,57.2,63,0,12,12,Active,57.2,63,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_06,Startup Draft,FALSE,,23,Henrypavlak3,0
-4034,Christian McCaffrey,Base,45423,2024,2026,3,2,58,63.8,70.2,0,1,12,Active,63.8,70.2,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_07,Startup Draft,FALSE,1.15519E+18,28,Henrypavlak3,4633
-10229,Rashee Rice,Base,45423,2024,2026,3,2,19,20.9,23,0,7,10,Active,20.9,23,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_08,Startup Draft,FALSE,1.21792E+18,25,jwalwer81,5308
-6904,Jalen Hurts,Base,45423,2024,2027,4,2,48,52.8,58.1,64,8,8,Active,52.8,58.1,64,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_09,Startup Draft,FALSE,,26,EthanL21,7977
-9493,Puka Nacua,Base,45423,2024,2026,3,2,35,38.5,42.4,0,3,8,Active,38.5,42.4,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-9493,Startup Draft,FALSE,1.12619E+18,23,EthanL21,7388
-6770,Joe Burrow,Base,45423,2024,2027,4,2,46,50.6,55.7,61.3,5,5,Active,50.6,55.7,61.3,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_11,Startup Draft,FALSE,,28,Chewy2552,8308
-4881,Lamar Jackson,Base,45423,2024,2027,4,2,48,52.8,58.1,64,3,3,Active,52.8,58.1,64,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_12,Startup Draft,FALSE,,28,DylanBears2022,9437
-9221,Jahmyr Gibbs,Base,45423,2024,2026,3,2,36,39.6,43.6,0,4,4,Active,39.6,43.6,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_13,Startup Draft,FALSE,,23,Delusional1,8190
-9229,Anthony Richardson,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,11,11,Active,45.1,49.7,54.7,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_14,Startup Draft,FALSE,,22,Schoontang,3658
-9509,Bijan Robinson,Base,45423,2024,2027,4,2,45,49.5,54.5,60,11,11,Active,49.5,54.5,60,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_15,Startup Draft,FALSE,,23,Schoontang,8231
-1466,Travis Kelce,Base,45423,2024,2026,3,2,28,30.8,33.9,0,6,6,Active,30.8,33.9,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_16,Startup Draft,FALSE,,35,tylercrain,3280
-6786,CeeDee Lamb,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,8,8,Active,45.1,49.7,54.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_17,Startup Draft,FALSE,,26,EthanL21,7858
-7564,Ja'Marr Chase,Base,45423,2024,2026,3,2,40,44,48.4,0,12,4,Active,44,48.4,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1095779391986135040-7564,Startup Draft,FALSE,1.09578E+18,25,Delusional1,9992
-8155,Breece Hall,Base,45423,2024,2025,2,2,43,47.3,0,0,9,7,Active,47.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1154831004835020800-8155,Startup Draft,FALSE,1.21792E+18,23,Vikingsfan80,5550
-6797,Justin Herbert,Base,45423,2024,2027,4,2,43,47.3,52.1,57.4,7,7,Active,47.3,52.1,57.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_20,Startup Draft,FALSE,,27,Vikingsfan80,6732
-4983,DJ Moore,Base,45423,2024,2026,3,2,30,33,36.3,0,9,9,Active,33,36.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_21,Startup Draft,FALSE,,28,mlthomas5095,0
-5859,A.J. Brown,Base,45423,2024,2027,4,2,35,38.5,42.4,46.7,10,10,Active,38.5,42.4,46.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_22,Startup Draft,FALSE,,27,jwalwer81,0
-3321,Tyreek Hill,Base,45423,2024,2025,2,2,40,44,0,0,3,3,Active,44,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_23,Startup Draft,FALSE,,31,DylanBears2022,3891
-7547,Amon-Ra St. Brown,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,11,11,Active,45.1,49.7,54.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_24,Startup Draft,FALSE,,25,Schoontang,0
-7526,Jaylen Waddle,Base,45423,2024,2027,4,2,34,37.4,41.2,45.4,5,5,Active,37.4,41.2,45.4,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_25,Startup Draft,FALSE,,26,Chewy2552,4472
-4866,Saquon Barkley,Base,45423,2024,2025,2,2,41,45.1,0,0,12,12,Active,45.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_26,Startup Draft,FALSE,,28,Henrypavlak3,6668
-6804,Jordan Love,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,2,2,Active,45.1,49.7,54.7,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_27,Startup Draft,FALSE,,26,aintEZBNwheezE,6332
-7543,Travis Etienne,Base,45423,2024,2027,4,2,35,38.5,42.4,46.7,5,5,Active,38.5,42.4,46.7,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_28,Startup Draft,FALSE,,26,Chewy2552,3167
-9997,Zay Flowers,Base,45423,2024,2027,4,2,25,27.5,30.3,33.4,11,11,Active,27.5,30.3,33.4,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_29,Startup Draft,FALSE,,24,Schoontang,4699
-8150,Kyren Williams,Base,45423,2024,2026,3,2,38,41.8,46,0,10,10,Active,41.8,46,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_30,Startup Draft,FALSE,,24,jwalwer81,5232
-5850,Josh Jacobs,Base,45423,2024,2026,3,2,30,33,36.3,0,8,8,Active,33,36.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_31,Startup Draft,FALSE,,27,EthanL21,4764
-8146,Garrett Wilson,Base,45423,2024,2025,2,2,29,31.9,0,0,9,9,Active,31.9,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_32,Startup Draft,FALSE,,24,mlthomas5095,6034
-6813,Jonathan Taylor,Base,45423,2024,2025,2,2,37,40.7,0,0,6,6,Active,40.7,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_33,Startup Draft,FALSE,,26,tylercrain,5521
-5849,Kyler Murray,Base,45423,2024,2026,3,2,39,42.9,47.2,0,10,10,Active,42.9,47.2,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_34,Startup Draft,FALSE,,27,jwalwer81,5576
-3294,Dak Prescott,Base,45423,2024,2026,3,2,30,33,36.3,0,3,3,Active,33,36.3,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_35,Startup Draft,FALSE,,31,DylanBears2022,4455
-8144,Chris Olave,Base,45423,2024,2027,4,2,26,28.6,31.5,34.7,12,12,Active,28.6,31.5,34.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_36,Startup Draft,FALSE,,24,Henrypavlak3,4548
-7525,DeVonta Smith,Base,45423,2024,2026,3,2,24,26.4,29.1,0,4,6,Active,26.4,29.1,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_37,Startup Draft,FALSE,1.21329E+18,26,tylercrain,5270
-8183,Brock Purdy,Base,45423,2024,2026,3,2,34,37.4,41.2,0,9,9,Active,37.4,41.2,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_38,Startup Draft,FALSE,,25,mlthomas5095,5467
-5844,T.J. Hockenson,Base,45423,2024,2027,4,2,21,23.1,25.5,28.1,12,12,Active,23.1,25.5,28.1,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_39,Startup Draft,FALSE,1.21292E+18,27,Henrypavlak3,0
-7553,Kyle Pitts,Base,45423,2024,2026,3,2,28,30.8,33.9,0,7,7,Active,30.8,33.9,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_40,Startup Draft,FALSE,,24,Vikingsfan80,3833
-10236,Dalton Kincaid,Base,45423,2024,2026,3,2,19,20.9,23,0,11,11,Active,20.9,23,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_41,Startup Draft,FALSE,,25,Schoontang,3892
-9226,De'Von Achane,Base,45423,2024,2026,3,2,25,27.5,30.3,0,1,9,Active,27.5,30.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1107336472975347712-9226,Startup Draft,FALSE,1.22333E+18,23,mlthomas5095,6066
-6803,Brandon Aiyuk,Base,45423,2024,2027,4,2,23,25.3,27.9,30.7,2,2,Active,25.3,27.9,30.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_43,Startup Draft,FALSE,,27,aintEZBNwheezE,3960
-8205,Isiah Pacheco,Base,45423,2024,2027,4,2,22,24.2,26.7,29.4,2,2,Active,24.2,26.7,29.4,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_44,Startup Draft,FALSE,,26,aintEZBNwheezE,3209
-8151,Kenneth Walker,Base,45423,2024,2027,4,2,22,24.2,26.7,29.4,2,2,Active,24.2,26.7,29.4,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_45,Startup Draft,FALSE,,24,aintEZBNwheezE,0
-8136,Rachaad White,Base,45423,2024,2026,3,2,30,33,36.3,0,4,11,Active,33,36.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1149765488134803456-8136,Startup Draft,FALSE,1.14977E+18,26,Schoontang,2698
-7523,Trevor Lawrence,Base,45423,2024,2027,4,2,33,36.3,40,44,2,2,Active,36.3,40,44,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_47,Startup Draft,FALSE,,25,aintEZBNwheezE,5531
-8112,Drake London,Base,45423,2024,2026,3,2,23,25.3,27.9,0,8,1,Active,25.3,27.9,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_48,Startup Draft,FALSE,1.21649E+18,23,lalder,6449
-6790,D'Andre Swift,Base,45423,2024,2025,2,2,20,22,0,0,6,6,Active,22,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_49,Startup Draft,FALSE,,26,tylercrain,3216
-8130,Trey McBride,Base,45423,2024,2026,3,2,20,22,24.2,0,1,1,Active,22,24.2,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_50,Startup Draft,FALSE,,25,lalder,7196
-5012,Mark Andrews,Base,45423,2024,2025,2,2,17,18.7,0,0,5,5,Active,18.7,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_51,Startup Draft,FALSE,,29,Chewy2552,3568
-8138,James Cook,Base,45423,2024,2026,3,2,22,24.2,26.7,0,7,7,Active,24.2,26.7,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_52,Startup Draft,FALSE,,25,Vikingsfan80,4896
-7528,Najee Harris,Base,45423,2024,2025,2,2,17,18.7,0,0,5,5,Active,18.7,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_53,Startup Draft,FALSE,,27,Chewy2552,2844
-6801,Tee Higgins,Base,45423,2024,2027,4,2,14,15.4,17,18.7,2,2,Active,15.4,17,18.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_54,Startup Draft,FALSE,,26,aintEZBNwheezE,5456
-7611,Rhamondre Stevenson,Base,45423,2024,2026,3,2,20,22,24.2,0,8,4,Active,22,24.2,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1144484671636553728-7611,Startup Draft,FALSE,1.14448E+18,27,Delusional1,2594
-7591,Justin Fields,Base,45423,2024,2025,2,2,7,7.7,0,0,10,10,Active,7.7,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_56,Startup Draft,FALSE,,26,jwalwer81,3851
-6819,Michael Pittman,Base,45423,2024,2026,3,2,20,22,24.2,0,4,12,Active,22,24.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1095779391986135040-6819,Startup Draft,FALSE,1.09578E+18,27,Henrypavlak3,3447
-7588,Javonte Williams,Base,45423,2024,2026,3,2,15,16.5,18.2,0,3,3,Active,16.5,18.2,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_58,Startup Draft,FALSE,,25,DylanBears2022,2719
-3163,Jared Goff,Base,45423,2024,2027,4,2,19,20.9,23,25.3,10,10,Active,20.9,23,25.3,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_59,Startup Draft,FALSE,,30,jwalwer81,4701
-2216,Mike Evans,Base,45423,2024,2025,2,2,16,17.6,0,0,5,5,Active,17.6,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_60,Startup Draft,FALSE,,31,Chewy2552,3823
-11628,Marvin Harrison,Base,45423,2024,2027,4,2,20,22,24.2,26.7,10,10,Active,22,24.2,26.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_61,Startup Draft,FALSE,,22,jwalwer81,0
-11632,Malik Nabers,Base,45423,2024,2027,4,2,15,16.5,18.2,20.1,6,6,Active,16.5,18.2,20.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_62,Startup Draft,FALSE,,21,tylercrain,8668
-11560,Caleb Williams,Base,45423,2024,2027,4,2,25,27.5,30.3,33.4,6,6,Active,27.5,30.3,33.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_63,Startup Draft,FALSE,,23,tylercrain,6732
-11620,Rome Odunze,Base,45423,2024,2027,4,2,18,19.8,21.8,24,6,6,Active,19.8,21.8,24,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_64,Startup Draft,FALSE,,22,tylercrain,5270
-11566,Jayden Daniels,Base,45423,2024,2027,4,2,17,18.7,20.6,22.7,5,5,Active,18.7,20.6,22.7,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_65,Startup Draft,FALSE,,24,Chewy2552,9997
-11604,Brock Bowers,Base,45423,2024,2027,4,2,11,12.1,13.4,14.8,3,3,Active,12.1,13.4,14.8,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_66,Startup Draft,FALSE,,22,DylanBears2022,9119
-11564,Drake Maye,Base,45423,2024,2026,3,2,17,18.7,20.6,0,8,8,Active,18.7,20.6,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_67,Startup Draft,FALSE,,22,EthanL21,6725
-9502,Tank Dell,Base,45423,2024,2027,4,2,9,9.9,10.9,12,7,1,Active,9.9,10.9,12,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1153827347214417920-9502,Startup Draft,FALSE,1.15383E+18,25,lalder,2619
-11559,Michael Penix,Base,45423,2024,2027,4,2,5,5.5,6.1,6.8,1,1,Active,5.5,6.1,6.8,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_69,Startup Draft,FALSE,,24,lalder,0
-11565,J.J. McCarthy,Base,45423,2024,2026,3,2,13,14.3,15.8,0,7,7,Active,14.3,15.8,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_70,Startup Draft,FALSE,,22,Vikingsfan80,0
-6768,Tua Tagovailoa,Base,45423,2024,2027,4,2,16,17.6,19.4,21.4,6,6,Active,17.6,19.4,21.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_71,Startup Draft,FALSE,,27,tylercrain,4077
-3198,Derrick Henry,Base,45423,2024,2025,2,2,13,14.3,0,0,6,6,Active,14.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_72,Startup Draft,FALSE,,31,tylercrain,4401
-5846,DK Metcalf,Base,45423,2024,2027,4,2,9,9.9,10.9,12,10,9,Active,9.9,10.9,12,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_73,Startup Draft,FALSE,1.22347E+18,27,mlthomas5095,4591
-10222,Jayden Reed,Base,45423,2024,2027,4,2,6,6.6,7.3,8.1,2,2,Active,6.6,7.3,8.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_74,Startup Draft,FALSE,,25,aintEZBNwheezE,3727
-5967,Tony Pollard,Base,45423,2024,2025,2,2,8,8.8,0,0,9,9,Active,8.8,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_75,Startup Draft,FALSE,,28,mlthomas5095,2998
-4199,Aaron Jones,Base,45423,2024,2025,2,2,10,11,0,0,7,7,Active,11,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_76,Startup Draft,FALSE,,30,Vikingsfan80,2921
-7569,Nico Collins,Base,45423,2024,2027,4,2,9,9.9,10.9,12,2,2,Active,9.9,10.9,12,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_77,Startup Draft,FALSE,,26,aintEZBNwheezE,6442
-4039,Cooper Kupp,Base,45423,2024,2025,2,2,6,6.6,0,0,12,12,Active,6.6,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_78,Startup Draft,FALSE,,31,Henrypavlak3,2838
-8137,George Pickens,Base,45423,2024,2027,4,2,6,6.6,7.3,8.1,1,1,Active,6.6,7.3,8.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_79,Startup Draft,FALSE,,24,lalder,4083
-9756,Jordan Addison,Base,45423,2024,2026,3,2,7,7.7,8.5,0,11,12,Active,7.7,8.5,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154488961423917056-9756,Startup Draft,FALSE,1.15449E+18,23,Henrypavlak3,4741
-4217,George Kittle,Base,45423,2024,2025,2,2,7,7.7,0,0,1,10,Active,7.7,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1138900386359836672-4217,Startup Draft,FALSE,1.1389E+18,31,jwalwer81,4584
-9228,Bryce Young,Base,45423,2024,2026,3,2,7,7.7,8.5,0,4,9,Active,7.7,8.5,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_82,Startup Draft,FALSE,1.22345E+18,23,mlthomas5095,5072
-5872,Deebo Samuel,Base,45423,2024,2027,4,2,8,8.8,9.7,10.7,6,6,Active,8.8,9.7,10.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_83,Startup Draft,FALSE,,29,tylercrain,3090
-4018,Joe Mixon,Base,45423,2024,2027,4,2,8,8.8,9.7,10.7,10,10,Active,8.8,9.7,10.7,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_84,Startup Draft,FALSE,,28,jwalwer81,3718
-11624,Xavier Worthy,Base,45423,2024,2027,4,2,7,7.7,8.5,9.4,3,3,Active,7.7,8.5,9.4,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_85,Startup Draft,FALSE,,22,DylanBears2022,4725
-4033,David Njoku,Base,45423,2024,2026,3,2,7,7.7,8.5,0,2,2,Active,7.7,8.5,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_86,Startup Draft,FALSE,,28,aintEZBNwheezE,3650
-2133,Davante Adams,Base,45423,2024,2025,2,2,5,5.5,0,0,5,5,Active,5.5,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_87,Startup Draft,FALSE,,32,Chewy2552,3398
-11583,Jonathon Brooks,Base,45423,2024,2025,2,2,6,6.6,0,0,8,8,Active,6.6,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_88,Startup Draft,FALSE,,21,EthanL21,2889
-11586,Blake Corum,Base,45423,2024,2026,3,2,6,6.6,7.3,0,11,11,Active,6.6,7.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_89,Startup Draft,FALSE,,24,Schoontang,2533
-4017,Deshaun Watson,Base,45423,2024,2027,4,2,6,6.6,7.3,8.1,6,6,Active,6.6,7.3,8.1,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_90,Startup Draft,FALSE,,29,tylercrain,584
-9488,Jaxon Smith-Njigba,Base,45423,2024,2026,3,2,5,5.5,6.1,0,4,4,Active,5.5,6.1,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_91,Startup Draft,FALSE,,23,Delusional1,6391
-11631,Brian Thomas,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,4,4,Active,2.2,2.5,2.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_92,Startup Draft,FALSE,,22,Delusional1,0
-1234,Russell Wilson,Base,45423,2024,2025,2,2,3,3.3,0,0,1,12,Active,3.3,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,1154488961423917056-1234,Startup Draft,FALSE,1.15449E+18,36,Henrypavlak3,2177
-5927,Terry McLaurin,Base,45423,2024,2025,2,2,4,4.4,0,0,2,8,Active,4.4,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_94,Startup Draft,FALSE,1.21302E+18,29,EthanL21,4368
-11563,Bo Nix,Base,45423,2024,2027,4,2,4,4.4,4.9,5.4,7,7,Active,4.4,4.9,5.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_95,Startup Draft,FALSE,,25,Vikingsfan80,6427
-4066,Evan Engram,Base,45423,2024,2026,3,2,5,5.5,6.1,0,2,2,Active,5.5,6.1,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_96,Startup Draft,FALSE,,30,aintEZBNwheezE,3293
-5022,Dallas Goedert,Base,45423,2024,2025,2,2,3,3.3,0,0,4,4,Active,3.3,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_97,Startup Draft,FALSE,,30,Delusional1,2961
-9500,Josh Downs,Base,45423,2024,2027,4,2,3,3.3,3.7,4.1,2,2,Active,3.3,3.7,4.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_98,Startup Draft,FALSE,,23,aintEZBNwheezE,3482
-4892,Baker Mayfield,Base,45423,2024,2027,4,2,5,5.5,6.1,6.8,10,4,Active,5.5,6.1,6.8,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,1141852822775087104-4892,Startup Draft,FALSE,1.14185E+18,30,Delusional1,5442
-5892,David Montgomery,Base,45423,2024,2025,2,2,3,3.3,0,0,4,12,Active,3.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1097624084013309952-5892,Startup Draft,FALSE,1.09762E+18,27,Henrypavlak3,3836
-9999,Will Levis,Base,45423,2024,2026,3,2,3,3.3,3.7,0,11,11,Active,3.3,3.7,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_101,Startup Draft,FALSE,,25,Schoontang,1489
-2309,Amari Cooper,Base,45423,2024,2027,4,2,4,4.4,4.9,5.4,6,6,Active,4.4,4.9,5.4,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_102,Startup Draft,FALSE,,30,tylercrain,2098
-11637,Keon Coleman,Base,45423,2024,2026,3,2,3,3.3,3.7,0,8,3,Active,3.3,3.7,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-11637,Startup Draft,FALSE,1.12619E+18,21,DylanBears2022,3631
-11635,Ladd McConkey,Base,45423,2024,2027,4,2,5,5.5,6.1,6.8,10,10,Active,5.5,6.1,6.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154831004835020800-11635,Startup Draft,FALSE,1.22347E+18,23,jwalwer81,6368
-1479,Keenan Allen,Base,45423,2024,2025,2,2,3,3.3,0,0,1,5,Active,3.3,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1119737220165918720-1479,Startup Draft,FALSE,1.11974E+18,32,Chewy2552,1795
-9508,Tyjae Spears,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_106,Startup Draft,FALSE,,23,Vikingsfan80,2941
-4037,Chris Godwin,Base,45423,2024,2025,2,2,2,2.2,0,0,1,12,Active,2.2,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1149765488134803456-4037,Startup Draft,FALSE,1.21292E+18,29,Henrypavlak3,3648
-8110,Jake Ferguson,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2.2,2.5,2.8,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_108,Startup Draft,FALSE,,26,jwalwer81,3270
-4035,Alvin Kamara,Base,45423,2024,2026,3,2,2,2.2,2.5,0,5,5,Active,2.2,2.5,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_109,Startup Draft,FALSE,,29,Chewy2552,3674
-8154,Brian Robinson,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_110,Startup Draft,FALSE,,26,aintEZBNwheezE,3332
-2028,Derek Carr,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_111,Startup Draft,FALSE,,34,mlthomas5095,1826
-4137,James Conner,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_112,Startup Draft,FALSE,,30,DylanBears2022,3193
-11439,Jaleel McLaughlin,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_113,Startup Draft,FALSE,,24,Schoontang,1807
-5001,Dalton Schultz,Base,45423,2024,2025,2,2,2,2.2,0,0,6,6,Active,2.2,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_114,Startup Draft,FALSE,,28,tylercrain,2429
-11619,Ja'Lynn Polk,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,3,3,Active,2.2,2.5,2.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_115,Startup Draft,FALSE,,23,DylanBears2022,2032
-1166,Kirk Cousins,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_116,Startup Draft,FALSE,,36,Henrypavlak3,1988
-96,Aaron Rodgers,Base,45423,2024,2026,3,2,2,2.2,2.5,0,1,8,Active,2.2,2.5,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,1135975187918438400-96,Startup Draft,FALSE,1.13598E+18,41,EthanL21,1553
-11638,Ricky Pearsall,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_118,Startup Draft,FALSE,,24,Vikingsfan80,3851
-5848,Hollywood Brown,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_119,Startup Draft,FALSE,,27,jwalwer81,0
-4950,Christian Kirk,Base,45423,2024,2027,4,2,3,3.3,3.7,4.1,10,10,Active,3.3,3.7,4.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_120,Startup Draft,FALSE,,28,jwalwer81,2347
-5937,Diontae Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_121,Startup Draft,FALSE,,28,Delusional1,1381
-421,Matthew Stafford,Base,45423,2024,2025,2,2,1,1.1,0,0,2,2,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_122,Startup Draft,FALSE,,37,aintEZBNwheezE,3140
-11589,Trey Benson,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_123,Startup Draft,FALSE,,22,mlthomas5095,3142
-1373,Geno Smith,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_124,Startup Draft,FALSE,,34,DylanBears2022,3287
-6826,Cole Kmet,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1107336472975347712-6826,Startup Draft,FALSE,1.22259E+18,26,Schoontang,2624
-4981,Calvin Ridley,Base,45423,2024,2025,2,2,2,2.2,0,0,11,7,Active,2.2,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_126,Startup Draft,FALSE,1.22344E+18,30,Vikingsfan80,2848
-7600,Pat Freiermuth,Base,45423,2024,2025,2,2,1,1.1,0,0,8,9,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_127,Startup Draft,FALSE,1.22333E+18,26,mlthomas5095,3170
-8139,Zamir White,Base,45423,2024,2026,3,2,3,3.3,3.7,0,2,2,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,1.7,1.9,0,0,StartupDraft_128,Startup Draft,FALSE,,25,aintEZBNwheezE,1126
-8167,Christian Watson,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,7,Active,2.2,2.5,2.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_129,Startup Draft,FALSE,1.22368E+18,25,Vikingsfan80,2395
-8228,Jaylen Warren,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Active,1.1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_130,Startup Draft,FALSE,,26,Vikingsfan80,2909
-4988,Nick Chubb,Base,45423,2024,2026,3,2,1,1.1,1.3,0,10,1,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1154831004835020800-4988,Startup Draft,FALSE,1.22205E+18,29,lalder,1763
-5045,Courtland Sutton,Base,45423,2024,2026,3,2,2,2.2,2.5,0,2,2,Active,2.2,2.5,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_132,Startup Draft,FALSE,,29,aintEZBNwheezE,3452
-8148,Jameson Williams,Base,45423,2024,2025,2,2,1,1.1,0,0,4,10,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1141852822775087104-8148,Startup Draft,FALSE,1.14185E+18,24,jwalwer81,4403
-5947,Jakobi Meyers,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_134,Startup Draft,FALSE,,28,aintEZBNwheezE,3069
-11626,Xavier Legette,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_135,Startup Draft,FALSE,,24,mlthomas5095,2985
-4663,Austin Ekeler,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_136,Startup Draft,FALSE,,29,DylanBears2022,1900
-5870,Daniel Jones,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_137,Startup Draft,FALSE,,27,Schoontang,2218
-6130,Devin Singletary,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_138,Startup Draft,FALSE,,27,tylercrain,1438
-11625,Adonai Mitchell,Base,45423,2024,2026,3,2,1,1.1,1.3,0,8,8,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_139,Startup Draft,FALSE,,22,EthanL21,2627
-9753,Zach Charbonnet,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_140,Startup Draft,FALSE,,24,Henrypavlak3,3293
-1426,DeAndre Hopkins,Base,45423,2024,2025,2,2,1,1.1,0,0,1,12,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154798040910282752-1426,Startup Draft,FALSE,,32,Henrypavlak3,1580
-8131,Isaiah Likely,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Active,1.1,1.3,1.5,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_142,Startup Draft,FALSE,,25,Vikingsfan80,3707
-9224,Chase Brown,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_143,Startup Draft,FALSE,,25,jwalwer81,4733
-8121,Romeo Doubs,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_144,Startup Draft,FALSE,,25,Chewy2552,2527
-6011,Gardner Minshew,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_145,Startup Draft,FALSE,,28,Delusional1,1016
-5248,Gus Edwards,Base,45423,2024,2025,2,2,1,1.1,0,0,2,2,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_146,Startup Draft,FALSE,,29,aintEZBNwheezE,0
-9484,Tucker Kraft,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_147,Startup Draft,FALSE,,24,mlthomas5095,3692
-2749,Raheem Mostert,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_148,Startup Draft,FALSE,,33,DylanBears2022,927
-6845,Zack Moss,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2.2,2.5,2.8,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_149,Startup Draft,FALSE,,27,jwalwer81,1661
-2374,Tyler Lockett,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_150,Startup Draft,FALSE,,32,tylercrain,1464
-8119,Jahan Dotson,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_151,Startup Draft,FALSE,,25,EthanL21,1534
-6783,Jerry Jeudy,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,1,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154488961423917056-6783,Startup Draft,FALSE,1.15449E+18,26,lalder,3799
-9757,Kendre Miller,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_153,Startup Draft,FALSE,,22,lalder,2098
-11627,Troy Franklin,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_154,Startup Draft,FALSE,,22,Vikingsfan80,2208
-11630,Roman Wilson,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_155,Startup Draft,FALSE,,23,jwalwer81,1982
-9481,Luke Musgrave,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Active,1.1,1.3,1.5,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_156,Startup Draft,FALSE,,24,Chewy2552,2486
-6943,Gabe Davis,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_157,Startup Draft,FALSE,,26,Delusional1,0
-8134,Khalil Shakir,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_158,Startup Draft,FALSE,,25,aintEZBNwheezE,3673
-7594,Chuba Hubbard,Base,45423,2024,2026,3,2,1,1.1,1.3,0,9,9,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_159,Startup Draft,FALSE,,25,mlthomas5095,3978
-4068,Mike Williams,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_160,Startup Draft,FALSE,,30,DylanBears2022,1253
-11617,Malachi Corley,Base,45423,2024,2026,3,2,1,1.1,1.3,0,11,11,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_161,Startup Draft,FALSE,,23,Schoontang,1520
-3164,Ezekiel Elliott,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_162,Startup Draft,FALSE,,29,tylercrain,0
-9754,Quentin Johnston,Base,45423,2024,2025,2,2,1,1.1,0,0,8,3,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-9754,Startup Draft,FALSE,1.12619E+18,23,DylanBears2022,2407
-9482,Michael Mayer,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_164,Startup Draft,FALSE,,23,Henrypavlak3,2416
-8143,Jerome Ford,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,11,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_165,Startup Draft,FALSE,1.22476E+18,25,Schoontang,1924
-3225,Tyler Boyd,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_166,Startup Draft,FALSE,,30,Vikingsfan80,701
-10232,Michael Wilson,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_167,Startup Draft,FALSE,,25,jwalwer81,1994
-8676,Rashid Shaheed,Base,45423,2024,2026,3,2,1,1.1,1.3,0,5,5,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_168,Startup Draft,FALSE,,26,Chewy2552,2825
-11645,Javon Baker,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_169,Startup Draft,FALSE,,23,Delusional1,1577
-8111,Cade Otton,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_170,Startup Draft,FALSE,,26,aintEZBNwheezE,3216
-8132,Tyler Allgeier,Base,45423,2024,2026,3,2,1,1.1,1.3,0,9,9,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_171,Startup Draft,FALSE,,25,mlthomas5095,2272
-3214,Hunter Henry,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_172,Startup Draft,FALSE,,30,DylanBears2022,2182
-11581,MarShawn Lloyd,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_173,Startup Draft,FALSE,,24,Schoontang,2281
-9501,DeMario Douglas,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_174,Startup Draft,FALSE,,24,tylercrain,2223
-7670,Joshua Palmer,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_175,Startup Draft,FALSE,,25,EthanL21,2108
-10235,Roschon Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_176,Startup Draft,FALSE,,24,Henrypavlak3,2060
-9486,Dontayvion Wicks,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,1,9,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_177,Startup Draft,FALSE,1.213E+18,23,mlthomas5095,2307
-6806,J.K. Dobbins,Base,45423,2024,2025,2,2,1,1.1,0,0,7,7,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_178,Startup Draft,FALSE,,26,Vikingsfan80,0
-11596,Ben Sinnott,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_179,Startup Draft,FALSE,,22,jwalwer81,2907
-8210,Chig Okonkwo,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_180,Startup Draft,FALSE,,25,Chewy2552,0
-9225,Tank Bigsby,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_181,Startup Draft,FALSE,,22,Delusional1,2777
-9494,Marvin Mims,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_182,Startup Draft,FALSE,,23,mlthomas5095,2674
-8135,Treylon Burks,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_183,Startup Draft,FALSE,,25,DylanBears2022,1266
-7090,Darnell Mooney,Base,45423,2024,2026,3,2,1,1.1,1.3,0,11,11,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_184,Startup Draft,FALSE,,27,Schoontang,2734
-7571,Rashod Bateman,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_185,Startup Draft,FALSE,,25,tylercrain,2601
-11643,Jaylen Wright,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_186,Startup Draft,FALSE,,22,EthanL21,2579
-9511,Keaton Mitchell,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_187,Startup Draft,FALSE,,23,Henrypavlak3,2034
-6828,A.J. Dillon,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_188,Startup Draft,FALSE,,27,lalder,1077
-4943,Sam Darnold,Base,45423,2024,2025,2,2,1,1.1,0,0,7,11,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_189,Startup Draft,FALSE,1.22344E+18,27,Schoontang,3865
-7608,Khalil Herbert,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_190,Startup Draft,FALSE,,27,Chewy2552,1278
-8126,Wan'Dale Robinson,Base,45423,2024,2025,2,2,1,1.1,0,0,4,2,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1144484671636553728-8126,Startup Draft,FALSE,1.21302E+18,24,aintEZBNwheezE,2293
-7596,Elijah Moore,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_192,Startup Draft,FALSE,,25,mlthomas5095,1828
-9497,Jalin Hyatt,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_193,Startup Draft,FALSE,,23,DylanBears2022,1662
-1689,Adam Thielen,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_194,Startup Draft,FALSE,,34,Schoontang,1581
-2197,Brandin Cooks,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_195,Startup Draft,FALSE,,31,tylercrain,1057
-11600,Ja'Tavion Sanders,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_196,Startup Draft,FALSE,,22,EthanL21,2765
-4080,Zay Jones,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_197,Startup Draft,FALSE,,30,Henrypavlak3,821
-7561,Elijah Mitchell,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_198,Startup Draft,FALSE,,27,lalder,1578
-7002,Juwan Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,7,7,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_199,Startup Draft,FALSE,,28,Vikingsfan80,2052
-4082,Curtis Samuel,Base,45423,2024,2026,3,2,1,1.1,1.3,0,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_200,Startup Draft,FALSE,,28,Chewy2552,1390
-11618,Jalen McMillan,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_201,Startup Draft,FALSE,,23,Delusional1,2921
-8129,Dameon Pierce,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_202,Startup Draft,FALSE,,25,mlthomas5095,1272
-11576,Braelon Allen,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Active,1.1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_203,Startup Draft,FALSE,,21,DylanBears2022,2870
-6945,Antonio Gibson,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_204,Startup Draft,FALSE,,26,Schoontang,1284
-2505,Darren Waller,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,6,6,Expired,0,0,0,0,TRUE,TRUE,TE,0,Retired,0,0,0,0,StartupDraft_205,Startup Draft,FALSE,,31,tylercrain,0
-8230,Ty Chandler,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_206,Startup Draft,FALSE,,26,EthanL21,966
-4381,Taysom Hill,Base,45423,2024,2025,2,2,1,1.1,0,0,12,4,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1097624084013309952-4381,Startup Draft,FALSE,1.09762E+18,34,Delusional1,1651
-8162,Sam Howell,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,1,1,Active,1.1,1.3,1.5,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_208,Startup Draft,FALSE,,24,lalder,1659
-11562,Spencer Rattler,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Active,1.1,1.3,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_209,Startup Draft,FALSE,,24,Vikingsfan80,1618
-11629,Devontez Walker,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_210,Startup Draft,FALSE,,23,Chewy2552,1274
-8142,Alec Pierce,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_211,Startup Draft,FALSE,,25,Delusional1,2200
-11640,Jermaine Burton,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_212,Startup Draft,FALSE,,23,mlthomas5095,1652
-11621,Brenden Rice,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_213,Startup Draft,FALSE,,23,DylanBears2022,1148
-10866,Aidan O'Connell,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_214,Startup Draft,FALSE,,26,Schoontang,1095
-11650,Luke McCaffrey,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,6,6,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_215,Startup Draft,FALSE,,24,tylercrain,1804
-7021,Rico Dowdle,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_216,Startup Draft,FALSE,,26,EthanL21,2084
-5857,Noah Fant,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_217,Startup Draft,FALSE,,27,Henrypavlak3,1936
-8219,Jelani Woods,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_218,Startup Draft,FALSE,,26,lalder,1156
-10863,A.T. Perry,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_219,Startup Draft,FALSE,,25,Vikingsfan80,0
-3286,Demarcus Robinson,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_220,Startup Draft,FALSE,,30,Chewy2552,950
-11575,Ray Davis,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_221,Startup Draft,FALSE,,25,Delusional1,2528
-11584,Bucky Irving,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_222,Startup Draft,FALSE,,22,mlthomas5095,5549
-5970,Greg Dortch,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_223,Startup Draft,FALSE,,26,DylanBears2022,1207
-11647,Kimani Vidal,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_224,Startup Draft,FALSE,,23,Schoontang,1383
-7601,Rondale Moore,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_225,Startup Draft,FALSE,,24,EthanL21,1343
-10225,Jonathan Mingo,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_226,Startup Draft,FALSE,,24,Henrypavlak3,1409
-4951,DJ Chark,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_227,Startup Draft,FALSE,,28,lalder,0
-5133,Tyler Conklin,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0,0,0,StartupDraft_228,Startup Draft,FALSE,,29,Chewy2552,1542
-11651,Isaac Guerendo,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_229,Startup Draft,FALSE,,24,mlthomas5095,2603
-11597,Theo Johnson,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_230,Startup Draft,FALSE,,24,DylanBears2022,2445
-6820,Clyde Edwards-Helaire,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_231,Startup Draft,FALSE,,26,Schoontang,820
-8172,Greg Dulcich,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0,0,0,StartupDraft_232,Startup Draft,FALSE,,25,EthanL21,1493
-5987,Alexander Mattison,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_233,Startup Draft,FALSE,,26,Henrypavlak3,1203
-11567,Jordan Travis,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_234,Startup Draft,FALSE,,24,Chewy2552,636
-4993,Mike Gesicki,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_235,Startup Draft,FALSE,,29,mlthomas5095,2415
-3257,Jacoby Brissett,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_236,Startup Draft,FALSE,,32,EthanL21,695
-2078,Odell Beckham,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_237,Startup Draft,FALSE,,32,Henrypavlak3,0
-6149,Darius Slayton,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_238,Startup Draft,FALSE,,28,Chewy2552,1673
-6151,Miles Sanders,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_239,Startup Draft,FALSE,,28,Henrypavlak3,1229
-7066,K.J. Osborn,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_240,Startup Draft,FALSE,,27,Henrypavlak3,0
-11584,Bucky Irving,Extension,45423,2026,2027,2,0,35,38.5,0,0,9,9,Future,0,35,38.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,Holdout2024-11584,Startup Draft,FALSE,,22,mlthomas5095,5549
+Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First Year,Contract Final Year,Contract Duration,Contract Year,Year 1 Salary,Year 2 Salary,Year 3 Salary,Year 4 Salary,Contract Original Team,Contract Current Team,Status,Relative Year 1 Salary,Relative Year 2 Salary,Relative Year 3 Salary,Relative Year 4 Salary,Startup Contract?,Cut?,Position,Dead Cap Rate,Commish Notes,Relative Year 1 Dead,Relative Year 2 Dead,Relative Year 3 Dead,Relative Year 4 Dead,CreatedByTransactionID,CreatedByTransactionType,Duplicate?,Last Trade Transaction,Age,TeamDisplayName,Current KTC Value,On Taxi?
+12738,Phil Mafah,Rookie,45784.42354,2025,2027,3,1,1,1.1,1.3,0,3,3,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.08,Rookie Draft,TRUE,,22,DylanBears2022,0,
+12546,Marcus Yarns,Rookie,45784.42354,2025,2027,3,1,1,1.1,1.3,0,8,8,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.09,Rookie Draft,TRUE,,23,EthanL21,0,
+12479,Ja'Quinden Jackson,Rookie,45784.42354,2025,2027,3,1,1,1.1,1.3,0,11,11,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.10,Rookie Draft,TRUE,,23,Schoontang,0,
+12634,Jordan Watkins,Rookie,45784.42354,2025,2027,3,1,1,1.1,1.3,0,10,10,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.11,Rookie Draft,TRUE,,23,jwalwer81,0,
+12670,KeAndre Lambert-Smith,Rookie,45784.42354,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.12,Rookie Draft,TRUE,,23,lalder,0,
+12475,Ricky White,Rookie,45784.42353,2025,2027,3,1,1,1.1,1.3,0,5,5,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.12,Rookie Draft,TRUE,,23,Chewy2552,0,
+12641,Jaylin Lane,Rookie,45784.42353,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.01,Rookie Draft,TRUE,,23,lalder,0,
+12699,LaJohntay Wester,Rookie,45784.42353,2025,2027,3,1,1,1.1,1.3,0,3,3,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.02,Rookie Draft,TRUE,,23,DylanBears2022,0,
+12460,Antwane Wells,Rookie,45784.42353,2025,2027,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.03,Rookie Draft,TRUE,,24,Henrypavlak3,0,
+11612,Bru McCoy,Rookie,45784.42353,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.04,Rookie Draft,TRUE,,0,mlthomas5095,0,
+12472,Raheim Sanders,Rookie,45784.42353,2025,2027,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.05,Rookie Draft,TRUE,,22,aintEZBNwheezE,0,
+12488,Kobe Hudson,Rookie,45784.42353,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.06,Rookie Draft,TRUE,,0,Delusional1,0,
+12491,Corey Kiner,Rookie,45784.42353,2025,2027,3,1,1,1.1,1.3,0,6,6,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.07,Rookie Draft,TRUE,,23,tylercrain,0,
+12480,Moliki Matavao,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.03,Rookie Draft,TRUE,,22,Henrypavlak3,0,
+12544,LeQuint Allen,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.04,Rookie Draft,TRUE,,20,mlthomas5095,0,
+12515,Donovan Edwards,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.05,Rookie Draft,TRUE,,22,aintEZBNwheezE,0,
+12523,Jimmy Horn,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.06,Rookie Draft,TRUE,,22,Delusional1,0,
+12516,Kalel Mullings,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.07,Rookie Draft,TRUE,,22,Delusional1,0,
+12533,Jacory Croskey-Merritt,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,7,7,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.08,Rookie Draft,TRUE,,24,Vikingsfan80,0,
+12539,Arian Smith,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,8,8,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.09,Rookie Draft,TRUE,,23,EthanL21,0,
+12470,Riley Leonard,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,11,11,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.10,Rookie Draft,TRUE,,22,Schoontang,0,
+12531,Trevor Etienne,Rookie,45784.42352,2025,2027,3,1,1,1.1,1.3,0,10,10,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.11,Rookie Draft,TRUE,,20,jwalwer81,0,
+12494,Kyle McCord,Rookie,45784.42351,2025,2027,3,1,1,1.1,1.3,0,6,6,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.07,Rookie Draft,TRUE,,22,tylercrain,0,
+12474,Woody Marks,Rookie,45784.42351,2025,2027,3,1,1,1.1,1.3,0,8,8,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.08,Rookie Draft,TRUE,,24,EthanL21,0,
+12543,Tahj Brooks,Rookie,45784.42351,2025,2027,3,1,1,1.1,1.3,0,8,8,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.09,Rookie Draft,TRUE,,22,EthanL21,0,
+11569,Jarquez Hunter,Rookie,45784.42351,2025,2027,3,1,1,1.1,1.3,0,11,11,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.10,Rookie Draft,TRUE,,22,Schoontang,0,
+12540,Chimere Dike,Rookie,45784.42351,2025,2027,3,1,1,1.1,1.3,0,10,10,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.11,Rookie Draft,TRUE,,23,jwalwer81,0,
+12541,Dont'e Thornton,Rookie,45784.42351,2025,2027,3,1,1,1.1,1.3,0,5,5,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.12,Rookie Draft,TRUE,,22,Chewy2552,0,
+12455,Brashard Smith,Rookie,45784.42351,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.01,Rookie Draft,TRUE,,22,mlthomas5095,0,
+12473,Mitchell Evans,Rookie,45784.42351,2025,2027,3,1,1,1.1,1.3,0,7,7,Active,1,1.1,1.3,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.02,Rookie Draft,TRUE,,22,Vikingsfan80,0,
+12485,Tez Johnson,Rookie,45784.4235,2025,2027,3,1,1,1.1,1.3,0,10,10,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.11,Rookie Draft,TRUE,,22,jwalwer81,0,
+12497,Tory Horton,Rookie,45784.4235,2025,2027,3,1,1,1.1,1.3,0,5,5,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.12,Rookie Draft,TRUE,,22,Chewy2552,0,
+12503,Isaiah Bond,Rookie,45784.4235,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.01,Rookie Draft,TRUE,,0,mlthomas5095,0,
+12547,Kyle Williams,Rookie,45784.4235,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.02,Rookie Draft,TRUE,,22,lalder,0,
+12520,Xavier Restrepo,Rookie,45784.4235,2025,2027,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.03,Rookie Draft,TRUE,,23,Henrypavlak3,0,
+12477,Kurtis Rourke,Rookie,45784.4235,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.04,Rookie Draft,TRUE,,24,mlthomas5095,0,
+12493,Oronde Gadsden,Rookie,45784.4235,2025,2027,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.05,Rookie Draft,TRUE,,21,aintEZBNwheezE,0,
+12478,Nick Nash,Rookie,45784.4235,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.06,Rookie Draft,TRUE,,24,Delusional1,0,
+12496,Tai Felton,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,7,7,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.02,Rookie Draft,TRUE,,22,Vikingsfan80,0,
+12500,Quinn Ewers,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.03,Rookie Draft,TRUE,,21,Henrypavlak3,0,
+12486,Dillon Gabriel,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.04,Rookie Draft,TRUE,,24,Delusional1,0,
+12492,Pat Bryant,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.05,Rookie Draft,TRUE,,22,aintEZBNwheezE,0,
+12462,Damien Martinez,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.06,Rookie Draft,TRUE,,21,Delusional1,0,
+12471,DJ Giddens,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,6,6,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.07,Rookie Draft,TRUE,,21,tylercrain,0,
+12482,Savion Williams,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,3,3,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.08,Rookie Draft,TRUE,,23,DylanBears2022,0,
+12467,Jordan James,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,6,6,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.09,Rookie Draft,TRUE,,21,tylercrain,0,
+12534,Kyle Monangai,Rookie,45784.42348,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.10,Rookie Draft,TRUE,,22,lalder,0,
+12521,Elijah Arroyo,Rookie,45784.42347,2025,2027,3,1,2,2.2,2.5,0,9,9,Active,2,2.2,2.5,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.06,Rookie Draft,TRUE,,22,mlthomas5095,0,
+12476,Devin Neal,Rookie,45784.42347,2025,2027,3,1,2,2.2,2.5,0,4,4,Active,2,2.2,2.5,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.07,Rookie Draft,TRUE,,21,Delusional1,0,
+12495,Ollie Gordon,Rookie,45784.42347,2025,2027,3,1,2,2.2,2.5,0,3,3,Active,2,2.2,2.5,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.08,Rookie Draft,TRUE,,21,DylanBears2022,0,
+12487,Terrance Ferguson,Rookie,45784.42347,2025,2027,3,1,2,2.2,2.5,0,1,1,Active,2,2.2,2.5,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.09,Rookie Draft,TRUE,,22,lalder,0,
+12506,Harold Fannin,Rookie,45784.42347,2025,2027,3,1,2,2.2,2.5,0,11,11,Active,2,2.2,2.5,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.10,Rookie Draft,TRUE,,20,Schoontang,0,
+12511,Will Howard,Rookie,45784.42347,2025,2027,3,1,2,2.2,2.5,0,10,10,Active,2,2.2,2.5,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.11,Rookie Draft,TRUE,,23,jwalwer81,0,
+12502,Gunnar Helm,Rookie,45784.42347,2025,2027,3,1,2,2.2,2.5,0,5,5,Active,2,2.2,2.5,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.12,Rookie Draft,TRUE,,22,Chewy2552,0,
+12535,Isaac TeSlaa,Rookie,45784.42347,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.01,Rookie Draft,TRUE,,23,lalder,0,
+12483,Jack Bech,Rookie,45784.42346,2025,2027,3,1,4,4.4,4.9,0,12,12,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.09,Rookie Draft,TRUE,,22,Henrypavlak3,0,
+12524,Shedeur Sanders,Rookie,45784.42346,2025,2027,3,1,4,4.4,4.9,0,5,5,Active,4,4.4,4.9,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.10,Rookie Draft,TRUE,,23,Chewy2552,0,
+12457,Jaydon Blue,Rookie,45784.42346,2025,2027,3,1,4,4.4,4.9,0,7,7,Active,4,4.4,4.9,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.11,Rookie Draft,TRUE,,21,Vikingsfan80,0,
+12536,Jaylin Noel,Rookie,45784.42346,2025,2027,3,1,4,4.4,4.9,0,9,9,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.12,Rookie Draft,TRUE,,22,mlthomas5095,0,
+12499,Elic Ayomanor,Rookie,45784.42346,2025,2027,3,1,2,2.2,2.5,0,11,11,Active,2,2.2,2.5,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.01,Rookie Draft,TRUE,,21,Schoontang,0,
+12505,Jalen Royals,Rookie,45784.42346,2025,2027,3,1,2,2.2,2.5,0,7,7,Active,2,2.2,2.5,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.02,Rookie Draft,TRUE,,22,Vikingsfan80,0,
+12469,Dylan Sampson,Rookie,45784.42346,2025,2027,3,1,2,2.2,2.5,0,12,12,Active,2,2.2,2.5,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.03,Rookie Draft,TRUE,,20,Henrypavlak3,0,
+12490,Bhayshul Tuten,Rookie,45784.42346,2025,2027,3,1,2,2.2,2.5,0,9,9,Active,2,2.2,2.5,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.04,Rookie Draft,TRUE,,23,mlthomas5095,0,
+12545,Tyler Shough,Rookie,45784.42346,2025,2027,3,1,2,2.2,2.5,0,2,2,Active,2,2.2,2.5,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.05,Rookie Draft,TRUE,,25,aintEZBNwheezE,0,
+12514,Emeka Egbuka,Rookie,45784.42345,2025,2027,3,1,6,6.6,7.3,0,5,5,Active,6,6.6,7.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.12,Rookie Draft,TRUE,,22,Chewy2552,0,
+12489,RJ Harvey,Rookie,45784.42345,2025,2027,3,1,4,4.4,4.9,0,1,1,Active,4,4.4,4.9,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.01,Rookie Draft,TRUE,,24,lalder,0,
+12504,Kaleb Johnson,Rookie,45784.42345,2025,2027,3,1,4,4.4,4.9,0,10,10,Active,4,4.4,4.9,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.02,Rookie Draft,TRUE,,21,jwalwer81,0,
+12501,Matthew Golden,Rookie,45784.42345,2025,2027,3,1,4,4.4,4.9,0,2,2,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.03,Rookie Draft,TRUE,,21,aintEZBNwheezE,0,
+12484,Jayden Higgins,Rookie,45784.42345,2025,2027,3,1,4,4.4,4.9,0,1,1,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.04,Rookie Draft,TRUE,,22,lalder,0,
+12481,Cam Skattebo,Rookie,45784.42345,2025,2027,3,1,4,4.4,4.9,0,2,2,Active,4,4.4,4.9,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.05,Rookie Draft,TRUE,,23,aintEZBNwheezE,0,
+12509,Tre Harris,Rookie,45784.42345,2025,2027,3,1,4,4.4,4.9,0,7,7,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.06,Rookie Draft,TRUE,,23,Vikingsfan80,0,
+12498,Mason Taylor,Rookie,45784.42345,2025,2027,3,1,4,4.4,4.9,0,6,6,Active,4,4.4,4.9,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.07,Rookie Draft,TRUE,,20,tylercrain,0,
+12510,Jalen Milroe,Rookie,45784.42345,2025,2027,3,1,4,4.4,4.9,0,3,3,Active,4,4.4,4.9,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.08,Rookie Draft,TRUE,,22,DylanBears2022,0,
+12512,Quinshon Judkins,Rookie,45784.42344,2025,2027,3,1,12,13.2,14.6,0,4,4,Active,12,13.2,14.6,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.03,Rookie Draft,TRUE,,21,Delusional1,0,
+12529,TreVeyon Henderson,Rookie,45784.42344,2025,2027,3,1,10,11,12.1,0,8,8,Active,10,11,12.1,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.04,Rookie Draft,TRUE,,22,EthanL21,0,
+12507,Omarion Hampton,Rookie,45784.42344,2025,2027,3,1,10,11,12.1,0,2,2,Active,10,11,12.1,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.05,Rookie Draft,TRUE,,22,aintEZBNwheezE,0,
+12526,Tetairoa McMillan,Rookie,45784.42344,2025,2027,3,1,10,11,12.1,0,1,1,Active,10,11,12.1,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.06,Rookie Draft,TRUE,,22,lalder,0,
+12517,Colston Loveland,Rookie,45784.42344,2025,2027,3,1,8,8.8,9.7,0,4,4,Active,8,8.8,9.7,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.07,Rookie Draft,TRUE,,21,Delusional1,0,
+12519,Luther Burden,Rookie,45784.42344,2025,2027,3,1,8,8.8,9.7,0,3,3,Active,8,8.8,9.7,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.08,Rookie Draft,TRUE,,21,DylanBears2022,0,
+12518,Tyler Warren,Rookie,45784.42344,2025,2027,3,1,8,8.8,9.7,0,3,3,Active,8,8.8,9.7,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.09,Rookie Draft,TRUE,,22,DylanBears2022,0,
+12530,Travis Hunter,Rookie,45784.42344,2025,2027,3,1,6,6.6,7.3,0,1,1,Active,6,6.6,7.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.10,Rookie Draft,TRUE,,21,lalder,0,
+12508,Jaxson Dart,Rookie,45784.42344,2025,2027,3,1,6,6.6,7.3,0,9,9,Active,6,6.6,7.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.11,Rookie Draft,TRUE,,21,mlthomas5095,0,
+12527,Ashton Jeanty,Rookie,45784.42343,2025,2027,3,1,14,15.4,17,0,11,11,Active,14,15.4,17,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.01,Rookie Draft,TRUE,,21,Schoontang,0,
+12522,Cameron Ward,Rookie,45784.42343,2025,2027,3,1,12,13.2,14.6,0,7,7,Active,12,13.2,14.6,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.02,Rookie Draft,TRUE,,22,Vikingsfan80,0,
+12488,Kobe Hudson,Rookie,45784.42303,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.06,Rookie Draft,TRUE,,0,Delusional1,0,
+12491,Corey Kiner,Rookie,45784.42303,2025,2027,3,1,1,1.1,1.3,0,6,6,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.07,Rookie Draft,TRUE,,23,tylercrain,0,
+12738,Phil Mafah,Rookie,45784.42303,2025,2027,3,1,1,1.1,1.3,0,3,3,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.08,Rookie Draft,TRUE,,22,DylanBears2022,0,
+12546,Marcus Yarns,Rookie,45784.42303,2025,2027,3,1,1,1.1,1.3,0,8,8,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.09,Rookie Draft,TRUE,,23,EthanL21,0,
+12479,Ja'Quinden Jackson,Rookie,45784.42303,2025,2027,3,1,1,1.1,1.3,0,11,11,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.10,Rookie Draft,TRUE,,23,Schoontang,0,
+12634,Jordan Watkins,Rookie,45784.42303,2025,2027,3,1,1,1.1,1.3,0,10,10,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.11,Rookie Draft,TRUE,,23,jwalwer81,0,
+12670,KeAndre Lambert-Smith,Rookie,45784.42303,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.12,Rookie Draft,TRUE,,23,lalder,0,
+12533,Jacory Croskey-Merritt,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,7,7,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.08,Rookie Draft,TRUE,,24,Vikingsfan80,0,
+12539,Arian Smith,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,8,8,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.09,Rookie Draft,TRUE,,23,EthanL21,0,
+12470,Riley Leonard,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,11,11,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.10,Rookie Draft,TRUE,,22,Schoontang,0,
+12531,Trevor Etienne,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,10,10,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.11,Rookie Draft,TRUE,,20,jwalwer81,0,
+12475,Ricky White,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,5,5,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.12,Rookie Draft,TRUE,,23,Chewy2552,0,
+12641,Jaylin Lane,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.01,Rookie Draft,TRUE,,23,lalder,0,
+12699,LaJohntay Wester,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,3,3,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.02,Rookie Draft,TRUE,,23,DylanBears2022,0,
+12460,Antwane Wells,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.03,Rookie Draft,TRUE,,24,Henrypavlak3,0,
+11612,Bru McCoy,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.04,Rookie Draft,TRUE,,0,mlthomas5095,0,
+12472,Raheim Sanders,Rookie,45784.42302,2025,2027,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-7.05,Rookie Draft,TRUE,,22,aintEZBNwheezE,0,
+12540,Chimere Dike,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,10,10,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.11,Rookie Draft,TRUE,,23,jwalwer81,0,
+12541,Dont'e Thornton,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,5,5,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.12,Rookie Draft,TRUE,,22,Chewy2552,0,
+12455,Brashard Smith,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.01,Rookie Draft,TRUE,,22,mlthomas5095,0,
+12473,Mitchell Evans,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,7,7,Active,1,1.1,1.3,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.02,Rookie Draft,TRUE,,22,Vikingsfan80,0,
+12480,Moliki Matavao,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.03,Rookie Draft,TRUE,,22,Henrypavlak3,0,
+12544,LeQuint Allen,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.04,Rookie Draft,TRUE,,20,mlthomas5095,0,
+12515,Donovan Edwards,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.05,Rookie Draft,TRUE,,22,aintEZBNwheezE,0,
+12523,Jimmy Horn,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.06,Rookie Draft,TRUE,,22,Delusional1,0,
+12516,Kalel Mullings,Rookie,45784.42301,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-6.07,Rookie Draft,TRUE,,22,Delusional1,0,
+12503,Isaiah Bond,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.01,Rookie Draft,TRUE,,0,mlthomas5095,0,
+12547,Kyle Williams,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.02,Rookie Draft,TRUE,,22,lalder,0,
+12520,Xavier Restrepo,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.03,Rookie Draft,TRUE,,23,Henrypavlak3,0,
+12477,Kurtis Rourke,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,9,9,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.04,Rookie Draft,TRUE,,24,mlthomas5095,0,
+12493,Oronde Gadsden,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.05,Rookie Draft,TRUE,,21,aintEZBNwheezE,0,
+12478,Nick Nash,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.06,Rookie Draft,TRUE,,24,Delusional1,0,
+12494,Kyle McCord,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,6,6,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.07,Rookie Draft,TRUE,,22,tylercrain,0,
+12474,Woody Marks,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,8,8,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.08,Rookie Draft,TRUE,,24,EthanL21,0,
+12543,Tahj Brooks,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,8,8,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.09,Rookie Draft,TRUE,,22,EthanL21,0,
+11569,Jarquez Hunter,Rookie,45784.423,2025,2027,3,1,1,1.1,1.3,0,11,11,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-5.10,Rookie Draft,TRUE,,22,Schoontang,0,
+12486,Dillon Gabriel,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.04,Rookie Draft,TRUE,,24,Delusional1,0,
+12492,Pat Bryant,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,2,2,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.05,Rookie Draft,TRUE,,22,aintEZBNwheezE,0,
+12462,Damien Martinez,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,4,4,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.06,Rookie Draft,TRUE,,21,Delusional1,0,
+12471,DJ Giddens,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,6,6,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.07,Rookie Draft,TRUE,,21,tylercrain,0,
+12482,Savion Williams,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,3,3,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.08,Rookie Draft,TRUE,,23,DylanBears2022,0,
+12467,Jordan James,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,6,6,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.09,Rookie Draft,TRUE,,21,tylercrain,0,
+12534,Kyle Monangai,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.10,Rookie Draft,TRUE,,22,lalder,0,
+12485,Tez Johnson,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,10,10,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.11,Rookie Draft,TRUE,,22,jwalwer81,0,
+12497,Tory Horton,Rookie,45784.42299,2025,2027,3,1,1,1.1,1.3,0,5,5,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.12,Rookie Draft,TRUE,,22,Chewy2552,0,
+12521,Elijah Arroyo,Rookie,45784.42297,2025,2027,3,1,2,2.2,2.5,0,9,9,Active,2,2.2,2.5,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.06,Rookie Draft,TRUE,,22,mlthomas5095,0,
+12476,Devin Neal,Rookie,45784.42297,2025,2027,3,1,2,2.2,2.5,0,4,4,Active,2,2.2,2.5,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.07,Rookie Draft,TRUE,,21,Delusional1,0,
+12495,Ollie Gordon,Rookie,45784.42297,2025,2027,3,1,2,2.2,2.5,0,3,3,Active,2,2.2,2.5,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.08,Rookie Draft,TRUE,,21,DylanBears2022,0,
+12487,Terrance Ferguson,Rookie,45784.42297,2025,2027,3,1,2,2.2,2.5,0,1,1,Active,2,2.2,2.5,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.09,Rookie Draft,TRUE,,22,lalder,0,
+12506,Harold Fannin,Rookie,45784.42297,2025,2027,3,1,2,2.2,2.5,0,11,11,Active,2,2.2,2.5,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.10,Rookie Draft,TRUE,,20,Schoontang,0,
+12511,Will Howard,Rookie,45784.42297,2025,2027,3,1,2,2.2,2.5,0,10,10,Active,2,2.2,2.5,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.11,Rookie Draft,TRUE,,23,jwalwer81,0,
+12502,Gunnar Helm,Rookie,45784.42297,2025,2027,3,1,2,2.2,2.5,0,5,5,Active,2,2.2,2.5,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.12,Rookie Draft,TRUE,,22,Chewy2552,0,
+12535,Isaac TeSlaa,Rookie,45784.42297,2025,2027,3,1,1,1.1,1.3,0,1,1,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.01,Rookie Draft,TRUE,,23,lalder,0,
+12496,Tai Felton,Rookie,45784.42297,2025,2027,3,1,1,1.1,1.3,0,7,7,Active,1,1.1,1.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.02,Rookie Draft,TRUE,,22,Vikingsfan80,0,
+12500,Quinn Ewers,Rookie,45784.42297,2025,2027,3,1,1,1.1,1.3,0,12,12,Active,1,1.1,1.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-4.03,Rookie Draft,TRUE,,21,Henrypavlak3,0,
+12510,Jalen Milroe,Rookie,45784.42296,2025,2027,3,1,4,4.4,4.9,0,3,3,Active,4,4.4,4.9,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.08,Rookie Draft,TRUE,,22,DylanBears2022,0,
+12483,Jack Bech,Rookie,45784.42296,2025,2027,3,1,4,4.4,4.9,0,12,12,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.09,Rookie Draft,TRUE,,22,Henrypavlak3,0,
+12524,Shedeur Sanders,Rookie,45784.42296,2025,2027,3,1,4,4.4,4.9,0,5,5,Active,4,4.4,4.9,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.10,Rookie Draft,TRUE,,23,Chewy2552,0,
+12457,Jaydon Blue,Rookie,45784.42296,2025,2027,3,1,4,4.4,4.9,0,7,7,Active,4,4.4,4.9,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.11,Rookie Draft,TRUE,,21,Vikingsfan80,0,
+12536,Jaylin Noel,Rookie,45784.42296,2025,2027,3,1,4,4.4,4.9,0,9,9,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.12,Rookie Draft,TRUE,,22,mlthomas5095,0,
+12499,Elic Ayomanor,Rookie,45784.42296,2025,2027,3,1,2,2.2,2.5,0,11,11,Active,2,2.2,2.5,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.01,Rookie Draft,TRUE,,21,Schoontang,0,
+12505,Jalen Royals,Rookie,45784.42296,2025,2027,3,1,2,2.2,2.5,0,7,7,Active,2,2.2,2.5,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.02,Rookie Draft,TRUE,,22,Vikingsfan80,0,
+12469,Dylan Sampson,Rookie,45784.42296,2025,2027,3,1,2,2.2,2.5,0,12,12,Active,2,2.2,2.5,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.03,Rookie Draft,TRUE,,20,Henrypavlak3,0,
+12490,Bhayshul Tuten,Rookie,45784.42296,2025,2027,3,1,2,2.2,2.5,0,9,9,Active,2,2.2,2.5,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.04,Rookie Draft,TRUE,,23,mlthomas5095,0,
+12545,Tyler Shough,Rookie,45784.42296,2025,2027,3,1,2,2.2,2.5,0,2,2,Active,2,2.2,2.5,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-3.05,Rookie Draft,TRUE,,25,aintEZBNwheezE,0,
+12508,Jaxson Dart,Rookie,45784.42295,2025,2027,3,1,6,6.6,7.3,0,9,9,Active,6,6.6,7.3,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.11,Rookie Draft,TRUE,,21,mlthomas5095,0,
+12514,Emeka Egbuka,Rookie,45784.42295,2025,2027,3,1,6,6.6,7.3,0,5,5,Active,6,6.6,7.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.12,Rookie Draft,TRUE,,22,Chewy2552,0,
+12489,RJ Harvey,Rookie,45784.42295,2025,2027,3,1,4,4.4,4.9,0,1,1,Active,4,4.4,4.9,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.01,Rookie Draft,TRUE,,24,lalder,0,
+12504,Kaleb Johnson,Rookie,45784.42295,2025,2027,3,1,4,4.4,4.9,0,10,10,Active,4,4.4,4.9,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.02,Rookie Draft,TRUE,,21,jwalwer81,0,
+12501,Matthew Golden,Rookie,45784.42295,2025,2027,3,1,4,4.4,4.9,0,2,2,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.03,Rookie Draft,TRUE,,21,aintEZBNwheezE,0,
+12484,Jayden Higgins,Rookie,45784.42295,2025,2027,3,1,4,4.4,4.9,0,1,1,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.04,Rookie Draft,TRUE,,22,lalder,0,
+12481,Cam Skattebo,Rookie,45784.42295,2025,2027,3,1,4,4.4,4.9,0,2,2,Active,4,4.4,4.9,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.05,Rookie Draft,TRUE,,23,aintEZBNwheezE,0,
+12509,Tre Harris,Rookie,45784.42295,2025,2027,3,1,4,4.4,4.9,0,7,7,Active,4,4.4,4.9,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.06,Rookie Draft,TRUE,,23,Vikingsfan80,0,
+12498,Mason Taylor,Rookie,45784.42295,2025,2027,3,1,4,4.4,4.9,0,6,6,Active,4,4.4,4.9,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-2.07,Rookie Draft,TRUE,,20,tylercrain,0,
+12527,Ashton Jeanty,Rookie,45784.42294,2025,2027,3,1,14,15.4,17,0,11,11,Active,14,15.4,17,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.01,Rookie Draft,TRUE,,21,Schoontang,0,
+12522,Cameron Ward,Rookie,45784.42294,2025,2027,3,1,12,13.2,14.6,0,7,7,Active,12,13.2,14.6,0,FALSE,FALSE,QB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.02,Rookie Draft,TRUE,,22,Vikingsfan80,0,
+12512,Quinshon Judkins,Rookie,45784.42294,2025,2027,3,1,12,13.2,14.6,0,4,4,Active,12,13.2,14.6,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.03,Rookie Draft,TRUE,,21,Delusional1,0,
+12529,TreVeyon Henderson,Rookie,45784.42294,2025,2027,3,1,10,11,12.1,0,8,8,Active,10,11,12.1,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.04,Rookie Draft,TRUE,,22,EthanL21,0,
+12507,Omarion Hampton,Rookie,45784.42294,2025,2027,3,1,10,11,12.1,0,2,2,Active,10,11,12.1,0,FALSE,FALSE,RB,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.05,Rookie Draft,TRUE,,22,aintEZBNwheezE,0,
+12526,Tetairoa McMillan,Rookie,45784.42294,2025,2027,3,1,10,11,12.1,0,1,1,Active,10,11,12.1,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.06,Rookie Draft,TRUE,,22,lalder,0,
+12517,Colston Loveland,Rookie,45784.42294,2025,2027,3,1,8,8.8,9.7,0,4,4,Active,8,8.8,9.7,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.07,Rookie Draft,TRUE,,21,Delusional1,0,
+12519,Luther Burden,Rookie,45784.42294,2025,2027,3,1,8,8.8,9.7,0,3,3,Active,8,8.8,9.7,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.08,Rookie Draft,TRUE,,21,DylanBears2022,0,
+12518,Tyler Warren,Rookie,45784.42294,2025,2027,3,1,8,8.8,9.7,0,3,3,Active,8,8.8,9.7,0,FALSE,FALSE,TE,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.09,Rookie Draft,TRUE,,22,DylanBears2022,0,
+12530,Travis Hunter,Rookie,45784.42294,2025,2027,3,1,6,6.6,7.3,0,1,1,Active,6,6.6,7.3,0,FALSE,FALSE,WR,0.5,,0,0,0,0,RookieDraft-1204232161675180000-1.10,Rookie Draft,TRUE,,21,lalder,0,
+559,Tim Tebow,Waiver,45653.91619,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1178491422442336256,Waiver,FALSE,,34,lalder,0,
+138,Ben Roethlisberger,Waiver,45645.87103,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175575953754378240,Waiver,FALSE,,39,lalder,0,
+515,Rob Gronkowski,Waiver,45645.87065,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1175575816067960832,Waiver,FALSE,,32,lalder,0,
+232,Frank Gore,Waiver,45645.87027,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1175575676888371200,Waiver,FALSE,,38,lalder,0,
+223,Larry Fitzgerald,Waiver,45645.87009,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1175575612849737728,Waiver,FALSE,,38,lalder,0,
+167,Tom Brady,Waiver,45645.86905,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175575234091503616,Waiver,FALSE,,45,lalder,0,
+4972,Mason Rudolph,Waiver,45645.19203,2024,2024,1,2,1,0,0,0,9,9,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1175329891034677248,Waiver,FALSE,,29,mlthomas5095,1285,
+6963,Patrick Taylor,Waiver,45639.02179,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1173093870578696192,Waiver,FALSE,,27,jwalwer81,0,
+8177,Grant Calcaterra,Waiver,45633.69772,2024,2024,1,2,1,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1171164491812290560,Waiver,FALSE,,26,Delusional1,1454,
+9487,Parker Washington,Waiver,45631.80784,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1170479621708558336,Waiver,FALSE,,23,Vikingsfan80,1721,
+11651,Isaac Guerendo,Waiver,45630.33477,2024,2024,1,2,72,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1169442024488132608,Waiver,FALSE,,24,lalder,2622,
+9227,Israel Abanikanda,Waiver,45630.33477,2024,2024,1,2,2,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1169848453409751040,Waiver,FALSE,,22,jwalwer81,1098,
+11834,Devaughn Vele,Waiver,45623.33527,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1166892731969658880,Waiver,FALSE,,27,Vikingsfan80,1520,
+5010,Will Dissly,Waiver,45620.661,2024,2024,1,2,1,0,0,0,9,9,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1166440140982571008,Waiver,FALSE,,28,mlthomas5095,1477,
+3357,Brandon Allen,Waiver,45619.60652,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1166058010611933184,Waiver,FALSE,,32,lalder,0,
+5854,Drew Lock,Waiver,45619.19882,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1165910268342296576,Waiver,FALSE,,28,jwalwer81,1069,
+11579,Audric Estime,Waiver,45618.02103,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1165483450938425344,Waiver,FALSE,,21,Chewy2552,2133,
+11292,Tommy DeVito,Waiver,45614.71512,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1164285427726004224,Waiver,FALSE,,26,Chewy2552,0,
+4144,Jonnu Smith,Waiver,45613.66569,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1163905129884532736,Waiver,FALSE,,29,Schoontang,3085,
+7527,Mac Jones,Waiver,45609.335,2024,2024,1,2,1,0,0,0,6,6,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1161842583636230144,Waiver,FALSE,,26,tylercrain,1347,
+4234,Noah Brown,Waiver,45606.01071,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1161131055810723841,Waiver,FALSE,,29,lalder,1125,
+6938,Cam Akers,Waiver,45602.58346,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159889060421283840,Waiver,FALSE,,25,lalder,1093,
+11575,Ray Davis,Waiver,45602.5834,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159889040414453760,Waiver,FALSE,,25,lalder,2525,
+9508,Tyjae Spears,Waiver,45602.58332,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1159889010299351040,Waiver,FALSE,,23,lalder,2939,
+5995,Justice Hill,Waiver,45602.33465,2024,2024,1,2,2,0,0,0,2,2,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1159520085099466752,Waiver,FALSE,,27,aintEZBNwheezE,1411,
+4574,Cooper Rush,Waiver,45602.33465,2024,2024,1,2,1,0,0,0,3,3,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1159667132712484864,Waiver,FALSE,,31,DylanBears2022,421,
+7828,Noah Gray,Waiver,45599.66877,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1158832816579379200,Waiver,FALSE,,26,Henrypavlak3,2393,
+11651,Isaac Guerendo,Waiver,45595.29297,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1156633527467978752,Waiver,FALSE,,24,Vikingsfan80,2622,
+11596,Ben Sinnott,Waiver,45591.52653,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1155882163124948992,Waiver,FALSE,,22,Chewy2552,2906,
+3200,Sterling Shepard,Waiver,45588.80345,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154895355280998400,Waiver,FALSE,,32,lalder,413,
+11618,Jalen McMillan,Waiver,45588.62002,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154828883703746560,Waiver,FALSE,,23,Chewy2552,2950,
+5917,Mecole Hardman,Waiver,45588.2935,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1154444279650095104,Waiver,FALSE,,27,aintEZBNwheezE,888,
+10444,Cedric Tillman,Waiver,45588.2935,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154444320058093568,Waiver,FALSE,,25,aintEZBNwheezE,2589,
+2306,Jameis Winston,Waiver,45588.2935,2024,2024,1,2,9,0,0,0,1,9,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1154662637356089344,Waiver,FALSE,1.15483E+18,31,mlthomas5095,1710,
+7083,Tyler Huntley,Waiver,45582.57787,2024,2024,1,2,5,0,0,0,6,6,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1152266228933881856,Waiver,FALSE,,27,tylercrain,716,
+11575,Ray Davis,Waiver,45581.54706,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1152265724191166464,Waiver,FALSE,,25,jwalwer81,2525,
+9506,Sean Tucker,Waiver,45581.29302,2024,2024,1,2,16,0,0,0,1,7,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1151975124023918592,Waiver,FALSE,1.1531E+18,23,Vikingsfan80,1762,
+4718,Dare Ogunbowale,Waiver,45577.84002,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1150922340906156032,Waiver,FALSE,,31,aintEZBNwheezE,0,
+5096,Ray-Ray McCloud,Waiver,45576.9252,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1150590818097418240,Waiver,FALSE,,28,Chewy2552,1075,
+4040,JuJu Smith-Schuster,Waiver,45575.96639,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1150243359706042368,Waiver,FALSE,,28,Henrypavlak3,943,
+5995,Justice Hill,Waiver,45574.98111,2024,2024,1,2,1,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1149886305908654080,Waiver,FALSE,,27,jwalwer81,1411,
+9225,Tank Bigsby,Waiver,45574.58744,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1149743646552457216,Waiver,FALSE,,22,EthanL21,2768,
+11655,Tyrone Tracy,Waiver,45570.07058,2024,2024,1,2,1,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1148106790140215296,Waiver,FALSE,,25,Delusional1,3262,
+10213,Tre Tucker,Waiver,45569.73352,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1147984643757551616,Waiver,FALSE,,24,Schoontang,1706,
+7593,Trey Sermon,Waiver,45569.7328,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1147984380770496512,Waiver,FALSE,,26,Schoontang,784,
+11623,Jordan Whittington,Waiver,45569.73269,2024,2024,1,2,1,0,0,0,11,11,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1147984340526149632,Waiver,FALSE,,24,Schoontang,1936,
+19,Joe Flacco,Waiver,45567.29319,2024,2024,1,2,2,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1146352426757423104,Waiver,FALSE,,40,Delusional1,1376,
+7083,Tyler Huntley,Waiver,45563.69242,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1145795419092430848,Waiver,FALSE,,27,lalder,716,
+10226,Andrei Iosivas,Waiver,45561.70454,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1145075036647206912,Waiver,FALSE,,25,EthanL21,1892,
+6865,Colby Parkinson,Waiver,45561.70417,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1145074904237223936,Waiver,FALSE,,26,EthanL21,1534,
+1339,Zach Ertz,Waiver,45560.29289,2024,2024,1,2,6,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1144391445906939904,Waiver,FALSE,,34,Delusional1,2029,
+7562,Tutu Atwell,Waiver,45560.29289,2024,2024,1,2,7,0,0,0,4,4,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1144135999489880064,Waiver,FALSE,,25,Delusional1,1674,
+7049,Jauan Jennings,Waiver,45560.29289,2024,2024,1,2,10,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1144318781628702720,Waiver,FALSE,,27,EthanL21,3067,
+9480,Brenton Strange,Waiver,45557.51295,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1143556058707779584,Waiver,FALSE,,24,aintEZBNwheezE,3093,
+11582,Carson Steele,Waiver,45553.29318,2024,2024,1,2,12,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1141947780433354752,Waiver,FALSE,,22,jwalwer81,935,
+4147,Samaje Perine,Waiver,45553.29318,2024,2024,1,2,5,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1141411080393203712,Waiver,FALSE,,29,lalder,867,
+8206,Skylar Thompson,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1140715728975360000,Waiver,FALSE,,27,lalder,0,
+8180,Jalen Nailor,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1141418792669650944,Waiver,FALSE,1.1549E+18,26,Vikingsfan80,1500,
+829,Andy Dalton,Waiver,45553.29318,2024,2024,1,2,16,0,0,0,1,9,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1141473651871608832,Waiver,FALSE,1.15044E+18,37,mlthomas5095,0,
+4098,Kareem Hunt,Waiver,45551.91506,2024,2024,1,2,1,0,0,0,6,6,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1141527446290817024,Waiver,FALSE,,29,tylercrain,1636,
+8161,Malik Willis,Waiver,45547.65929,2024,2024,1,2,1,0,0,0,1,11,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1139985212462456832,Waiver,FALSE,1.14072E+18,25,Schoontang,1433,
+5185,Allen Lazard,Waiver,45546.29319,2024,2024,1,2,3,0,0,0,10,10,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1139448349108740096,Waiver,FALSE,,29,jwalwer81,812,
+8117,Jalen Tolbert,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1134294766612557824,Waiver,FALSE,,26,EthanL21,1684,
+6938,Cam Akers,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299813299834880,Waiver,FALSE,,25,lalder,1093,
+8116,Pierre Strong,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299789715451904,Waiver,FALSE,,26,lalder,0,
+4029,Dalvin Cook,Waiver,45538.29228,2024,2024,1,2,7,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1134299600501948416,Waiver,FALSE,,29,lalder,0,
+11435,Emanuel Wilson,Waiver,45538.29228,2024,2024,1,2,10,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299520193736704,Waiver,FALSE,,25,lalder,1236,
+4171,Josh Reynolds,Waiver,45538.29228,2024,2024,1,2,1,0,0,0,8,8,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1134294891091177472,Waiver,FALSE,,30,EthanL21,715,
+8408,Jordan Mason,Waiver,45538.29228,2024,2024,1,2,16,0,0,0,1,8,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1134299736632233984,Waiver,FALSE,1.15194E+18,25,EthanL21,2731,
+11655,Tyrone Tracy,Waiver,45426.29591,2024,2024,1,2,4,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1095814818281385984,Waiver,FALSE,,25,lalder,3262,
+10859,Sam LaPorta,Base,45423,2024,2025,2,2,28,30.8,0,0,9,8,Active,30.8,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_01,Startup Draft,FALSE,1.22333E+18,24,EthanL21,6031,
+4046,Patrick Mahomes,Base,45423,2024,2027,4,2,60,66,72.6,79.9,4,4,Active,66,72.6,79.9,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_02,Startup Draft,FALSE,,29,Delusional1,7158,
+2449,Stefon Diggs,Base,45423,2024,2026,3,2,15,16.5,18.2,0,9,9,Active,16.5,18.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_03,Startup Draft,FALSE,,31,mlthomas5095,2879,
+4984,Josh Allen,Base,45423,2024,2026,3,2,60,66,72.6,0,1,1,Active,66,72.6,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_04,Startup Draft,FALSE,,28,lalder,9984,
+6794,Justin Jefferson,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,7,7,Active,45.1,49.7,54.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_05,Startup Draft,FALSE,,25,Vikingsfan80,9451,
+9758,C.J. Stroud,Base,45423,2024,2026,3,2,52,57.2,63,0,12,12,Active,57.2,63,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_06,Startup Draft,FALSE,,23,Henrypavlak3,0,
+4034,Christian McCaffrey,Base,45423,2024,2026,3,2,58,63.8,70.2,0,1,12,Active,63.8,70.2,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_07,Startup Draft,FALSE,1.15519E+18,28,Henrypavlak3,4609,
+10229,Rashee Rice,Base,45423,2024,2026,3,2,19,20.9,23,0,7,10,Active,20.9,23,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_08,Startup Draft,FALSE,1.21792E+18,25,jwalwer81,5319,
+6904,Jalen Hurts,Base,45423,2024,2027,4,2,48,52.8,58.1,64,8,8,Active,52.8,58.1,64,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_09,Startup Draft,FALSE,,26,EthanL21,7952,
+9493,Puka Nacua,Base,45423,2024,2026,3,2,35,38.5,42.4,0,3,8,Active,38.5,42.4,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-9493,Startup Draft,FALSE,1.12619E+18,23,EthanL21,7392,
+6770,Joe Burrow,Base,45423,2024,2027,4,2,46,50.6,55.7,61.3,5,5,Active,50.6,55.7,61.3,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_11,Startup Draft,FALSE,,28,Chewy2552,8297,
+4881,Lamar Jackson,Base,45423,2024,2027,4,2,48,52.8,58.1,64,3,3,Active,52.8,58.1,64,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_12,Startup Draft,FALSE,,28,DylanBears2022,9477,
+9221,Jahmyr Gibbs,Base,45423,2024,2026,3,2,36,39.6,43.6,0,4,4,Active,39.6,43.6,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_13,Startup Draft,FALSE,,23,Delusional1,8187,
+9229,Anthony Richardson,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,11,11,Active,45.1,49.7,54.7,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_14,Startup Draft,FALSE,,22,Schoontang,3668,
+9509,Bijan Robinson,Base,45423,2024,2027,4,2,45,49.5,54.5,60,11,11,Active,49.5,54.5,60,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_15,Startup Draft,FALSE,,23,Schoontang,8236,
+1466,Travis Kelce,Base,45423,2024,2026,3,2,28,30.8,33.9,0,6,6,Active,30.8,33.9,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_16,Startup Draft,FALSE,,35,tylercrain,3271,
+6786,CeeDee Lamb,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,8,8,Active,45.1,49.7,54.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_17,Startup Draft,FALSE,,26,EthanL21,7860,
+7564,Ja'Marr Chase,Base,45423,2024,2026,3,2,40,44,48.4,0,12,4,Active,44,48.4,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1095779391986135040-7564,Startup Draft,FALSE,1.09578E+18,25,Delusional1,9992,
+8155,Breece Hall,Base,45423,2024,2025,2,2,43,47.3,0,0,9,7,Active,47.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1154831004835020800-8155,Startup Draft,FALSE,1.21792E+18,23,Vikingsfan80,5557,
+6797,Justin Herbert,Base,45423,2024,2027,4,2,43,47.3,52.1,57.4,7,7,Active,47.3,52.1,57.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_20,Startup Draft,FALSE,,27,Vikingsfan80,6731,
+4983,DJ Moore,Base,45423,2024,2026,3,2,30,33,36.3,0,9,9,Active,33,36.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_21,Startup Draft,FALSE,,28,mlthomas5095,0,
+5859,A.J. Brown,Base,45423,2024,2027,4,2,35,38.5,42.4,46.7,10,10,Active,38.5,42.4,46.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_22,Startup Draft,FALSE,,27,jwalwer81,0,
+3321,Tyreek Hill,Base,45423,2024,2025,2,2,40,44,0,0,3,3,Active,44,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_23,Startup Draft,FALSE,,31,DylanBears2022,3879,
+7547,Amon-Ra St. Brown,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,11,11,Active,45.1,49.7,54.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_24,Startup Draft,FALSE,,25,Schoontang,0,
+7526,Jaylen Waddle,Base,45423,2024,2027,4,2,34,37.4,41.2,45.4,5,5,Active,37.4,41.2,45.4,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_25,Startup Draft,FALSE,,26,Chewy2552,4461,
+4866,Saquon Barkley,Base,45423,2024,2025,2,2,41,45.1,0,0,12,12,Active,45.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_26,Startup Draft,FALSE,,28,Henrypavlak3,6660,
+6804,Jordan Love,Base,45423,2024,2027,4,2,41,45.1,49.7,54.7,2,2,Active,45.1,49.7,54.7,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_27,Startup Draft,FALSE,,26,aintEZBNwheezE,6304,
+7543,Travis Etienne,Base,45423,2024,2027,4,2,35,38.5,42.4,46.7,5,5,Active,38.5,42.4,46.7,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_28,Startup Draft,FALSE,,26,Chewy2552,3173,
+9997,Zay Flowers,Base,45423,2024,2027,4,2,25,27.5,30.3,33.4,11,11,Active,27.5,30.3,33.4,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_29,Startup Draft,FALSE,,24,Schoontang,4705,
+8150,Kyren Williams,Base,45423,2024,2026,3,2,38,41.8,46,0,10,10,Active,41.8,46,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_30,Startup Draft,FALSE,,24,jwalwer81,5219,
+5850,Josh Jacobs,Base,45423,2024,2026,3,2,30,33,36.3,0,8,8,Active,33,36.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_31,Startup Draft,FALSE,,27,EthanL21,4758,
+8146,Garrett Wilson,Base,45423,2024,2025,2,2,29,31.9,0,0,9,9,Active,31.9,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_32,Startup Draft,FALSE,,24,mlthomas5095,6016,
+6813,Jonathan Taylor,Base,45423,2024,2025,2,2,37,40.7,0,0,6,6,Active,40.7,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_33,Startup Draft,FALSE,,26,tylercrain,5503,
+5849,Kyler Murray,Base,45423,2024,2026,3,2,39,42.9,47.2,0,10,10,Active,42.9,47.2,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_34,Startup Draft,FALSE,,27,jwalwer81,5592,
+3294,Dak Prescott,Base,45423,2024,2026,3,2,30,33,36.3,0,3,3,Active,33,36.3,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_35,Startup Draft,FALSE,,31,DylanBears2022,4473,
+8144,Chris Olave,Base,45423,2024,2027,4,2,26,28.6,31.5,34.7,12,12,Active,28.6,31.5,34.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_36,Startup Draft,FALSE,,24,Henrypavlak3,4571,
+7525,DeVonta Smith,Base,45423,2024,2026,3,2,24,26.4,29.1,0,4,6,Active,26.4,29.1,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_37,Startup Draft,FALSE,1.21329E+18,26,tylercrain,5287,
+8183,Brock Purdy,Base,45423,2024,2026,3,2,34,37.4,41.2,0,9,9,Active,37.4,41.2,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_38,Startup Draft,FALSE,,25,mlthomas5095,5480,
+5844,T.J. Hockenson,Base,45423,2024,2027,4,2,21,23.1,25.5,28.1,12,12,Active,23.1,25.5,28.1,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_39,Startup Draft,FALSE,1.21292E+18,27,Henrypavlak3,0,
+7553,Kyle Pitts,Base,45423,2024,2026,3,2,28,30.8,33.9,0,7,7,Active,30.8,33.9,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_40,Startup Draft,FALSE,,24,Vikingsfan80,3850,
+10236,Dalton Kincaid,Base,45423,2024,2026,3,2,19,20.9,23,0,11,11,Active,20.9,23,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_41,Startup Draft,FALSE,,25,Schoontang,3912,
+9226,De'Von Achane,Base,45423,2024,2026,3,2,25,27.5,30.3,0,1,9,Active,27.5,30.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1107336472975347712-9226,Startup Draft,FALSE,1.22333E+18,23,mlthomas5095,6068,
+6803,Brandon Aiyuk,Base,45423,2024,2027,4,2,23,25.3,27.9,30.7,2,2,Active,25.3,27.9,30.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_43,Startup Draft,FALSE,,27,aintEZBNwheezE,3963,
+8205,Isiah Pacheco,Base,45423,2024,2027,4,2,22,24.2,26.7,29.4,2,2,Active,24.2,26.7,29.4,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_44,Startup Draft,FALSE,,26,aintEZBNwheezE,3232,
+8151,Kenneth Walker,Base,45423,2024,2027,4,2,22,24.2,26.7,29.4,2,2,Active,24.2,26.7,29.4,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_45,Startup Draft,FALSE,,24,aintEZBNwheezE,0,
+8136,Rachaad White,Base,45423,2024,2026,3,2,30,33,36.3,0,4,11,Active,33,36.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1149765488134803456-8136,Startup Draft,FALSE,1.14977E+18,26,Schoontang,2696,
+7523,Trevor Lawrence,Base,45423,2024,2027,4,2,33,36.3,40,44,2,2,Active,36.3,40,44,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_47,Startup Draft,FALSE,,25,aintEZBNwheezE,5524,
+8112,Drake London,Base,45423,2024,2026,3,2,23,25.3,27.9,0,8,1,Active,25.3,27.9,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_48,Startup Draft,FALSE,1.21649E+18,23,lalder,6466,
+6790,D'Andre Swift,Base,45423,2024,2025,2,2,20,22,0,0,6,6,Active,22,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_49,Startup Draft,FALSE,,26,tylercrain,3212,
+8130,Trey McBride,Base,45423,2024,2026,3,2,20,22,24.2,0,1,1,Active,22,24.2,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_50,Startup Draft,FALSE,,25,lalder,7183,
+5012,Mark Andrews,Base,45423,2024,2025,2,2,17,18.7,0,0,5,5,Active,18.7,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_51,Startup Draft,FALSE,,29,Chewy2552,3574,
+8138,James Cook,Base,45423,2024,2026,3,2,22,24.2,26.7,0,7,7,Active,24.2,26.7,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_52,Startup Draft,FALSE,,25,Vikingsfan80,4863,
+7528,Najee Harris,Base,45423,2024,2025,2,2,17,18.7,0,0,5,5,Active,18.7,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_53,Startup Draft,FALSE,,27,Chewy2552,2829,
+6801,Tee Higgins,Base,45423,2024,2027,4,2,14,15.4,17,18.7,2,2,Active,15.4,17,18.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_54,Startup Draft,FALSE,,26,aintEZBNwheezE,5476,
+7611,Rhamondre Stevenson,Base,45423,2024,2026,3,2,20,22,24.2,0,8,4,Active,22,24.2,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1144484671636553728-7611,Startup Draft,FALSE,1.14448E+18,27,Delusional1,2590,
+7591,Justin Fields,Base,45423,2024,2025,2,2,7,7.7,0,0,10,10,Active,7.7,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_56,Startup Draft,FALSE,,26,jwalwer81,3883,
+6819,Michael Pittman,Base,45423,2024,2026,3,2,20,22,24.2,0,4,12,Active,22,24.2,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1095779391986135040-6819,Startup Draft,FALSE,1.09578E+18,27,Henrypavlak3,3417,
+7588,Javonte Williams,Base,45423,2024,2026,3,2,15,16.5,18.2,0,3,3,Active,16.5,18.2,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_58,Startup Draft,FALSE,,25,DylanBears2022,2716,
+3163,Jared Goff,Base,45423,2024,2027,4,2,19,20.9,23,25.3,10,10,Active,20.9,23,25.3,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_59,Startup Draft,FALSE,,30,jwalwer81,4713,
+2216,Mike Evans,Base,45423,2024,2025,2,2,16,17.6,0,0,5,5,Active,17.6,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_60,Startup Draft,FALSE,,31,Chewy2552,3825,
+11628,Marvin Harrison,Base,45423,2024,2027,4,2,20,22,24.2,26.7,10,10,Active,22,24.2,26.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_61,Startup Draft,FALSE,,22,jwalwer81,0,
+11632,Malik Nabers,Base,45423,2024,2027,4,2,15,16.5,18.2,20.1,6,6,Active,16.5,18.2,20.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_62,Startup Draft,FALSE,,21,tylercrain,8679,
+11560,Caleb Williams,Base,45423,2024,2027,4,2,25,27.5,30.3,33.4,6,6,Active,27.5,30.3,33.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_63,Startup Draft,FALSE,,23,tylercrain,6715,
+11620,Rome Odunze,Base,45423,2024,2027,4,2,18,19.8,21.8,24,6,6,Active,19.8,21.8,24,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_64,Startup Draft,FALSE,,22,tylercrain,5271,
+11566,Jayden Daniels,Base,45423,2024,2027,4,2,17,18.7,20.6,22.7,5,5,Active,18.7,20.6,22.7,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_65,Startup Draft,FALSE,,24,Chewy2552,9999,
+11604,Brock Bowers,Base,45423,2024,2027,4,2,11,12.1,13.4,14.8,3,3,Active,12.1,13.4,14.8,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_66,Startup Draft,FALSE,,22,DylanBears2022,9114,
+11564,Drake Maye,Base,45423,2024,2026,3,2,17,18.7,20.6,0,8,8,Active,18.7,20.6,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_67,Startup Draft,FALSE,,22,EthanL21,6746,
+9502,Tank Dell,Base,45423,2024,2027,4,2,9,9.9,10.9,12,7,1,Active,9.9,10.9,12,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1153827347214417920-9502,Startup Draft,FALSE,1.15383E+18,25,lalder,2619,
+11559,Michael Penix,Base,45423,2024,2027,4,2,5,5.5,6.1,6.8,1,1,Active,5.5,6.1,6.8,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_69,Startup Draft,FALSE,,24,lalder,0,
+11565,J.J. McCarthy,Base,45423,2024,2026,3,2,13,14.3,15.8,0,7,7,Active,14.3,15.8,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_70,Startup Draft,FALSE,,22,Vikingsfan80,0,
+6768,Tua Tagovailoa,Base,45423,2024,2027,4,2,16,17.6,19.4,21.4,6,6,Active,17.6,19.4,21.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_71,Startup Draft,FALSE,,27,tylercrain,4061,
+3198,Derrick Henry,Base,45423,2024,2025,2,2,13,14.3,0,0,6,6,Active,14.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_72,Startup Draft,FALSE,,31,tylercrain,4416,
+5846,DK Metcalf,Base,45423,2024,2027,4,2,9,9.9,10.9,12,10,9,Active,9.9,10.9,12,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_73,Startup Draft,FALSE,1.22347E+18,27,mlthomas5095,4583,
+10222,Jayden Reed,Base,45423,2024,2027,4,2,6,6.6,7.3,8.1,2,2,Active,6.6,7.3,8.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_74,Startup Draft,FALSE,,25,aintEZBNwheezE,3746,
+5967,Tony Pollard,Base,45423,2024,2025,2,2,8,8.8,0,0,9,9,Active,8.8,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_75,Startup Draft,FALSE,,28,mlthomas5095,2999,
+4199,Aaron Jones,Base,45423,2024,2025,2,2,10,11,0,0,7,7,Active,11,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_76,Startup Draft,FALSE,,30,Vikingsfan80,2948,
+7569,Nico Collins,Base,45423,2024,2027,4,2,9,9.9,10.9,12,2,2,Active,9.9,10.9,12,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_77,Startup Draft,FALSE,,26,aintEZBNwheezE,6428,
+4039,Cooper Kupp,Base,45423,2024,2025,2,2,6,6.6,0,0,12,12,Active,6.6,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_78,Startup Draft,FALSE,,31,Henrypavlak3,2846,
+8137,George Pickens,Base,45423,2024,2027,4,2,6,6.6,7.3,8.1,1,1,Active,6.6,7.3,8.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_79,Startup Draft,FALSE,,24,lalder,4100,
+9756,Jordan Addison,Base,45423,2024,2026,3,2,7,7.7,8.5,0,11,12,Active,7.7,8.5,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154488961423917056-9756,Startup Draft,FALSE,1.15449E+18,23,Henrypavlak3,4735,
+4217,George Kittle,Base,45423,2024,2025,2,2,7,7.7,0,0,1,10,Active,7.7,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1138900386359836672-4217,Startup Draft,FALSE,1.1389E+18,31,jwalwer81,4598,
+9228,Bryce Young,Base,45423,2024,2026,3,2,7,7.7,8.5,0,4,9,Active,7.7,8.5,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_82,Startup Draft,FALSE,1.22345E+18,23,mlthomas5095,5075,
+5872,Deebo Samuel,Base,45423,2024,2027,4,2,8,8.8,9.7,10.7,6,6,Active,8.8,9.7,10.7,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_83,Startup Draft,FALSE,,29,tylercrain,3084,
+4018,Joe Mixon,Base,45423,2024,2027,4,2,8,8.8,9.7,10.7,10,10,Active,8.8,9.7,10.7,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_84,Startup Draft,FALSE,,28,jwalwer81,3715,
+11624,Xavier Worthy,Base,45423,2024,2027,4,2,7,7.7,8.5,9.4,3,3,Active,7.7,8.5,9.4,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_85,Startup Draft,FALSE,,22,DylanBears2022,4749,
+4033,David Njoku,Base,45423,2024,2026,3,2,7,7.7,8.5,0,2,2,Active,7.7,8.5,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_86,Startup Draft,FALSE,,28,aintEZBNwheezE,3650,
+2133,Davante Adams,Base,45423,2024,2025,2,2,5,5.5,0,0,5,5,Active,5.5,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_87,Startup Draft,FALSE,,32,Chewy2552,3377,
+11583,Jonathon Brooks,Base,45423,2024,2025,2,2,6,6.6,0,0,8,8,Active,6.6,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_88,Startup Draft,FALSE,,21,EthanL21,2893,
+11586,Blake Corum,Base,45423,2024,2026,3,2,6,6.6,7.3,0,11,11,Active,6.6,7.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_89,Startup Draft,FALSE,,24,Schoontang,2536,
+4017,Deshaun Watson,Base,45423,2024,2027,4,2,6,6.6,7.3,8.1,6,6,Active,6.6,7.3,8.1,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_90,Startup Draft,FALSE,,29,tylercrain,554,
+9488,Jaxon Smith-Njigba,Base,45423,2024,2026,3,2,5,5.5,6.1,0,4,4,Active,5.5,6.1,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_91,Startup Draft,FALSE,,23,Delusional1,6390,
+11631,Brian Thomas,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,4,4,Active,2.2,2.5,2.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_92,Startup Draft,FALSE,,22,Delusional1,0,
+1234,Russell Wilson,Base,45423,2024,2025,2,2,3,3.3,0,0,1,12,Active,3.3,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,1154488961423917056-1234,Startup Draft,FALSE,1.15449E+18,36,Henrypavlak3,2158,
+5927,Terry McLaurin,Base,45423,2024,2025,2,2,4,4.4,0,0,2,8,Active,4.4,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_94,Startup Draft,FALSE,1.21302E+18,29,EthanL21,4372,
+11563,Bo Nix,Base,45423,2024,2027,4,2,4,4.4,4.9,5.4,7,7,Active,4.4,4.9,5.4,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_95,Startup Draft,FALSE,,25,Vikingsfan80,6434,
+4066,Evan Engram,Base,45423,2024,2026,3,2,5,5.5,6.1,0,2,2,Active,5.5,6.1,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_96,Startup Draft,FALSE,,30,aintEZBNwheezE,3294,
+5022,Dallas Goedert,Base,45423,2024,2025,2,2,3,3.3,0,0,4,4,Active,3.3,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_97,Startup Draft,FALSE,,30,Delusional1,2964,
+9500,Josh Downs,Base,45423,2024,2027,4,2,3,3.3,3.7,4.1,2,2,Active,3.3,3.7,4.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_98,Startup Draft,FALSE,,23,aintEZBNwheezE,3506,
+4892,Baker Mayfield,Base,45423,2024,2027,4,2,5,5.5,6.1,6.8,10,4,Active,5.5,6.1,6.8,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,1141852822775087104-4892,Startup Draft,FALSE,1.14185E+18,30,Delusional1,5432,
+5892,David Montgomery,Base,45423,2024,2025,2,2,3,3.3,0,0,4,12,Active,3.3,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1097624084013309952-5892,Startup Draft,FALSE,1.09762E+18,27,Henrypavlak3,3840,
+9999,Will Levis,Base,45423,2024,2026,3,2,3,3.3,3.7,0,11,11,Active,3.3,3.7,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_101,Startup Draft,FALSE,,25,Schoontang,1480,
+2309,Amari Cooper,Base,45423,2024,2027,4,2,4,4.4,4.9,5.4,6,6,Active,4.4,4.9,5.4,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_102,Startup Draft,FALSE,,30,tylercrain,2089,
+11637,Keon Coleman,Base,45423,2024,2026,3,2,3,3.3,3.7,0,8,3,Active,3.3,3.7,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-11637,Startup Draft,FALSE,1.12619E+18,21,DylanBears2022,3615,
+11635,Ladd McConkey,Base,45423,2024,2027,4,2,5,5.5,6.1,6.8,10,10,Active,5.5,6.1,6.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154831004835020800-11635,Startup Draft,FALSE,1.22347E+18,23,jwalwer81,6391,
+1479,Keenan Allen,Base,45423,2024,2025,2,2,3,3.3,0,0,1,5,Active,3.3,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1119737220165918720-1479,Startup Draft,FALSE,1.11974E+18,32,Chewy2552,1798,
+9508,Tyjae Spears,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_106,Startup Draft,FALSE,,23,Vikingsfan80,2939,
+4037,Chris Godwin,Base,45423,2024,2025,2,2,2,2.2,0,0,1,12,Active,2.2,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1149765488134803456-4037,Startup Draft,FALSE,1.21292E+18,29,Henrypavlak3,3656,
+8110,Jake Ferguson,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2.2,2.5,2.8,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_108,Startup Draft,FALSE,,26,jwalwer81,3258,
+4035,Alvin Kamara,Base,45423,2024,2026,3,2,2,2.2,2.5,0,5,5,Active,2.2,2.5,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_109,Startup Draft,FALSE,,29,Chewy2552,3662,
+8154,Brian Robinson,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_110,Startup Draft,FALSE,,26,aintEZBNwheezE,3329,
+2028,Derek Carr,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_111,Startup Draft,FALSE,,34,mlthomas5095,1814,
+4137,James Conner,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_112,Startup Draft,FALSE,,30,DylanBears2022,3193,
+11439,Jaleel McLaughlin,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_113,Startup Draft,FALSE,,24,Schoontang,1809,
+5001,Dalton Schultz,Base,45423,2024,2025,2,2,2,2.2,0,0,6,6,Active,2.2,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_114,Startup Draft,FALSE,,28,tylercrain,2413,
+11619,Ja'Lynn Polk,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,3,3,Active,2.2,2.5,2.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_115,Startup Draft,FALSE,,23,DylanBears2022,2026,
+1166,Kirk Cousins,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_116,Startup Draft,FALSE,,36,Henrypavlak3,1985,
+96,Aaron Rodgers,Base,45423,2024,2026,3,2,2,2.2,2.5,0,1,8,Active,2.2,2.5,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,1135975187918438400-96,Startup Draft,FALSE,1.13598E+18,41,EthanL21,1550,
+11638,Ricky Pearsall,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_118,Startup Draft,FALSE,,24,Vikingsfan80,3878,
+5848,Hollywood Brown,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_119,Startup Draft,FALSE,,27,jwalwer81,0,
+4950,Christian Kirk,Base,45423,2024,2027,4,2,3,3.3,3.7,4.1,10,10,Active,3.3,3.7,4.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_120,Startup Draft,FALSE,,28,jwalwer81,2348,
+5937,Diontae Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_121,Startup Draft,FALSE,,28,Delusional1,1391,
+421,Matthew Stafford,Base,45423,2024,2025,2,2,1,1.1,0,0,2,2,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_122,Startup Draft,FALSE,,37,aintEZBNwheezE,3143,
+11589,Trey Benson,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_123,Startup Draft,FALSE,,22,mlthomas5095,3139,
+1373,Geno Smith,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_124,Startup Draft,FALSE,,34,DylanBears2022,3279,
+6826,Cole Kmet,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1107336472975347712-6826,Startup Draft,FALSE,1.22259E+18,26,Schoontang,2625,
+4981,Calvin Ridley,Base,45423,2024,2025,2,2,2,2.2,0,0,11,7,Active,2.2,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_126,Startup Draft,FALSE,1.22344E+18,30,Vikingsfan80,2865,
+7600,Pat Freiermuth,Base,45423,2024,2025,2,2,1,1.1,0,0,8,9,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_127,Startup Draft,FALSE,1.22333E+18,26,mlthomas5095,3148,
+8139,Zamir White,Base,45423,2024,2026,3,2,3,3.3,3.7,0,2,2,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,1.7,1.9,0,0,StartupDraft_128,Startup Draft,FALSE,,25,aintEZBNwheezE,1142,
+8167,Christian Watson,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,7,Active,2.2,2.5,2.8,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_129,Startup Draft,FALSE,1.22368E+18,25,Vikingsfan80,2398,
+8228,Jaylen Warren,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Active,1.1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_130,Startup Draft,FALSE,,26,Vikingsfan80,2904,
+4988,Nick Chubb,Base,45423,2024,2026,3,2,1,1.1,1.3,0,10,1,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,1154831004835020800-4988,Startup Draft,FALSE,1.22205E+18,29,lalder,1758,
+5045,Courtland Sutton,Base,45423,2024,2026,3,2,2,2.2,2.5,0,2,2,Active,2.2,2.5,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_132,Startup Draft,FALSE,,29,aintEZBNwheezE,3443,
+8148,Jameson Williams,Base,45423,2024,2025,2,2,1,1.1,0,0,4,10,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1141852822775087104-8148,Startup Draft,FALSE,1.14185E+18,24,jwalwer81,4375,
+5947,Jakobi Meyers,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_134,Startup Draft,FALSE,,28,aintEZBNwheezE,3082,
+11626,Xavier Legette,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_135,Startup Draft,FALSE,,24,mlthomas5095,2986,
+4663,Austin Ekeler,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_136,Startup Draft,FALSE,,29,DylanBears2022,1912,
+5870,Daniel Jones,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_137,Startup Draft,FALSE,,27,Schoontang,2213,
+6130,Devin Singletary,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_138,Startup Draft,FALSE,,27,tylercrain,1453,
+11625,Adonai Mitchell,Base,45423,2024,2026,3,2,1,1.1,1.3,0,8,8,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_139,Startup Draft,FALSE,,22,EthanL21,2625,
+9753,Zach Charbonnet,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_140,Startup Draft,FALSE,,24,Henrypavlak3,3304,
+1426,DeAndre Hopkins,Base,45423,2024,2025,2,2,1,1.1,0,0,1,12,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154798040910282752-1426,Startup Draft,FALSE,,32,Henrypavlak3,1580,
+8131,Isaiah Likely,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Active,1.1,1.3,1.5,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_142,Startup Draft,FALSE,,25,Vikingsfan80,3676,
+9224,Chase Brown,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_143,Startup Draft,FALSE,,25,jwalwer81,4715,
+8121,Romeo Doubs,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_144,Startup Draft,FALSE,,25,Chewy2552,2515,
+6011,Gardner Minshew,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_145,Startup Draft,FALSE,,28,Delusional1,1010,
+5248,Gus Edwards,Base,45423,2024,2025,2,2,1,1.1,0,0,2,2,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_146,Startup Draft,FALSE,,29,aintEZBNwheezE,410,
+9484,Tucker Kraft,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_147,Startup Draft,FALSE,,24,mlthomas5095,3687,
+2749,Raheem Mostert,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_148,Startup Draft,FALSE,,33,DylanBears2022,924,
+6845,Zack Moss,Base,45423,2024,2027,4,2,2,2.2,2.5,2.8,10,10,Active,2.2,2.5,2.8,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_149,Startup Draft,FALSE,,27,jwalwer81,1667,
+2374,Tyler Lockett,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_150,Startup Draft,FALSE,,32,tylercrain,1450,
+8119,Jahan Dotson,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_151,Startup Draft,FALSE,,25,EthanL21,1543,
+6783,Jerry Jeudy,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,1,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1154488961423917056-6783,Startup Draft,FALSE,1.15449E+18,26,lalder,3770,
+9757,Kendre Miller,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_153,Startup Draft,FALSE,,22,lalder,2092,
+11627,Troy Franklin,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_154,Startup Draft,FALSE,,22,Vikingsfan80,2199,
+11630,Roman Wilson,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_155,Startup Draft,FALSE,,23,jwalwer81,1979,
+9481,Luke Musgrave,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Active,1.1,1.3,1.5,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_156,Startup Draft,FALSE,,24,Chewy2552,2489,
+6943,Gabe Davis,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_157,Startup Draft,FALSE,,26,Delusional1,0,
+8134,Khalil Shakir,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_158,Startup Draft,FALSE,,25,aintEZBNwheezE,3671,
+7594,Chuba Hubbard,Base,45423,2024,2026,3,2,1,1.1,1.3,0,9,9,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_159,Startup Draft,FALSE,,25,mlthomas5095,3983,
+4068,Mike Williams,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_160,Startup Draft,FALSE,,30,DylanBears2022,1253,
+11617,Malachi Corley,Base,45423,2024,2026,3,2,1,1.1,1.3,0,11,11,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_161,Startup Draft,FALSE,,23,Schoontang,1517,
+3164,Ezekiel Elliott,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_162,Startup Draft,FALSE,,29,tylercrain,0,
+9754,Quentin Johnston,Base,45423,2024,2025,2,2,1,1.1,0,0,8,3,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1126193530575245312-9754,Startup Draft,FALSE,1.12619E+18,23,DylanBears2022,2404,
+9482,Michael Mayer,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_164,Startup Draft,FALSE,,23,Henrypavlak3,2422,
+8143,Jerome Ford,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,11,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_165,Startup Draft,FALSE,1.22476E+18,25,Schoontang,1918,
+3225,Tyler Boyd,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_166,Startup Draft,FALSE,,30,Vikingsfan80,649,
+10232,Michael Wilson,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_167,Startup Draft,FALSE,,25,jwalwer81,1995,
+8676,Rashid Shaheed,Base,45423,2024,2026,3,2,1,1.1,1.3,0,5,5,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_168,Startup Draft,FALSE,,26,Chewy2552,2816,
+11645,Javon Baker,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_169,Startup Draft,FALSE,,23,Delusional1,1559,
+8111,Cade Otton,Base,45423,2024,2026,3,2,1,1.1,1.3,0,2,2,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_170,Startup Draft,FALSE,,26,aintEZBNwheezE,3190,
+8132,Tyler Allgeier,Base,45423,2024,2026,3,2,1,1.1,1.3,0,9,9,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_171,Startup Draft,FALSE,,25,mlthomas5095,2266,
+3214,Hunter Henry,Base,45423,2024,2025,2,2,1,1.1,0,0,3,3,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_172,Startup Draft,FALSE,,30,DylanBears2022,2174,
+11581,MarShawn Lloyd,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_173,Startup Draft,FALSE,,24,Schoontang,2288,
+9501,DeMario Douglas,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_174,Startup Draft,FALSE,,24,tylercrain,2220,
+7670,Joshua Palmer,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_175,Startup Draft,FALSE,,25,EthanL21,2106,
+10235,Roschon Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_176,Startup Draft,FALSE,,24,Henrypavlak3,2066,
+9486,Dontayvion Wicks,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,1,9,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_177,Startup Draft,FALSE,1.213E+18,23,mlthomas5095,2296,
+6806,J.K. Dobbins,Base,45423,2024,2025,2,2,1,1.1,0,0,7,7,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_178,Startup Draft,FALSE,,26,Vikingsfan80,0,
+11596,Ben Sinnott,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_179,Startup Draft,FALSE,,22,jwalwer81,2906,
+8210,Chig Okonkwo,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_180,Startup Draft,FALSE,,25,Chewy2552,0,
+9225,Tank Bigsby,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_181,Startup Draft,FALSE,,22,Delusional1,2768,
+9494,Marvin Mims,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_182,Startup Draft,FALSE,,23,mlthomas5095,2655,
+8135,Treylon Burks,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_183,Startup Draft,FALSE,,25,DylanBears2022,1281,
+7090,Darnell Mooney,Base,45423,2024,2026,3,2,1,1.1,1.3,0,11,11,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_184,Startup Draft,FALSE,,27,Schoontang,2773,
+7571,Rashod Bateman,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_185,Startup Draft,FALSE,,25,tylercrain,2613,
+11643,Jaylen Wright,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_186,Startup Draft,FALSE,,22,EthanL21,2600,
+9511,Keaton Mitchell,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_187,Startup Draft,FALSE,,23,Henrypavlak3,2028,
+6828,A.J. Dillon,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_188,Startup Draft,FALSE,,27,lalder,1076,
+4943,Sam Darnold,Base,45423,2024,2025,2,2,1,1.1,0,0,7,11,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_189,Startup Draft,FALSE,1.22344E+18,27,Schoontang,3858,
+7608,Khalil Herbert,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_190,Startup Draft,FALSE,,27,Chewy2552,1284,
+8126,Wan'Dale Robinson,Base,45423,2024,2025,2,2,1,1.1,0,0,4,2,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,1144484671636553728-8126,Startup Draft,FALSE,1.21302E+18,24,aintEZBNwheezE,2290,
+7596,Elijah Moore,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_192,Startup Draft,FALSE,,25,mlthomas5095,1832,
+9497,Jalin Hyatt,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_193,Startup Draft,FALSE,,23,DylanBears2022,1650,
+1689,Adam Thielen,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_194,Startup Draft,FALSE,,34,Schoontang,1602,
+2197,Brandin Cooks,Base,45423,2024,2025,2,2,1,1.1,0,0,6,6,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_195,Startup Draft,FALSE,,31,tylercrain,1045,
+11600,Ja'Tavion Sanders,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_196,Startup Draft,FALSE,,22,EthanL21,2745,
+4080,Zay Jones,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_197,Startup Draft,FALSE,,30,Henrypavlak3,816,
+7561,Elijah Mitchell,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_198,Startup Draft,FALSE,,27,lalder,1581,
+7002,Juwan Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,7,7,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_199,Startup Draft,FALSE,,28,Vikingsfan80,2041,
+4082,Curtis Samuel,Base,45423,2024,2026,3,2,1,1.1,1.3,0,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_200,Startup Draft,FALSE,,28,Chewy2552,1385,
+11618,Jalen McMillan,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_201,Startup Draft,FALSE,,23,Delusional1,2950,
+8129,Dameon Pierce,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_202,Startup Draft,FALSE,,25,mlthomas5095,1263,
+11576,Braelon Allen,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Active,1.1,1.3,1.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_203,Startup Draft,FALSE,,21,DylanBears2022,2876,
+6945,Antonio Gibson,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_204,Startup Draft,FALSE,,26,Schoontang,1290,
+2505,Darren Waller,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,6,6,Expired,0,0,0,0,TRUE,TRUE,TE,0,Retired,0,0,0,0,StartupDraft_205,Startup Draft,FALSE,,31,tylercrain,0,
+8230,Ty Chandler,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_206,Startup Draft,FALSE,,26,EthanL21,955,
+4381,Taysom Hill,Base,45423,2024,2025,2,2,1,1.1,0,0,12,4,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,1097624084013309952-4381,Startup Draft,FALSE,1.09762E+18,34,Delusional1,1646,
+8162,Sam Howell,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,1,1,Active,1.1,1.3,1.5,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_208,Startup Draft,FALSE,,24,lalder,1644,
+11562,Spencer Rattler,Base,45423,2024,2026,3,2,1,1.1,1.3,0,7,7,Active,1.1,1.3,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_209,Startup Draft,FALSE,,24,Vikingsfan80,1609,
+11629,Devontez Walker,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,5,5,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_210,Startup Draft,FALSE,,23,Chewy2552,1271,
+8142,Alec Pierce,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_211,Startup Draft,FALSE,,25,Delusional1,2197,
+11640,Jermaine Burton,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_212,Startup Draft,FALSE,,23,mlthomas5095,1649,
+11621,Brenden Rice,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_213,Startup Draft,FALSE,,23,DylanBears2022,1157,
+10866,Aidan O'Connell,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_214,Startup Draft,FALSE,,26,Schoontang,1105,
+11650,Luke McCaffrey,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,6,6,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_215,Startup Draft,FALSE,,24,tylercrain,1792,
+7021,Rico Dowdle,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_216,Startup Draft,FALSE,,26,EthanL21,2081,
+5857,Noah Fant,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_217,Startup Draft,FALSE,,27,Henrypavlak3,1946,
+8219,Jelani Woods,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_218,Startup Draft,FALSE,,26,lalder,1134,
+10863,A.T. Perry,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_219,Startup Draft,FALSE,,25,Vikingsfan80,0,
+3286,Demarcus Robinson,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_220,Startup Draft,FALSE,,30,Chewy2552,936,
+11575,Ray Davis,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_221,Startup Draft,FALSE,,25,Delusional1,2525,
+11584,Bucky Irving,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_222,Startup Draft,FALSE,,22,mlthomas5095,5526,
+5970,Greg Dortch,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Active,1.1,1.3,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_223,Startup Draft,FALSE,,26,DylanBears2022,1213,
+11647,Kimani Vidal,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_224,Startup Draft,FALSE,,23,Schoontang,1378,
+7601,Rondale Moore,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_225,Startup Draft,FALSE,,24,EthanL21,1345,
+10225,Jonathan Mingo,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_226,Startup Draft,FALSE,,24,Henrypavlak3,1419,
+4951,DJ Chark,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_227,Startup Draft,FALSE,,28,lalder,0,
+5133,Tyler Conklin,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0,0,0,StartupDraft_228,Startup Draft,FALSE,,29,Chewy2552,1555,
+11651,Isaac Guerendo,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_229,Startup Draft,FALSE,,24,mlthomas5095,2622,
+11597,Theo Johnson,Base,45423,2024,2026,3,2,1,1.1,1.3,0,3,3,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_230,Startup Draft,FALSE,,24,DylanBears2022,2431,
+6820,Clyde Edwards-Helaire,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_231,Startup Draft,FALSE,,26,Schoontang,799,
+8172,Greg Dulcich,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0,0,0,StartupDraft_232,Startup Draft,FALSE,,25,EthanL21,1484,
+5987,Alexander Mattison,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_233,Startup Draft,FALSE,,26,Henrypavlak3,1203,
+11567,Jordan Travis,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_234,Startup Draft,FALSE,,24,Chewy2552,581,
+4993,Mike Gesicki,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_235,Startup Draft,FALSE,,29,mlthomas5095,2422,
+3257,Jacoby Brissett,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Expired,0,0,0,0,TRUE,TRUE,QB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_236,Startup Draft,FALSE,,32,EthanL21,655,
+2078,Odell Beckham,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0,0,0,StartupDraft_237,Startup Draft,FALSE,,32,Henrypavlak3,0,
+6149,Darius Slayton,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_238,Startup Draft,FALSE,,28,Chewy2552,1691,
+6151,Miles Sanders,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_239,Startup Draft,FALSE,,28,Henrypavlak3,1241,
+7066,K.J. Osborn,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0,0,StartupDraft_240,Startup Draft,FALSE,,27,Henrypavlak3,0,
+11584,Bucky Irving,Extension,45423,2026,2027,2,0,35,38.5,0,0,9,9,Future,0,35,38.5,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,Holdout2024-11584,Startup Draft,FALSE,,22,mlthomas5095,5526,
