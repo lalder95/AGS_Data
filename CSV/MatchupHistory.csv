@@ -1574,7 +1574,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2021,6,4,3,2021-6-4-1,Schoontang,135.6,5000,X,8
 2021,6,4,3,2021-6-4-1,Schoontang,135.6,7588,1033,9.8
 2021,6,4,3,2021-6-4-1,Schoontang,135.6,6768,600,25.36
-2021,6,4,11,2021-6-4-2,iisstupids,28.7,3976,321,0
+2021,6,4,11,2021-6-4-2,iisstupids,28.7,3976,X,0
 2021,6,4,11,2021-6-4-2,iisstupids,28.7,2320,X,10.3
 2021,6,4,11,2021-6-4-2,iisstupids,28.7,7529,X,0
 2021,6,4,11,2021-6-4-2,iisstupids,28.7,3582,X,1.7
@@ -2626,7 +2626,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2022,15,4,11,2022-15-4-2,iisstupids,74,3214,212,2.9
 2022,15,4,11,2022-15-4-2,iisstupids,74,8137,1279,7.3
 2022,15,4,11,2022-15-4-2,iisstupids,74,5096,646,2.6
-2022,15,4,11,2022-15-4-2,iisstupids,74,3976,321,14.06
+2022,15,4,11,2022-15-4-2,iisstupids,74,3976,X,14.06
 2022,15,5,4,2022-15-5-1,SnackDaddy2907,91.18,7538,1016,23.38
 2022,15,5,4,2022-15-5-1,SnackDaddy2907,91.18,5536,X,0
 2022,15,5,4,2022-15-5-1,SnackDaddy2907,91.18,8132,1228,22.6
@@ -2806,7 +2806,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2022,16,6,11,2022-16-6-2,iisstupids,54.68,3214,212,0
 2022,16,6,11,2022-16-6-2,iisstupids,54.68,8137,1279,16.7
 2022,16,6,11,2022-16-6-2,iisstupids,54.68,5096,646,13.1
-2022,16,6,11,2022-16-6-2,iisstupids,54.68,3976,321,0
+2022,16,6,11,2022-16-6-2,iisstupids,54.68,3976,X,0
 2022,17,1,1,2022-17-1-1,lalder,91.54,4046,272,31.52
 2022,17,1,1,2022-17-1-1,lalder,91.54,6790,639,27.7
 2022,17,1,1,2022-17-1-1,lalder,91.54,4137,268,14
@@ -2905,7 +2905,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2022,17,null,11,2022-17-null-3,iisstupids,46.7,3214,212,10.2
 2022,17,null,11,2022-17-null-3,iisstupids,46.7,8137,1279,4.9
 2022,17,null,11,2022-17-null-3,iisstupids,46.7,5096,646,5.2
-2022,17,null,11,2022-17-null-3,iisstupids,46.7,3976,321,0
+2022,17,null,11,2022-17-null-3,iisstupids,46.7,3976,X,0
 2022,17,null,12,2022-17-null-4,mlthomas5095,41.78,1166,396,9.9
 2022,17,null,12,2022-17-null-4,mlthomas5095,41.78,4866,1,7.3
 2022,17,null,12,2022-17-null-4,mlthomas5095,41.78,4147,785,0
@@ -2941,7 +2941,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2022,18,null,11,2022-18-null-3,iisstupids,55.14,3214,212,10.2
 2022,18,null,11,2022-18-null-3,iisstupids,55.14,8137,1279,16.2
 2022,18,null,11,2022-18-null-3,iisstupids,55.14,5096,646,0
-2022,18,null,11,2022-18-null-3,iisstupids,55.14,3976,321,0
+2022,18,null,11,2022-18-null-3,iisstupids,55.14,3976,X,0
 2022,18,null,12,2022-18-null-4,mlthomas5095,67.18,1166,396,15
 2022,18,null,12,2022-18-null-4,mlthomas5095,67.18,4866,1,0
 2022,18,null,12,2022-18-null-4,mlthomas5095,67.18,4147,785,3.2
@@ -3212,7 +3212,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2022,3,5,5,2022-3-5-1,jwalwer81,124.58,7547,X,13.3
 2022,3,5,5,2022-3-5-1,jwalwer81,124.58,5848,X,28
 2022,3,5,5,2022-3-5-1,jwalwer81,124.58,4034,283,13.5
-2022,3,5,11,2022-3-5-2,iisstupids,70.28,3976,321,14.98
+2022,3,5,11,2022-3-5-2,iisstupids,70.28,3976,X,14.98
 2022,3,5,11,2022-3-5-2,iisstupids,70.28,6931,X,5.8
 2022,3,5,11,2022-3-5-2,iisstupids,70.28,6945,584,11
 2022,3,5,11,2022-3-5-2,iisstupids,70.28,4040,276,13.9
@@ -3338,7 +3338,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2022,4,6,1,2022-4-6-1,lalder,150.68,2197,307,18.7
 2022,4,6,1,2022-4-6-1,lalder,150.68,6828,631,9.4
 2022,4,6,1,2022-4-6-1,lalder,150.68,4984,365,25.52
-2022,4,6,11,2022-4-6-2,iisstupids,64.56,3976,321,1.46
+2022,4,6,11,2022-4-6-2,iisstupids,64.56,3976,X,1.46
 2022,4,6,11,2022-4-6-2,iisstupids,64.56,6931,X,0
 2022,4,6,11,2022-4-6-2,iisstupids,64.56,6945,584,9.3
 2022,4,6,11,2022-4-6-2,iisstupids,64.56,4040,276,9.6
@@ -4562,7 +4562,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2023,15,4,3,2023-15-4-1,Schoontang,82.44,9511,1393,10.8
 2023,15,4,3,2023-15-4-1,Schoontang,82.44,9226,1398,9.2
 2023,15,4,3,2023-15-4-1,Schoontang,82.44,7523,1094,16.66
-2023,15,4,11,2023-15-4-2,iisstupids,103.4,3976,321,14.86
+2023,15,4,11,2023-15-4-2,iisstupids,103.4,3976,X,14.86
 2023,15,4,11,2023-15-4-2,iisstupids,103.4,6945,584,8.5
 2023,15,4,11,2023-15-4-2,iisstupids,103.4,1476,X,7.1
 2023,15,4,11,2023-15-4-2,iisstupids,103.4,6819,536,11.8
@@ -5583,7 +5583,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2023,7,5,3,2023-7-5-1,Schoontang,144.82,8151,X,13.1
 2023,7,5,3,2023-7-5-1,Schoontang,144.82,9221,1415,27.6
 2023,7,5,3,2023-7-5-1,Schoontang,144.82,9997,1443,11.5
-2023,7,5,3,2023-7-5-1,Schoontang,144.82,8253,X,2.4
+2023,7,5,3,2023-7-5-1,Schoontang,144.82,8253,1333,2.4
 2023,7,5,3,2023-7-5-1,Schoontang,144.82,5008,X,0
 2023,7,5,3,2023-7-5-1,Schoontang,144.82,4111,358,33
 2023,7,5,3,2023-7-5-1,Schoontang,144.82,11199,1481,11.5
@@ -7260,7 +7260,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,7562,1078,12.5
 2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,5857,243,5.4
 2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,3321,286,12.9
-2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,5374,178,0
+2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,5374,X,0
 2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,5870,87,26.08
 2024,5,2,5,2024-5-2-2,jwalwer81,151.3,9758,X,17.94
 2024,5,2,5,2024-5-2-2,jwalwer81,151.3,8150,1226,15.5
