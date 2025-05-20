@@ -1,13 +1,13 @@
 Name,QB1,RB1,RB2,WR1,WR2,TE1,FLEX1,FLEX2,SUPERFLEX,QB1 Value,RB1 Value,RB2 Value,WR1 Value,WR2 Value,TE1 Value,Flex1 Value,Flex2 Value,SuperFlex Value,Starter Value,Bench Value
-Lucas,Josh Allen,Bijan Robinson,Saquon Barkley,Ja'Marr Chase,Justin Jefferson,Travis Kelce,Rome Odunze,Chris Olave,Patrick Mahomes,9999,8162,6569,9971,9439,3199,5230,4504,7172,64245,52304
-Joe,Justin Herbert,Jonathan Taylor,Kyren Williams,Puka Nacua,Garrett Wilson,Dalton Kincaid,DeVonta Smith,James Cook,Jordan Love,6720,5407,5195,7391,5987,3823,5205,4822,6252,50802,53138
-James,Lamar Jackson,Breece Hall,Alvin Kamara,Malik Nabers,Drake London,Dallas Goedert,Chris Godwin,Keon Coleman,Joe Burrow,9531,5445,3630,8611,6448,2978,3620,3528,8310,52101,43883
-Jeremy,Joe Milton,Chase Brown,Ty Chandler,Rashee Rice,Josh Downs,Isaiah Likely,Cade Otton,Jalen McMillan,David Njoku,2065,4714,924,5273,3555,3675,3114,2906,3649,29875,36798
-Matt,Baker Mayfield,Bucky Irving,Tony Pollard,Jaxon Smith-Njigba,Cooper Kupp,Ben Sinnott,Ja'Tavion Sanders,Adonai Mitchell,Bryce Young,5427,5548,3007,6353,2830,2926,2780,2579,5063,36513,27488
-Jordan,Trevor Lawrence,Jahmyr Gibbs,De'Von Achane,Zay Flowers,Brandon Aiyuk,Kyle Pitts,Davante Adams,Tyrone Tracy,Anthony Richardson,5477,8146,6065,4671,3899,3851,3407,3259,3606,42381,29694
-Tristan,Bo Nix,Derrick Henry,Brian Robinson,George Pickens,Deebo Samuel,George Kittle,Braelon Allen,Darnell Mooney,Dak Prescott,6480,4395,3354,4150,3005,4624,2835,2789,4601,36233,29036
-Tom,Jalen Hurts,Christian McCaffrey,Chuba Hubbard,DK Metcalf,Tyreek Hill,Mark Andrews,Joe Mixon,James Conner,David Montgomery,8065,4626,4080,4673,3781,3530,3673,3163,3810,39401,29651
-Ricky,Kyler Murray,Jordan Mason,Audric Estime,Tee Higgins,Jordan Addison,Brock Bowers,Jameson Williams,Mike Evans,Trey McBride,5531,2722,2080,5435,4736,9037,4401,3829,7188,44959,29587
-Alex,Jayden Daniels,MarShawn Lloyd,Antonio Gibson,Nico Collins,Michael Pittman,Hunter Henry,Juwan Johnson,Will Dissly,Jakobi Meyers,9998,2295,1305,6529,3404,2159,2031,1499,3040,32260,12031
-Luc,Drake Maye,Josh Jacobs,Tyjae Spears,CeeDee Lamb,Jaylen Waddle,Sam LaPorta,Jonnu Smith,Stefon Diggs,Courtland Sutton,6755,4734,2882,7929,4421,6013,3048,2839,3418,42039,24436
-Shane,Jared Goff,Rhamondre Stevenson,Jaleel McLaughlin,Ladd McConkey,Jayden Reed,Evan Engram,Christian Kirk,Dontayvion Wicks,Marvin Mims,4728,2601,1800,6442,3744,3269,2326,2138,2640,29688,16370
+Lucas,Josh Allen,Bijan Robinson,Saquon Barkley,Ja'Marr Chase,Justin Jefferson,Travis Kelce,Rome Odunze,Chris Olave,Patrick Mahomes,0,0,0,0,0,0,0,0,0,0,0
+Joe,Justin Herbert,Jonathan Taylor,Kyren Williams,Puka Nacua,Garrett Wilson,Dalton Kincaid,DeVonta Smith,James Cook,Jordan Love,0,0,0,0,0,0,0,0,0,0,0
+James,Lamar Jackson,Breece Hall,Alvin Kamara,Malik Nabers,Drake London,Dallas Goedert,Chris Godwin,Keon Coleman,Joe Burrow,0,0,0,0,0,0,0,0,0,0,0
+Jeremy,Joe Milton,Chase Brown,Ty Chandler,Rashee Rice,Josh Downs,Isaiah Likely,Cade Otton,Jalen McMillan,David Njoku,0,0,0,0,0,0,0,0,0,0,0
+Matt,Baker Mayfield,Bucky Irving,Tony Pollard,Jaxon Smith-Njigba,Cooper Kupp,Ben Sinnott,Ja'Tavion Sanders,Adonai Mitchell,Bryce Young,0,0,0,0,0,0,0,0,0,0,0
+Jordan,Trevor Lawrence,Jahmyr Gibbs,De'Von Achane,Zay Flowers,Brandon Aiyuk,Kyle Pitts,Davante Adams,Tyrone Tracy,Anthony Richardson,0,0,0,0,0,0,0,0,0,0,0
+Tristan,Bo Nix,Derrick Henry,Brian Robinson,George Pickens,Deebo Samuel,George Kittle,Braelon Allen,Darnell Mooney,Dak Prescott,0,0,0,0,0,0,0,0,0,0,0
+Tom,Jalen Hurts,Christian McCaffrey,Chuba Hubbard,DK Metcalf,Tyreek Hill,Mark Andrews,Joe Mixon,James Conner,David Montgomery,0,0,0,0,0,0,0,0,0,0,0
+Ricky,Kyler Murray,Jordan Mason,Audric Estime,Tee Higgins,Jordan Addison,Brock Bowers,Jameson Williams,Mike Evans,Trey McBride,0,0,0,0,0,0,0,0,0,0,0
+Alex,Jayden Daniels,MarShawn Lloyd,Antonio Gibson,Nico Collins,Michael Pittman,Hunter Henry,Juwan Johnson,Will Dissly,Jakobi Meyers,0,0,0,0,0,0,0,0,0,0,0
+Luc,Drake Maye,Josh Jacobs,Tyjae Spears,CeeDee Lamb,Jaylen Waddle,Sam LaPorta,Jonnu Smith,Stefon Diggs,Courtland Sutton,0,0,0,0,0,0,0,0,0,0,0
+Shane,Jared Goff,Rhamondre Stevenson,Jaleel McLaughlin,Ladd McConkey,Jayden Reed,Evan Engram,Christian Kirk,Dontayvion Wicks,Marvin Mims,0,0,0,0,0,0,0,0,0,0,0
