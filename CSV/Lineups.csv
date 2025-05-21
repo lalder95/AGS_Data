@@ -1,13 +1,13 @@
 Name,QB1,RB1,RB2,WR1,WR2,TE1,FLEX1,FLEX2,SUPERFLEX,QB1 Value,RB1 Value,RB2 Value,WR1 Value,WR2 Value,TE1 Value,Flex1 Value,Flex2 Value,SuperFlex Value,Starter Value,Bench Value
-Lucas,Dorian Thompson-Robinson,Roschon Johnson,Rasheen Ali,Rome Odunze,Jordan Whittington,Erick All,Carson Steele,Marvin Harrison,Caleb Williams,0,0,0,0,0,0,0,0,0,0,0
-Jordan,Tommy DeVito,Emari Demercado,Trey Benson,Andrei Iosivas,Jake Bobo,Kyle Pitts,Troy Franklin,Tyrone Tracy,Xavier Gipson,0,0,0,0,0,0,0,0,0,0,0
-Joe,Justin Herbert,Isaiah Davis,Jase McClellan,Xavier Worthy,Brian Thomas,Dalton Kincaid,Luke McCaffrey,Bub Means,Kimani Vidal,0,0,0,0,0,0,0,0,0,0,0
-Ricky,Stetson Bennett,Dylan Laube,Audric Estime,Mike Evans,Noah Brown,Josh Whyle,Cordarrelle Patterson,Tyler Higbee,Brock Bowers,0,0,0,0,0,0,0,0,0,0,0
-James,Matthew Stafford,Ray Davis,Blake Corum,Tre Tucker,Ainias Smith,Theo Johnson,Brenden Rice,Malik Nabers,Jaheim Bell,0,0,0,0,0,0,0,0,0,0,0
-Luc,Drake Maye,Eric Gray,Chris Brooks,AT Perry,Stefon Diggs,Sam LaPorta,Frank Gore,Jonathon Brooks,JJ McCarthy,0,0,0,0,0,0,0,0,0,0,0
-Shane,Jared Goff,Jaleel McLaughlin,Justice Hill,Jayden Reed,Ja'Lynn Polk,Cade Stover,Javon Baker,Brandin Cooks,Ladd McConkey,0,0,0,0,0,0,0,0,0,0,0
-Alex,Michael Penix,Emanuel Wilson,MarShawn Lloyd,David Moore,Tim Patrick,Cameron Latu,Hunter Henry,Will Dissly,Jayden Daniels,0,0,0,0,0,0,0,0,0,0,0
-Matt,Baker Mayfield,Will Shipley,Bucky Irving,Charlie Jones,Adonai Mitchell,Will Mallory,Ben Sinnott,Ja'Tavion Sanders,Luke Schoonmaker,0,0,0,0,0,0,0,0,0,0,0
-Tom,Daniel Jones,Chris Rodriguez,Joe Mixon,Johnny Wilson,Mason Tipton,Zach Ertz,Tyreek Hill,Christian McCaffrey,DeAndre Hopkins,0,0,0,0,0,0,0,0,0,0,0
-Jeremy,Aidan O'Connell,Samaje Perine,Jeremy McNichols,Jonathan Mingo,Rashee Rice,Jared Wiley,Cedric Tillman,AJ Barner,Michael Wilson,0,0,0,0,0,0,0,0,0,0,0
-Tristan,Spencer Rattler,Braelon Allen,Derrick Henry,Xavier Hutchinson,Ryan Miller,George Kittle,Cornelius Johnson,Robert Woods,Bo Nix,0,0,0,0,0,0,0,0,0,0,0
+Lucas,Dorian Thompson-Robinson,Roschon Johnson,Rasheen Ali,Rome Odunze,Jordan Whittington,Erick All,Carson Steele,Marvin Harrison,Caleb Williams,735,2073,1023,5168,1857,1791,958,0,6688,20293,95893
+Jordan,Tommy DeVito,Emari Demercado,Trey Benson,Andrei Iosivas,Jake Bobo,Kyle Pitts,Troy Franklin,Tyrone Tracy,Xavier Gipson,404,856,3207,1823,1073,3825,2152,3233,971,17544,54261
+Joe,Justin Herbert,Isaiah Davis,Jase McClellan,Xavier Worthy,Brian Thomas,Dalton Kincaid,Luke McCaffrey,Bub Means,Kimani Vidal,6675,1753,913,4723,0,3776,1801,1199,1388,22228,81589
+Ricky,Stetson Bennett,Dylan Laube,Audric Estime,Mike Evans,Noah Brown,Josh Whyle,Cordarrelle Patterson,Tyler Higbee,Brock Bowers,0,817,2093,3813,1098,957,0,1561,8967,19306,55433
+James,Matthew Stafford,Ray Davis,Blake Corum,Tre Tucker,Ainias Smith,Theo Johnson,Brenden Rice,Malik Nabers,Jaheim Bell,3154,2562,2462,1727,814,2444,1148,8601,1184,24096,71745
+Luc,Drake Maye,Eric Gray,Chris Brooks,AT Perry,Stefon Diggs,Sam LaPorta,Frank Gore,Jonathon Brooks,JJ McCarthy,6808,775,779,0,2875,6008,0,2659,0,19904,46531
+Shane,Jared Goff,Jaleel McLaughlin,Justice Hill,Jayden Reed,Ja'Lynn Polk,Cade Stover,Javon Baker,Brandin Cooks,Ladd McConkey,4698,1779,1405,3728,1898,1848,1597,1005,6458,24416,21485
+Alex,Michael Penix,Emanuel Wilson,MarShawn Lloyd,David Moore,Tim Patrick,Cameron Latu,Hunter Henry,Will Dissly,Jayden Daniels,0,1295,2323,0,872,0,2179,1499,9969,18137,26056
+Matt,Baker Mayfield,Will Shipley,Bucky Irving,Charlie Jones,Adonai Mitchell,Will Mallory,Ben Sinnott,Ja'Tavion Sanders,Luke Schoonmaker,5405,1744,5639,0,2558,0,2886,2794,1893,22919,40567
+Tom,Daniel Jones,Chris Rodriguez,Joe Mixon,Johnny Wilson,Mason Tipton,Zach Ertz,Tyreek Hill,Christian McCaffrey,DeAndre Hopkins,2158,1041,3659,926,907,2068,3796,4640,1585,20780,48221
+Jeremy,Aidan O'Connell,Samaje Perine,Jeremy McNichols,Jonathan Mingo,Rashee Rice,Jared Wiley,Cedric Tillman,AJ Barner,Michael Wilson,1100,842,0,1309,5306,1443,2666,1657,2044,16367,50231
+Tristan,Spencer Rattler,Braelon Allen,Derrick Henry,Xavier Hutchinson,Ryan Miller,George Kittle,Cornelius Johnson,Robert Woods,Bo Nix,1855,2841,4408,1187,0,4681,0,0,6525,21497,43825
