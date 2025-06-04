@@ -141,7 +141,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 9480,Brenton Strange,Waiver,45557.51295,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1143556058707779584,Waiver,FALSE,,24,aintEZBNwheezE,3079,FALSE,1,FALSE,TRUE,
 11582,Carson Steele,Waiver,45553.29318,2024,2024,1,2,12,0,0,0,10,10,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1141947780433354752,Waiver,FALSE,,22,jwalwer81,882,FALSE,1,FALSE,TRUE,
 4147,Samaje Perine,Waiver,45553.29318,2024,2024,1,2,5,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1141411080393203712,Waiver,FALSE,,29,lalder,797,FALSE,1,FALSE,TRUE,
-8206,Skylar Thompson,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1140715728975360000,Waiver,FALSE,,27,lalder,0,FALSE,1,FALSE,TRUE,
+8206,Skylar Thompson,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,1,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1140715728975360000,Waiver,FALSE,,28,lalder,0,FALSE,1,FALSE,TRUE,
 8180,Jalen Nailor,Waiver,45553.29318,2024,2024,1,2,2,0,0,0,1,7,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1141418792669650944,Waiver,FALSE,1.1549E+18,26,Vikingsfan80,1491,FALSE,1,FALSE,TRUE,
 829,Andy Dalton,Waiver,45553.29318,2024,2024,1,2,16,0,0,0,1,9,Expired,0,0,0,0,FALSE,TRUE,QB,1,,0,0,0,0,1141473651871608832,Waiver,FALSE,1.15044E+18,37,mlthomas5095,0,FALSE,1,FALSE,TRUE,
 4098,Kareem Hunt,Waiver,45551.91506,2024,2024,1,2,1,0,0,0,6,6,Expired,0,0,0,0,FALSE,FALSE,RB,1,,0,0,0,0,1141527446290817024,Waiver,FALSE,,29,tylercrain,1602,FALSE,1,FALSE,TRUE,
@@ -273,7 +273,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 1166,Kirk Cousins,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_116,Startup Draft,FALSE,,36,Henrypavlak3,1867,FALSE,1,FALSE,TRUE,Kirk Cousins can be franchise tagged.
 96,Aaron Rodgers,Base,45423,2024,2026,3,2,2,2.2,2.5,0,1,1,Active,2.2,2.5,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,1135975187918438400-96,Startup Draft,FALSE,1.23125E+18,41,lalder,1467,FALSE,1,FALSE,TRUE,Aaron Rodgers can be franchise tagged.
 11638,Ricky Pearsall,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_118,Startup Draft,FALSE,1.23064E+18,24,jwalwer81,4123,FALSE,1,FALSE,TRUE,Ricky Pearsall can be franchise tagged.
-5848,Hollywood Brown,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_119,Startup Draft,FALSE,,27,jwalwer81,0,FALSE,1,FALSE,TRUE,Hollywood Brown can be franchise tagged.
+5848,Hollywood Brown,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_119,Startup Draft,FALSE,,28,jwalwer81,0,FALSE,1,FALSE,TRUE,Hollywood Brown can be franchise tagged.
 4950,Christian Kirk,Base,45423,2024,2027,4,2,3,3.3,3.7,4.1,10,12,Active,3.3,3.7,4.1,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_120,Startup Draft,FALSE,1.23278E+18,28,Henrypavlak3,2224,FALSE,1,FALSE,TRUE,Christian Kirk can be franchise tagged.
 5937,Diontae Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_121,Startup Draft,FALSE,,28,Delusional1,1388,FALSE,1,FALSE,TRUE,Diontae Johnson can be franchise tagged.
 421,Matthew Stafford,Base,45423,2024,2025,2,2,1,1.1,0,0,2,2,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_122,Startup Draft,FALSE,,37,aintEZBNwheezE,3115,FALSE,1,FALSE,TRUE,Matthew Stafford can be franchise tagged.
