@@ -1,6 +1,7 @@
 Name,Path,Sheet
 BBB_Contracts,G:\My Drive\AGS Football\AGS Online\CSVExports\CSV\BBB_Contracts.csv,BBB_Contracts
 BBB_TeamFines,G:\My Drive\AGS Football\AGS Online\CSVExports\CSV\BBB_TeamFines.csv,BBB_Contracts
+ScoreProjections,G:\My Drive\AGS Football\AGS Online\CSVExports\CSV\PlayerScoreProjections.csv,ScoreProjections
 Divisions,G:\My Drive\AGS Football\AGS Online\CSVExports\CSV\Divisions.csv,Standings
 DraftCapitol,G:\My Drive\AGS Football\AGS Online\CSVExports\CSV\DraftCapitol.csv,DraftCapitol
 ExportDataTable,G:\My Drive\AGS Football\AGS Online\CSVExports\CSV\TableList.csv,ExportData
