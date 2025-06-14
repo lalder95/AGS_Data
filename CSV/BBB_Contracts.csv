@@ -113,7 +113,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 4574,Cooper Rush,Waiver,45602.33465,2024,2024,1,2,1,0,0,0,3,3,Expired,0,0,0,0,FALSE,FALSE,QB,1,,0,0,0,0,1159667132712484864,Waiver,FALSE,,31,DylanBears2022,0,FALSE,1,FALSE,TRUE,
 7828,Noah Gray,Waiver,45599.66877,2024,2024,1,2,1,0,0,0,12,12,Expired,0,0,0,0,FALSE,FALSE,TE,1,,0,0,0,0,1158832816579379200,Waiver,FALSE,,26,Henrypavlak3,2222,FALSE,1,FALSE,TRUE,
 11651,Isaac Guerendo,Waiver,45595.29297,2024,2024,1,2,1,0,0,0,7,7,Expired,0,0,0,0,FALSE,TRUE,RB,1,,0,0,0,0,1156633527467978752,Waiver,FALSE,,24,Vikingsfan80,2659,FALSE,1,FALSE,TRUE,
-11596,Ben Sinnott,Waiver,45591.52653,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1155882163124948992,Waiver,FALSE,,22,Chewy2552,2856,FALSE,1,FALSE,TRUE,
+11596,Ben Sinnott,Waiver,45591.52653,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,TRUE,TE,1,,0,0,0,0,1155882163124948992,Waiver,FALSE,,23,Chewy2552,2856,FALSE,1,FALSE,TRUE,
 3200,Sterling Shepard,Waiver,45588.80345,2024,2024,1,2,1,0,0,0,1,1,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154895355280998400,Waiver,FALSE,,32,lalder,386,FALSE,1,FALSE,TRUE,
 11618,Jalen McMillan,Waiver,45588.62002,2024,2024,1,2,1,0,0,0,5,5,Expired,0,0,0,0,FALSE,FALSE,WR,1,,0,0,0,0,1154828883703746560,Waiver,FALSE,,23,Chewy2552,2912,FALSE,1,FALSE,TRUE,
 5917,Mecole Hardman,Waiver,45588.2935,2024,2024,1,2,1,0,0,0,2,2,Expired,0,0,0,0,FALSE,TRUE,WR,1,,0,0,0,0,1154444279650095104,Waiver,FALSE,,27,aintEZBNwheezE,828,FALSE,1,FALSE,TRUE,
@@ -333,7 +333,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 10235,Roschon Johnson,Base,45423,2024,2025,2,2,1,1.1,0,0,12,12,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_176,Startup Draft,FALSE,,24,Henrypavlak3,2294,FALSE,1,FALSE,TRUE,Roschon Johnson can be franchise tagged.
 9486,Dontayvion Wicks,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,1,9,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_177,Startup Draft,FALSE,1.213E+18,23,mlthomas5095,2109,FALSE,1,FALSE,TRUE,Dontayvion Wicks can be franchise tagged.
 6806,J.K. Dobbins,Base,45423,2024,2025,2,2,1,1.1,0,0,7,7,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_178,Startup Draft,FALSE,,26,Vikingsfan80,2653,FALSE,1,TRUE,FALSE,
-11596,Ben Sinnott,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_179,Startup Draft,FALSE,,22,jwalwer81,2856,FALSE,1,FALSE,TRUE,
+11596,Ben Sinnott,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,10,10,Expired,0,0,0,0,TRUE,TRUE,TE,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_179,Startup Draft,FALSE,,23,jwalwer81,2856,FALSE,1,FALSE,TRUE,
 8210,Chig Okonkwo,Base,45423,2024,2025,2,2,1,1.1,0,0,5,5,Active,1.1,0,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_180,Startup Draft,FALSE,,25,Chewy2552,0,FALSE,1,FALSE,TRUE,Chig Okonkwo can be franchise tagged.
 9225,Tank Bigsby,Base,45423,2024,2025,2,2,1,1.1,0,0,4,4,Expired,0,0,0,0,TRUE,TRUE,RB,0.5,Startup Draft,0.6,0,0,0,StartupDraft_181,Startup Draft,FALSE,,22,Delusional1,2779,FALSE,1,FALSE,TRUE,
 9494,Marvin Mims,Base,45423,2024,2025,2,2,1,1.1,0,0,9,9,Active,1.1,0,0,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_182,Startup Draft,FALSE,,23,mlthomas5095,2737,FALSE,1,FALSE,TRUE,Marvin Mims can be franchise tagged.
@@ -370,7 +370,7 @@ Player ID,Player Name,Contract Type,Contract Initiated Timestamp,Contract First 
 11621,Brenden Rice,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,3,3,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_213,Startup Draft,FALSE,,23,DylanBears2022,959,FALSE,1,FALSE,TRUE,
 10866,Aidan O'Connell,Base,45423,2024,2025,2,2,1,1.1,0,0,11,11,Active,1.1,0,0,0,TRUE,FALSE,QB,0.5,Startup Draft,0,0,0,0,StartupDraft_214,Startup Draft,FALSE,,26,Schoontang,1069,FALSE,1,FALSE,TRUE,Aidan O'Connell can be franchise tagged.
 11650,Luke McCaffrey,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,6,6,Active,1.1,1.3,1.5,0,TRUE,FALSE,WR,0.5,Startup Draft,0,0,0,0,StartupDraft_215,Startup Draft,FALSE,,24,tylercrain,1715,FALSE,1,FALSE,TRUE,Luke McCaffrey can be franchise tagged.
-7021,Rico Dowdle,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_216,Startup Draft,FALSE,,26,EthanL21,2077,FALSE,1,FALSE,TRUE,Rico Dowdle can be franchise tagged.
+7021,Rico Dowdle,Base,45423,2024,2025,2,2,1,1.1,0,0,8,8,Active,1.1,0,0,0,TRUE,FALSE,RB,0.5,Startup Draft,0,0,0,0,StartupDraft_216,Startup Draft,FALSE,,27,EthanL21,2077,FALSE,1,FALSE,TRUE,Rico Dowdle can be franchise tagged.
 5857,Noah Fant,Base,45423,2024,2026,3,2,1,1.1,1.3,0,12,12,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_217,Startup Draft,FALSE,,27,Henrypavlak3,1932,FALSE,1,FALSE,TRUE,Noah Fant can be franchise tagged.
 8219,Jelani Woods,Base,45423,2024,2026,3,2,1,1.1,1.3,0,1,1,Active,1.1,1.3,0,0,TRUE,FALSE,TE,0.5,Startup Draft,0,0,0,0,StartupDraft_218,Startup Draft,FALSE,,26,lalder,1129,FALSE,1,FALSE,TRUE,Jelani Woods can be franchise tagged.
 10863,A.T. Perry,Base,45423,2024,2027,4,2,1,1.1,1.3,1.5,7,7,Expired,0,0,0,0,TRUE,TRUE,WR,0.5,Startup Draft,0.6,0.7,0.8,0,StartupDraft_219,Startup Draft,FALSE,,25,Vikingsfan80,818,FALSE,1,FALSE,TRUE,
