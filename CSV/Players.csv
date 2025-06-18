@@ -609,7 +609,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12656,X,Robbie Ouzts,TE,SEA,22,0,,TE-,0,0,0,0,0,0,0,0,0
 12658,X,Jackson Hawes,TE,BUF,24,0,,TE-,0,0,0,0,0,0,0,0,0
 12670,1818,KeAndre Lambert-Smith,WR,LAC,23,1054,,WR-,45.82608696,1475.6,2248.533333,2389.066667,421.6,772.9333333,140.5333333,0,0
-12688,X,Cam Miller,QB,LV,23,0,,QB-,0,0,0,0,0,0,0,0,0
+12688,X,Cam Miller,QB,LV,24,0,,QB-,0,0,0,0,0,0,0,0,0
 1269,X,Bradley Sowell,TE,,32,0,,TE-,0,0,0,0,0,0,0,0,0
 12699,X,LaJohntay Wester,WR,BAL,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12700,X,Gavin Bartholomew,TE,MIN,22,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -3244,7 +3244,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8191,X,Slade Bolden,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 8192,X,Curtis Hodges,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
 8193,X,EJ Perry,QB,,26,0,,QB-,0,0,0,0,0,0,0,0,0
-8194,X,Jashaun Corbin,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
+8194,X,Jashaun Corbin,RB,ATL,24,0,,RB-,0,0,0,0,0,0,0,0,0
 8195,X,Ronnie Rivers,RB,LAR,26,0,,RB-,0,0,0,0,0,0,0,0,0
 8196,X,Ty Fryfogle,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 8197,X,Peyton Hendershot,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
