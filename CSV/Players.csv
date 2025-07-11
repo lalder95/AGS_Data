@@ -1737,7 +1737,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4026,X,DeShone Kizer,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
 4029,X,Dalvin Cook,RB,,29,0,Jeremy,RB-Jeremy,0,0,0,0,0,0,0,0,0
 4031,X,Travis Wilson,TE,,28,0,,TE-,0,0,0,0,0,0,0,0,0
-4033,252,David Njoku,TE,CLE,28,3528,Jeremy,TE-Jeremy,126,3256.615385,2713.846154,1221.230769,-271.3846154,-542.7692308,-1492.615385,0,0
+4033,252,David Njoku,TE,CLE,29,3528,Jeremy,TE-Jeremy,121.6551724,2940,1323,1176,-588,-1617,-147,0,0
 4034,283,Christian McCaffrey,RB,SF,29,4698,Tom,RB-Tom,162,3915,1957.5,783,-783,-1957.5,-1174.5,0,0
 4035,282,Alvin Kamara,RB,NO,29,3682,James,RB-James,126.9655172,3068.333333,1534.166667,613.6666667,-613.6666667,-1534.166667,-920.5,0,0
 4036,X,Corey Davis,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2082,7 +2082,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5,X,Dallas Clark,TE,,38,0,,TE-,0,0,0,0,0,0,0,0,0
 50,X,Jordan Palmer,QB,,33,0,,QB-,0,0,0,0,0,0,0,0,0
 5000,X,Chase Edmonds,RB,,28,0,Jeremy,RB-Jeremy,0,0,0,0,0,0,0,0,0
-5001,487,Dalton Schultz,TE,HOU,28,2252,Matt,TE-Matt,80.42857143,2078.769231,1732.307692,779.5384615,-173.2307692,-346.4615385,-952.7692308,0,0
+5001,487,Dalton Schultz,TE,HOU,29,2252,Matt,TE-Matt,77.65517241,1876.666667,844.5,750.6666667,-375.3333333,-1032.166667,-93.83333333,0,0
 5004,X,Ito Smith,RB,DAL,26,0,,RB-,0,0,0,0,0,0,0,0,0
 5005,X,Jaleel Scott,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 5006,X,J'Mon Moore,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2802,7 +2802,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 7039,X,Cody White,WR,SEA,26,0,,WR-,0,0,0,0,0,0,0,0,0
 7045,X,Joshua Kelley,RB,,27,0,,RB-,0,0,0,0,0,0,0,0,0
 7048,X,Benny LeMay,RB,CLE,24,0,,RB-,0,0,0,0,0,0,0,0,0
-7049,576,Jauan Jennings,WR,SF,27,3138,Ricky,WR-Ricky,116.2222222,2834.322581,2530.645161,1619.612903,-303.6774194,-303.6774194,-911.0322581,0,0
+7049,576,Jauan Jennings,WR,SF,28,3138,Ricky,WR-Ricky,112.0714286,2801.785714,1793.142857,1456.928571,-336.2142857,-1008.642857,-336.2142857,0,0
 7050,X,Josiah Deguara,TE,ARI,28,0,,TE-,0,0,0,0,0,0,0,0,0
 7055,X,Sewo Olonilua,FB,,24,0,,FB-,0,0,0,0,0,0,0,0,0
 7056,X,Darrell Stewart,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3296,7 +3296,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8246,X,Bryant Koback,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
 8247,X,Gerrit Prince,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 8248,X,Kalil Pimpleton,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
-8249,X,Lucas Krull,TE,DEN,26,0,,TE-,0,0,0,0,0,0,0,0,0
+8249,X,Lucas Krull,TE,DEN,27,0,,TE-,0,0,0,0,0,0,0,0,0
 8250,X,Tay Martin,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8251,X,Calvin Jackson,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8253,X,Deven Thompkins,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
