@@ -257,7 +257,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11563,1553,Bo Nix,QB,DEN,25,6479,Tristan,QB-Tristan,259.16,6977.384615,7475.769231,7724.961538,498.3846154,498.3846154,249.1923077,0,0
 11564,1551,Drake Maye,QB,NE,22,6581,Luc,QB-Luc,299.1363636,9499.05,9499.05,9499.05,2918.05,0,0,0,0
 11565,1555,JJ McCarthy,QB,MIN,22,5642,Luc,QB-Luc,256.4545455,9499.05,9499.05,9499.05,3857.05,0,0,0,0
-11566,1552,Jayden Daniels,QB,WAS,24,9999,Alex,QB-Alex,416.625,9993,9993,9993,-6,0,0,0,0
+11566,1552,Jayden Daniels,QB,WAS,24,9999,Alex,QB-Alex,416.625,9999,9999,9999,0,0,0,0,0
 11567,X,Jordan Travis,QB,,24,0,Jordan,QB-Jordan,0,0,0,0,0,0,0,0,0
 11568,X,Blake Watson,RB,DEN,25,0,,RB-,0,0,0,0,0,0,0,0,0
 11569,1764,Jarquez Hunter,RB,LAR,22,2512,,RB-,114.1818182,4186.666667,5582.222222,5582.222222,1674.666667,1395.555556,0,0,0
@@ -3079,7 +3079,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 7794,X,Chris Evans,RB,,27,0,Tristan,RB-Tristan,0,0,0,0,0,0,0,0,0
 78,X,Ahmad Bradshaw,RB,,34,0,,RB-,0,0,0,0,0,0,0,0,0
 7808,X,Ben Mason,FB,,25,0,,FB-,0,0,0,0,0,0,0,0,0
-7809,X,Avery Williams,RB,PHI,26,0,,RB-,0,0,0,0,0,0,0,0,0
+7809,X,Avery Williams,RB,PHI,27,0,,RB-,0,0,0,0,0,0,0,0,0
 7812,X,Simi Fehoko,WR,ARI,27,0,,WR-,0,0,0,0,0,0,0,0,0
 782,X,Will Tukuafu,FB,,36,0,,FB-,0,0,0,0,0,0,0,0,0
 7828,1059,Noah Gray,TE,KC,26,2264,Tom,TE-Tom,87.07692308,2064.235294,1731.294118,1598.117647,-199.7647059,-332.9411765,-133.1764706,0,0
@@ -3111,7 +3111,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 7938,X,Hunter Kampmoyer,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 794,X,Kamar Aiken,WR,,32,0,,WR-,0,0,0,0,0,0,0,0,0
 7941,X,Nick Ralston,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
-7943,X,Zach Davidson,TE,BUF,26,0,,TE-,0,0,0,0,0,0,0,0,0
+7943,X,Zach Davidson,TE,BUF,27,0,,TE-,0,0,0,0,0,0,0,0,0
 7944,X,Michael Strachan,WR,WAS,27,0,,WR-,0,0,0,0,0,0,0,0,0
 7946,X,Jack Stoll,TE,NO,27,0,,TE-,0,0,0,0,0,0,0,0,0
 7951,X,BJ Emmons,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
