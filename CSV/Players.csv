@@ -189,7 +189,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11371,X,Julian Hill,TE,MIA,25,0,,TE-,0,0,0,0,0,0,0,0,0
 11374,X,James Blackman,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
 11377,X,Tyrell Shavers,WR,BUF,25,0,,WR-,0,0,0,0,0,0,0,0,0
-11378,X,Jordan Mims,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
+11378,X,Jordan Mims,RB,TEN,26,0,,RB-,0,0,0,0,0,0,0,0,0
 1138,X,Rod Streater,WR,,33,0,,WR-,0,0,0,0,0,0,0,0,0
 11380,X,Johnny Lumpkin,TE,GB,27,0,,TE-,0,0,0,0,0,0,0,0,0
 11381,X,Travis Vokolek,TE,ARI,27,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -705,7 +705,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 13108,X,Julian Fleming,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 13119,X,Collin Schlee,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
 1312,X,Josh Bellamy,WR,,32,0,,WR-,0,0,0,0,0,0,0,0,0
-13120,X,Jacoby Jones,WR,WAS,23,0,,WR-,0,0,0,0,0,0,0,0,0
+13120,X,Jacoby Jones,WR,WAS,24,0,,WR-,0,0,0,0,0,0,0,0,0
 13121,X,Ben Yurosek,TE,MIN,23,0,,TE-,0,0,0,0,0,0,0,0,0
 13125,X,Micah Bernard,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
 1313,X,Michael Preston,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3195,13 +3195,13 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8138,X,James Cook,RB,BUF,25,0,Joe,RB-Joe,0,0,0,0,0,0,0,0,0
 8139,X,Zamir White,RB,LV,25,0,Luc,RB-Luc,0,0,0,0,0,0,0,0,0
 814,X,Shane Vereen,RB,,31,0,,RB-,0,0,0,0,0,0,0,0,0
-8140,X,Justyn Ross,WR,KC,25,0,,WR-,0,0,0,0,0,0,0,0,0
+8140,X,Justyn Ross,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8142,X,Alec Pierce,WR,IND,25,0,Jordan,WR-Jordan,0,0,0,0,0,0,0,0,0
 8143,X,Jerome Ford,RB,CLE,25,0,Jordan,RB-Jordan,0,0,0,0,0,0,0,0,0
 8144,X,Chris Olave,WR,NO,25,0,Lucas,WR-Lucas,0,0,0,0,0,0,0,0,0
 8145,X,Jeremy Ruckert,TE,NYJ,24,0,,TE-,0,0,0,0,0,0,0,0,0
 8146,X,Garrett Wilson,WR,NYJ,24,0,Joe,WR-Joe,0,0,0,0,0,0,0,0,0
-8147,X,John Metchie,WR,HOU,24,0,Shane,WR-Shane,0,0,0,0,0,0,0,0,0
+8147,X,John Metchie,WR,HOU,25,0,Shane,WR-Shane,0,0,0,0,0,0,0,0,0
 8148,X,Jameson Williams,WR,DET,24,0,Ricky,WR-Ricky,0,0,0,0,0,0,0,0,0
 8149,X,Master Teague,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
 8150,X,Kyren Williams,RB,LAR,24,0,Joe,RB-Joe,0,0,0,0,0,0,0,0,0
