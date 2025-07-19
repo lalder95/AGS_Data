@@ -495,7 +495,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12350,X,Anthony Grant,RB,,25,0,,RB-,0,,,,,,,0,0
 12354,X,Easton Dean,TE,,20,0,,TE-,0,,,,,,,0,0
 12355,X,Treveyon Pratt,WR,,24,0,,WR-,0,,,,,,,0,0
-12356,X,Jabari Small,RB,,24,0,,RB-,0,,,,,,,0,0
+12356,X,Jabari Small,RB,DET,24,0,,RB-,0,,,,,,,0,0
 12357,X,David Martin-Robinson,TE,TEN,25,0,,TE-,0,,,,,,,0,0
 1236,X,Joe Banyard,RB,,31,0,,RB-,0,,,,,,,0,0
 12360,X,Latreal Jones,WR,,26,0,,WR-,0,,,,,,,0,0
@@ -651,7 +651,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1284,X,Lance Dunbar,RB,,30,0,,RB-,0,,,,,,,0,0
 12848,X,Josh Kelly,WR,DAL,24,0,,WR-,0,,,,,,,0,0
 12849,X,Traeshon Holden,WR,DAL,23,0,,WR-,0,,,,,,,0,0
-12851,X,Rivaldo Fairweather,TE,DAL,22,0,,TE-,0,,,,,,,0,0
+12851,X,Rivaldo Fairweather,TE,DAL,23,0,,TE-,0,,,,,,,0,0
 12852,X,Monaray Baldwin,WR,MIA,22,0,,WR-,0,,,,,,,0,0
 12859,X,Nate Noel,RB,MIA,23,0,,RB-,0,,,,,,,0,0
 12860,X,Theo Wease,WR,MIA,24,0,,WR-,0,,,,,,,0,0
