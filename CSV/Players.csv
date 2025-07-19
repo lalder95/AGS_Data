@@ -2061,12 +2061,12 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4943,331,Sam Darnold,QB,SEA,28,,Ricky,QB-Ricky,,,,,,,,0,0
 4949,X,Derrius Guice,RB,,24,0,,RB-,0,,,,,,,0,0
 4950,221,Christian Kirk,WR,HOU,28,,Shane,WR-Shane,,,,,,,,0,0
-4951,X,DJ Chark,WR,,28,0,Shane,WR-Shane,0,,,,,,,0,0
+4951,361,DJ Chark,WR,,28,,Shane,WR-Shane,,,,,,,,0,0
 4955,X,Ronald Jones,RB,,27,0,,RB-,0,,,,,,,0,0
 496,X,Brandon Gibson,WR,,30,0,,WR-,0,,,,,,,0,0
 4962,X,Sony Michel,RB,,28,0,,RB-,0,,,,,,,0,0
 4972,110,Mason Rudolph,QB,PIT,30,,Lucas,QB-Lucas,,,,,,,,0,0
-4973,8,Hayden Hurst,TE,,31,,Tristan,TE-Tristan,,,,,,,,0,0
+4973,X,Hayden Hurst,TE,,31,0,Tristan,TE-Tristan,0,,,,,,,0,0
 4981,293,Calvin Ridley,WR,TEN,30,,Tom,WR-Tom,,,,,,,,0,0
 4983,304,DJ Moore,WR,CHI,28,,Ricky,WR-Ricky,,,,,,,,0,0
 4984,365,Josh Allen,QB,BUF,29,,Lucas,QB-Lucas,,,,,,,,0,0
@@ -2276,7 +2276,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5403,X,Peter Pujals,QB,,26,0,,QB-,0,,,,,,,0,0
 5407,X,Ervin Philips,RB,,26,0,,RB-,0,,,,,,,0,0
 5408,X,Sergio Bailey,WR,,27,0,,WR-,0,,,,,,,0,0
-5409,X,Tanner Hudson,TE,CIN,30,0,,TE-,0,,,,,,,0,0
+5409,457,Tanner Hudson,TE,CIN,30,,,TE-,,,,,,,,0,0
 541,X,Damian Williams,WR,,29,0,,WR-,0,,,,,,,0,0
 542,X,Dorin Dickerson,TE,,29,0,,TE-,0,,,,,,,0,0
 5425,X,John Diarse,WR,,27,0,,WR-,0,,,,,,,0,0
@@ -3183,7 +3183,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8123,1191,Hassan Haskins,RB,LAC,25,,Tristan,RB-Tristan,,,,,,,,0,0
 8125,X,Calvin Austin,WR,PIT,26,0,Shane,WR-Shane,0,,,,,,,0,0
 8126,1274,Wan'Dale Robinson,WR,NYG,24,,Jeremy,WR-Jeremy,,,,,,,,0,0
-8127,1254,Charlie Kolar,TE,BAL,26,,Luc,TE-Luc,,,,,,,,0,0
+8127,X,Charlie Kolar,TE,BAL,26,0,Luc,TE-Luc,0,,,,,,,0,0
 8129,1207,Dameon Pierce,RB,HOU,25,,Matt,RB-Matt,,,,,,,,0,0
 8130,1253,Trey McBride,TE,ARI,25,,Ricky,TE-Ricky,,,,,,,,0,0
 8131,1257,Isaiah Likely,TE,BAL,25,,Jeremy,TE-Jeremy,,,,,,,,0,0
