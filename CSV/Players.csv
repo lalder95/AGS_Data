@@ -1756,7 +1756,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 406,X,John Phillips,TE,,34,0,,TE-,0,,,,,,,0,0
 4061,X,Davis Webb,QB,,28,0,,QB-,0,,,,,,,0,0
 4066,229,Evan Engram,TE,DEN,30,,Shane,TE-Shane,,,,,,,,0,0
-4068,230,Mike Williams,WR,LAC,30,,James,WR-James,,,,,,,,0,0
+4068,230,Mike Williams,WR,,30,,James,WR-James,,,,,,,,0,0
 4080,327,Zay Jones,WR,ARI,30,,Lucas,WR-Lucas,,,,,,,,0,0
 4082,244,Curtis Samuel,WR,BUF,28,,Shane,WR-Shane,,,,,,,,0,0
 4085,X,Adam Shaheen,TE,,28,0,,TE-,0,,,,,,,0,0
@@ -3262,7 +3262,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8208,1206,Tyler Badie,RB,DEN,25,,,RB-,,,,,,,,0,0
 8209,X,Makai Polk,WR,ATL,23,0,,WR-,0,,,,,,,0,0
 8210,1320,Chig Okonkwo,TE,TEN,25,,Jordan,TE-Jordan,,,,,,,,0,0
-8211,X,Tyrion Davis-Price,RB,TEN,24,0,,RB-,0,,,,,,,0,0
+8211,X,Tyrion Davis-Price,RB,,24,0,,RB-,0,,,,,,,0,0
 8212,X,Dustin Crum,QB,,24,0,,QB-,0,,,,,,,0,0
 8213,X,Dai'Jean Dixon,WR,,24,0,,WR-,0,,,,,,,0,0
 8214,X,Cole Turner,TE,WAS,25,0,,TE-,0,,,,,,,0,0
