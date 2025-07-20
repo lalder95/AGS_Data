@@ -1930,7 +1930,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4563,X,Taylor McNamara,TE,,27,0,,TE-,0,,,,,,,0,0
 4569,X,Brian Brown,WR,,27,0,,WR-,0,,,,,,,0,0
 4571,X,Blake Jarwin,TE,,27,0,,TE-,0,,,,,,,0,0
-4574,X,Cooper Rush,QB,BAL,31,0,Jordan,QB-Jordan,0,,,,,,,0,0
+4574,788,Cooper Rush,QB,BAL,31,,Jordan,QB-Jordan,,,,,,,,0,0
 4576,X,Jahad Thomas,RB,,26,0,,RB-,0,,,,,,,0,0
 458,X,Justin Forsett,RB,,34,0,,RB-,0,,,,,,,0,0
 4585,X,Anthony Nash,WR,,28,0,,WR-,0,,,,,,,0,0
@@ -2061,7 +2061,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4943,331,Sam Darnold,QB,SEA,28,,Ricky,QB-Ricky,,,,,,,,0,0
 4949,X,Derrius Guice,RB,,24,0,,RB-,0,,,,,,,0,0
 4950,221,Christian Kirk,WR,HOU,28,,Shane,WR-Shane,,,,,,,,0,0
-4951,361,DJ Chark,WR,,28,,Shane,WR-Shane,,,,,,,,0,0
+4951,X,DJ Chark,WR,,28,0,Shane,WR-Shane,0,,,,,,,0,0
 4955,X,Ronald Jones,RB,,27,0,,RB-,0,,,,,,,0,0
 496,X,Brandon Gibson,WR,,30,0,,WR-,0,,,,,,,0,0
 4962,X,Sony Michel,RB,,28,0,,RB-,0,,,,,,,0,0
