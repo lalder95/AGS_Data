@@ -273,7 +273,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11580,X,Dillon Johnson,RB,,23,0,,RB-,0,,,,,,,0,0
 11581,1575,MarShawn Lloyd,RB,GB,24,,Alex,RB-Alex,,,,,,,,0,0
 11582,1583,Carson Steele,RB,KC,22,,Lucas,RB-Lucas,,,,,,,,0,0
-11583,1568,Jonathon Brooks,RB,CAR,21,,Luc,RB-Luc,,,,,,,,0,0
+11583,1568,Jonathon Brooks,RB,CAR,22,,Luc,RB-Luc,,,,,,,,0,0
 11584,1569,Bucky Irving,RB,TB,22,,Matt,RB-Matt,,,,,,,,0,0
 11586,1564,Blake Corum,RB,LAR,24,,James,RB-James,,,,,,,,0,0
 11588,X,Jawhar Jordan,RB,HOU,25,0,,RB-,0,,,,,,,0,0
@@ -3212,7 +3212,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8155,1224,Breece Hall,RB,NYJ,24,,James,RB-James,,,,,,,,0,0
 8157,X,Bailey Zappe,QB,KC,26,0,Matt,QB-Matt,0,,,,,,,0,0
 8158,X,Carson Strong,QB,,23,0,,QB-,0,,,,,,,0,0
-8159,X,Desmond Ridder,QB,,25,0,Matt,QB-Matt,0,,,,,,,0,0
+8159,X,Desmond Ridder,QB,CIN,25,0,Matt,QB-Matt,0,,,,,,,0,0
 8160,1208,Kenny Pickett,QB,CLE,27,,Alex,QB-Alex,,,,,,,,0,0
 8161,1210,Malik Willis,QB,GB,26,,Tristan,QB-Tristan,,,,,,,,0,0
 8162,1209,Sam Howell,QB,MIN,24,,Ricky,QB-Ricky,,,,,,,,0,0
