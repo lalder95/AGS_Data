@@ -278,7 +278,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11586,1564,Blake Corum,RB,LAR,24,,James,RB-James,,,,,,,,0,0
 11588,X,Jawhar Jordan,RB,HOU,25,0,,RB-,0,,,,,,,0,0
 11589,1565,Trey Benson,RB,ARI,22,,Jordan,RB-Jordan,,,,,,,,0,0
-11590,X,Jase McClellan,RB,,22,0,Joe,RB-Joe,0,,,,,,,0,0
+11590,1576,Jase McClellan,RB,,22,,Joe,RB-Joe,,,,,,,,0,0
 11592,1616,Erick All,TE,CIN,24,,Lucas,TE-Lucas,,,,,,,,0,0
 11593,X,Brevyn Spann-Ford,TE,DAL,25,0,,TE-,0,,,,,,,0,0
 11595,1619,Jared Wiley,TE,KC,24,,Jeremy,TE-Jeremy,,,,,,,,0,0
@@ -1756,7 +1756,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 406,X,John Phillips,TE,,34,0,,TE-,0,,,,,,,0,0
 4061,X,Davis Webb,QB,,28,0,,QB-,0,,,,,,,0,0
 4066,229,Evan Engram,TE,DEN,30,,Shane,TE-Shane,,,,,,,,0,0
-4068,230,Mike Williams,WR,,30,,James,WR-James,,,,,,,,0,0
+4068,X,Mike Williams,WR,,30,0,James,WR-James,0,,,,,,,0,0
 4080,327,Zay Jones,WR,ARI,30,,Lucas,WR-Lucas,,,,,,,,0,0
 4082,244,Curtis Samuel,WR,BUF,28,,Shane,WR-Shane,,,,,,,,0,0
 4085,X,Adam Shaheen,TE,,28,0,,TE-,0,,,,,,,0,0
@@ -2958,7 +2958,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 7466,X,Nathan Cottrell,RB,,26,0,,RB-,0,,,,,,,0,0
 747,X,Erik Lorig,FB,,31,0,,FB-,0,0,0,0,0,0,0,0,0
 7475,X,Napoleon Maxwell,RB,,25,0,,RB-,0,,,,,,,0,0
-748,230,Mike Williams,WR,,31,,,WR-,,,,,,,,0,0
+748,X,Mike Williams,WR,,31,0,,WR-,0,,,,,,,0,0
 7481,X,Chase Harrell,TE,,25,0,,TE-,0,,,,,,,0,0
 7483,X,Farrod Green,TE,,24,0,,TE-,0,,,,,,,0,0
 749,X,Zach Miller,TE,,35,0,,TE-,0,,,,,,,0,0
