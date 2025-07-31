@@ -194,7 +194,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11380,X,Johnny Lumpkin,TE,GB,27,0,,TE-,0,0,0,0,0,0,0,0,0
 11381,X,Travis Vokolek,TE,ARI,27,0,,TE-,0,0,0,0,0,0,0,0,0
 11382,X,Dontay Demus,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
-11384,X,Owen Wright,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
+11384,X,Owen Wright,RB,TB,26,0,,RB-,0,0,0,0,0,0,0,0,0
 11385,X,Brian Walker,TE,,24,0,,TE-,0,0,0,0,0,0,0,0,0
 11387,X,Sean Ryan,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 11388,X,Nolan Henderson,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
@@ -2399,7 +2399,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5873,X,Riley Ridley,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 5878,X,N'Keal Harry,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 5880,X,Parris Campbell,WR,DAL,28,0,,WR-,0,0,0,0,0,0,0,0,0
-5884,X,Kelvin Harmon,WR,DAL,28,0,,WR-,0,0,0,0,0,0,0,0,0
+5884,X,Kelvin Harmon,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 5885,X,Ryan Finley,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
 5886,X,Hakeem Butler,TE,,28,0,,TE-,0,0,0,0,0,0,0,0,0
 5889,X,Bryce Love,RB,,24,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -2546,7 +2546,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6271,609,Olamide Zaccheaus,WR,CHI,28,919,Alex,WR-Alex,32.82142857,820.5357143,525.1428571,426.6785714,-98.46428571,-295.3928571,-98.46428571,0,0
 6279,X,Brandon Dillon,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 6288,X,Marcus Green,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
-6290,442,Scotty Miller,WR,PIT,27,394,,WR-,14.59259259,355.8709677,317.7419355,203.3548387,-38.12903226,-38.12903226,-114.3870968,0,0
+6290,442,Scotty Miller,WR,PIT,28,394,,WR-,14.07142857,351.7857143,225.1428571,182.9285714,-42.21428571,-126.6428571,-42.21428571,0,0
 6293,X,Cullen Gillaspia,RB,,27,0,,RB-,0,0,0,0,0,0,0,0,0
 6298,X,Chandler Cox,FB,,25,0,,FB-,0,0,0,0,0,0,0,0,0
 63,X,Vonta Leach,RB,,35,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -2723,7 +2723,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6832,X,Kalija Lipscomb,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 6834,X,Jared Pinkney,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 6843,X,Albert Okwuegbunam,TE,IND,27,0,,TE-,0,0,0,0,0,0,0,0,0
-6845,638,Zack Moss,RB,CIN,27,1464,Tristan,RB-Tristan,54.22222222,1288.32,702.72,585.6,-175.68,-585.6,-117.12,0,0
+6845,638,Zack Moss,RB,,27,1464,Tristan,RB-Tristan,54.22222222,1288.32,702.72,585.6,-175.68,-585.6,-117.12,0,0
 6846,X,Hunter Bryant,TE,,23,0,,TE-,0,0,0,0,0,0,0,0,0
 6847,560,Devin Duvernay,WR,CHI,27,538,,WR-,19.92592593,485.9354839,433.8709677,277.6774194,-52.06451613,-52.06451613,-156.1935484,0,0
 6849,X,Denzel Mims,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2841,7 +2841,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 7107,X,Jason Huntley,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 7109,X,Malcolm Perry,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 7110,X,Kelly Bryant,QB,,23,0,,QB-,0,0,0,0,0,0,0,0,0
-7131,X,Tyler Davis,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
+7131,X,Tyler Davis,TE,NE,28,0,,TE-,0,0,0,0,0,0,0,0,0
 7135,X,Freddie Swain,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 7143,X,Ben DiNucci,QB,,28,0,,QB-,0,0,0,0,0,0,0,0,0
 7149,X,Tommy Stevens,TE,NYG,25,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -3228,7 +3228,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8173,X,ZaQuandre White,RB,,24,0,,RB-,0,0,0,0,0,0,0,0,0
 8174,X,Kevin Harris,RB,,24,0,Ricky,RB-Ricky,0,0,0,0,0,0,0,0,0
 8175,X,Reggie Roberson,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
-8176,X,Danny Gray,WR,PHI,26,0,Luc,WR-Luc,0,0,0,0,0,0,0,0,0
+8176,X,Danny Gray,WR,,26,0,Luc,WR-Luc,0,0,0,0,0,0,0,0,0
 8177,1263,Grant Calcaterra,TE,PHI,26,936,James,TE-James,36,853.4117647,715.7647059,660.7058824,-82.58823529,-137.6470588,-55.05882353,0,0
 8178,X,Braylon Sanders,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8179,X,Snoop Conner,RB,,24,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -3408,7 +3408,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8825,X,Kekoa Crawford,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8828,X,Michael Young,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 8831,X,Ethan Fernea,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
-8840,X,Cole Fotheringham,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
+8840,X,Cole Fotheringham,TE,NE,27,0,,TE-,0,0,0,0,0,0,0,0,0
 8849,X,Tanner Conner,TE,MIA,27,0,,TE-,0,0,0,0,0,0,0,0,0
 885,X,Richard Gordon,TE,,33,0,,TE-,0,0,0,0,0,0,0,0,0
 8858,X,Keshunn Abram,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
