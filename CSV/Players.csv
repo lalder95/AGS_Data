@@ -372,7 +372,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11913,X,Devron Harper,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 11918,X,Ahmarean Brown,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 11921,X,Xavier Weaver,WR,ARI,24,0,,WR-,0,0,0,0,0,0,0,0,0
-11924,X,Tanner Mordecai,QB,,25,0,,QB-,0,0,0,0,0,0,0,0,0
+11924,X,Tanner Mordecai,QB,SF,25,0,,QB-,0,0,0,0,0,0,0,0,0
 11925,X,Terique Owens,WR,SF,25,0,,WR-,0,0,0,0,0,0,0,0,0
 11931,X,Austin Reed,QB,CHI,25,0,,QB-,0,0,0,0,0,0,0,0,0
 11940,X,JaQuae Jackson,WR,LAC,25,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -600,7 +600,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12545,1739,Tyler Shough,QB,NO,25,2545,,QB-,101.8,2740.769231,2936.538462,3034.423077,195.7692308,195.7692308,97.88461538,0,0
 12546,X,Marcus Yarns,RB,NO,23,0,,RB-,0,0,0,0,0,0,0,0,0
 12547,1812,Kyle Williams,WR,NE,22,3221,,WR-,146.4090909,6902.142857,9497.15,9497.15,3681.142857,2595.007143,0,0,0
-12549,X,Jordan Petaia,TE,LAC,25,0,,TE-,0,0,0,0,0,0,0,0,0
+12549,X,Jordan Petaia,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
 1256,X,Michael Egnew,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 126,X,Marcel Reece,FB,,35,0,,FB-,0,0,0,0,0,0,0,0,0
 1262,X,Alex Tanney,QB,,34,0,,QB-,0,0,0,0,0,0,0,0,0
@@ -656,7 +656,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12849,X,Traeshon Holden,WR,DAL,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12851,X,Rivaldo Fairweather,TE,DAL,23,0,,TE-,0,0,0,0,0,0,0,0,0
 12852,X,Monaray Baldwin,WR,MIA,22,0,,WR-,0,0,0,0,0,0,0,0,0
-12859,X,Nate Noel,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
+12859,X,Nate Noel,RB,IND,23,0,,RB-,0,0,0,0,0,0,0,0,0
 12860,X,Theo Wease,WR,MIA,24,0,,WR-,0,0,0,0,0,0,0,0,0
 12863,X,Andrew Armstrong,WR,MIA,24,0,,WR-,0,0,0,0,0,0,0,0,0
 12865,X,AJ Henning,WR,MIA,23,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2104,7 +2104,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5005,X,Jaleel Scott,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 5006,X,J'Mon Moore,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 5007,X,Keke Coutee,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
-5008,X,Durham Smythe,TE,CHI,29,0,,TE-,0,0,0,0,0,0,0,0,0
+5008,X,Durham Smythe,TE,CHI,30,0,,TE-,0,0,0,0,0,0,0,0,0
 5009,X,Chris Herndon,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 5010,86,Will Dissly,TE,LAC,29,1131,Alex,TE-Alex,39,942.5,424.125,377,-188.5,-518.375,-47.125,0,0
 5012,366,Mark Andrews,TE,BAL,29,3096,Tom,TE-Tom,106.7586207,2580,1161,1032,-516,-1419,-129,0,0
@@ -2132,7 +2132,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5096,646,Ray-Ray McCloud,WR,ATL,28,1206,James,WR-James,43.07142857,1076.785714,689.1428571,559.9285714,-129.2142857,-387.6428571,-129.2142857,0,0
 51,X,Anthony Fasano,TE,,36,0,,TE-,0,0,0,0,0,0,0,0,0
 5100,X,Jordan Wilkins,RB,,29,0,,RB-,0,0,0,0,0,0,0,0,0
-5101,X,Deon Cain,WR,BUF,28,0,,WR-,0,0,0,0,0,0,0,0,0
+5101,X,Deon Cain,WR,BUF,29,0,,WR-,0,0,0,0,0,0,0,0,0
 5102,X,Daurice Fountain,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 5103,X,Dylan Cantrell,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 5107,X,Jaylen Samuels,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -2497,7 +2497,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 611,X,Jimmy Clausen,QB,,32,0,,QB-,0,0,0,0,0,0,0,0,0
 6111,459,Jake Browning,QB,CIN,29,817,Matt,QB-Matt,28.17241379,765.9375,689.34375,612.75,-51.0625,-76.59375,-76.59375,0,0
 6115,X,Wes Hills,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
-6126,399,Irv Smith,TE,HOU,26,714,,TE-,27.46153846,651,546,504,-63,-105,-42,0,0
+6126,399,Irv Smith,TE,HOU,27,714,,TE-,26.44444444,598.8387097,552.7741935,460.6451613,-115.1612903,-46.06451613,-92.12903226,0,0
 613,X,Brandon LaFell,WR,,35,0,,WR-,0,0,0,0,0,0,0,0,0
 6130,238,Devin Singletary,RB,NYG,27,1217,Shane,RB-Shane,45.07407407,1070.96,584.16,486.8,-146.04,-486.8,-97.36,0,0
 6136,X,Jarrett Stidham,QB,DEN,29,0,Matt,QB-Matt,0,0,0,0,0,0,0,0,0
@@ -3415,7 +3415,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8778,X,Justin Rigg,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
 8783,X,Kendric Pryor,WR,CIN,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8799,X,Zaire Mitchell-Paden,TE,BAL,25,0,,TE-,0,0,0,0,0,0,0,0,0
-8800,X,Malik Davis,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
+8800,X,Malik Davis,RB,DAL,26,0,,RB-,0,0,0,0,0,0,0,0,0
 8801,X,Dennis Houston,WR,TB,26,0,,WR-,0,0,0,0,0,0,0,0,0
 8809,X,Aaron Shampklin,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 881,X,Ricky Stanzi,QB,,30,0,,QB-,0,0,0,0,0,0,0,0,0
