@@ -257,7 +257,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11563,1553,Bo Nix,QB,DEN,25,6388,Tristan,QB-Tristan,255.52,6879.384615,7370.769231,7616.461538,491.3846154,491.3846154,245.6923077,0,0
 11564,1551,Drake Maye,QB,NE,22,6494,Luc,QB-Luc,295.1818182,9499.05,9499.05,9499.05,3005.05,0,0,0,0
 11565,1555,JJ McCarthy,QB,MIN,22,5406,Luc,QB-Luc,245.7272727,9499.05,9499.05,9499.05,4093.05,0,0,0,0
-11566,1552,Jayden Daniels,QB,WAS,24,9999,Alex,QB-Alex,416.625,9985,9985,9985,-14,0,0,0,0
+11566,1552,Jayden Daniels,QB,WAS,24,9999,Alex,QB-Alex,416.625,9999,9999,9999,0,0,0,0,0
 11567,X,Jordan Travis,QB,,24,0,Jordan,QB-Jordan,0,0,0,0,0,0,0,0,0
 11568,X,Blake Watson,RB,DEN,25,0,,RB-,0,0,0,0,0,0,0,0,0
 11569,1764,Jarquez Hunter,RB,LAR,22,2368,,RB-,107.6363636,3946.666667,5262.222222,5262.222222,1578.666667,1315.555556,0,0,0
@@ -2451,7 +2451,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5975,X,Alize Mack,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 5976,X,Karan Higdon,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 5977,X,Terry Godwin,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
-5980,X,Myles Gaskin,RB,,27,0,,RB-,0,0,0,0,0,0,0,0,0
+5980,X,Myles Gaskin,RB,BAL,28,0,,RB-,0,0,0,0,0,0,0,0,0
 5984,X,Anthony Ratliff-Williams,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 5985,179,Foster Moreau,TE,NO,28,655,James,TE-James,23.39285714,604.6153846,503.8461538,226.7307692,-50.38461538,-100.7692308,-277.1153846,0,0
 5987,326,Alexander Mattison,RB,MIA,27,1075,Tristan,RB-Tristan,39.81481481,946,516,430,-129,-430,-86,0,0
@@ -2755,7 +2755,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6878,X,Anthony McFarland,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 6879,X,Quartney Davis,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 688,X,Tony Scheffler,TE,,34,0,,TE-,0,0,0,0,0,0,0,0,0
-6885,X,Ke'Shawn Vaughn,RB,,27,0,,RB-,0,0,0,0,0,0,0,0,0
+6885,X,Ke'Shawn Vaughn,RB,SF,28,0,,RB-,0,0,0,0,0,0,0,0,0
 6886,X,Chase Claypool,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 6892,X,Nate Stanley,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
 6894,X,Mitchell Wilcox,TE,MIA,28,0,,TE-,0,0,0,0,0,0,0,0,0
