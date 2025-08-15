@@ -559,6 +559,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12500,1734,Quinn Ewers,QB,MIA,22,1679,,QB-,76.31818182,4557.285714,5996.428571,6236.285714,2878.285714,1439.142857,239.8571429,0,0
 12501,1775,Matthew Golden,WR,GB,22,4565,,WR-,207.5,9493.35,9493.35,9493.35,4928.35,0,0,0,0
 12502,1805,Gunnar Helm,TE,TEN,22,1686,,TE-,76.63636364,5620,6182,7790.95,3934,562,1608.95,0,0
+12503,X,Isaiah Bond,WR,CLE,21,0,,WR-,0,0,0,0,0,0,0,0,0
 12504,1748,Kaleb Johnson,RB,PIT,22,4600,,RB-,209.0909091,7666.666667,8455,8455,3066.666667,788.3333333,0,0,0
 12505,1786,Jalen Royals,WR,KC,22,2578,,WR-,117.1818182,5524.285714,7734,9493.35,2946.285714,2209.714286,1759.35,0,0
 12506,1803,Harold Fannin,TE,CLE,21,2440,,TE-,116.1904762,4880,7790.95,7790.95,2440,2910.95,0,0,0
@@ -644,7 +645,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 128,X,Vincent Jackson,WR,,37,0,,WR-,0,0,0,0,0,0,0,0,0
 12800,X,Oscar Cardenas,TE,ARI,24,0,,TE-,0,0,0,0,0,0,0,0,0
 12803,X,Luke Grimm,WR,LAC,24,0,,WR-,0,0,0,0,0,0,0,0,0
-12810,X,Elijhah Badger,WR,KC,23,0,,WR-,0,0,0,0,0,0,0,0,0
+12810,X,Elijhah Badger,WR,KC,24,0,,WR-,0,0,0,0,0,0,0,0,0
 12817,X,Jake Briningstool,TE,KC,22,0,,TE-,0,0,0,0,0,0,0,0,0
 12818,X,Elijah Young,RB,KC,23,0,,RB-,0,0,0,0,0,0,0,0,0
 12820,X,Landon Parker,WR,IND,25,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -726,14 +727,14 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1313,X,Michael Preston,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 1314,X,Brad Smelley,FB,,28,0,,FB-,0,0,0,0,0,0,0,0,0
 13153,X,Giles Jackson,WR,PHI,23,0,,WR-,0,0,0,0,0,0,0,0,0
-13154,X,Marcus Major,RB,BAL,24,0,,RB-,0,0,0,0,0,0,0,0,0
+13154,X,Marcus Major,RB,,24,0,,RB-,0,0,0,0,0,0,0,0,0
 1316,X,Emil Igwenagu,RB,,29,0,,RB-,0,0,0,0,0,0,0,0,0
 13161,X,Zakhari Franklin,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 13162,X,Max Mang,TE,IND,25,0,,TE-,0,0,0,0,0,0,0,0,0
 1317,X,Brandon Barden,TE,,28,0,,TE-,0,0,0,0,0,0,0,0,0
 13173,X,Jimmy Holiday,WR,KC,23,0,,WR-,0,0,0,0,0,0,0,0,0
 13175,X,Kinkead Dent,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
-13189,X,Luke Floriea,WR,CLE,23,0,,WR-,0,0,0,0,0,0,0,0,0
+13189,X,Luke Floriea,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 13190,X,Taylor Elgersma,QB,GB,23,0,,QB-,0,0,0,0,0,0,0,0,0
 13199,X,Montorie Foster,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 13208,X,Kyrese Rowan,WR,DEN,24,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2053,7 +2054,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4835,X,Darrius Sims,RB,,27,0,,RB-,0,0,0,0,0,0,0,0,0
 4839,X,Mitch Leidner,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
 4853,X,Jerod Evans,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
-4854,X,River Cracraft,WR,,30,0,,WR-,0,0,0,0,0,0,0,0,0
+4854,X,River Cracraft,WR,WAS,30,0,,WR-,0,0,0,0,0,0,0,0,0
 4861,X,Kent Taylor,TE,,28,0,,TE-,0,0,0,0,0,0,0,0,0
 4863,X,Josh Rosen,QB,,25,0,,QB-,0,0,0,0,0,0,0,0,0
 4864,X,Jevoni Robinson,TE,,29,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -2777,7 +2778,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6919,X,Thaddeus Moss,TE,,24,0,,TE-,0,0,0,0,0,0,0,0,0
 6920,561,Isaiah Hodgins,WR,SF,26,868,James,WR-James,33.38461538,791.4117647,714.8235294,638.2352941,-76.58823529,-76.58823529,-76.58823529,0,0
 6926,X,Brycen Hopkins,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
-6927,X,Quez Watkins,WR,ARI,27,0,,WR-,0,0,0,0,0,0,0,0,0
+6927,X,Quez Watkins,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 6931,X,DeeJay Dallas,RB,ARI,26,0,,RB-,0,0,0,0,0,0,0,0,0
 6932,X,Charlie Taumoepeau,TE,,23,0,,TE-,0,0,0,0,0,0,0,0,0
 6938,531,Cam Akers,RB,NO,26,980,Matt,RB-Matt,37.69230769,700,616,336,-280,-84,-280,0,0
@@ -3134,7 +3135,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 794,X,Kamar Aiken,WR,,32,0,,WR-,0,0,0,0,0,0,0,0,0
 7941,X,Nick Ralston,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 7943,X,Zach Davidson,TE,BUF,27,0,,TE-,0,0,0,0,0,0,0,0,0
-7944,X,Michael Strachan,WR,WAS,28,0,,WR-,0,0,0,0,0,0,0,0,0
+7944,X,Michael Strachan,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 7946,X,Jack Stoll,TE,NO,27,0,,TE-,0,0,0,0,0,0,0,0,0
 7951,X,BJ Emmons,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 7954,X,Connor Wedington,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
