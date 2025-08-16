@@ -740,11 +740,11 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 13208,X,Kyrese Rowan,WR,DEN,24,0,,WR-,0,0,0,0,0,0,0,0,0
 1321,X,Mike Brown,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 13213,X,Lucas Scott,FB,BAL,21,0,,FB-,0,0,0,0,0,0,0,0,0
-13217,X,Hunter Dekkers,QB,NO,24,0,,QB-,0,0,0,0,0,0,0,0,0
+13217,X,Hunter Dekkers,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
 1322,X,Saalim Hakim,WR,,30,0,,WR-,0,0,0,0,0,0,0,0,0
 13221,X,Brett Gabbert,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
 13222,X,Montana Lemonious-Craig,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
-13225,X,Sam Brown,WR,GB,22,0,,WR-,0,0,0,0,0,0,0,0,0
+13225,X,Sam Brown,WR,,22,0,,WR-,0,0,0,0,0,0,0,0,0
 1323,X,Sean McGrath,TE,,32,0,,TE-,0,0,0,0,0,0,0,0,0
 1324,X,Edwin Baker,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
 13240,X,Toa Taua,RB,CLE,25,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -2490,7 +2490,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6068,X,Devine Ozigbo,RB,,27,0,,RB-,0,0,0,0,0,0,0,0,0
 6069,X,Stanley Morgan,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 6072,X,Bruce Anderson,RB,,24,0,,RB-,0,0,0,0,0,0,0,0,0
-6074,X,Donald Parham,TE,PIT,27,0,,TE-,0,0,0,0,0,0,0,0,0
+6074,X,Donald Parham,TE,PIT,28,0,,TE-,0,0,0,0,0,0,0,0,0
 6075,X,Jesper Horsted,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 6081,X,Kendall Blanton,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 6088,X,Bisi Johnson,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2549,7 +2549,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6223,X,Juwann Winfree,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 6227,X,Nick Easley,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 6231,X,John Lovett,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
-6233,X,Matt Sokol,TE,,29,0,,TE-,0,0,0,0,0,0,0,0,0
+6233,X,Matt Sokol,TE,BUF,29,0,,TE-,0,0,0,0,0,0,0,0,0
 6234,X,Deonte Harty,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 6236,X,Travon McMillian,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 6237,X,Wilton Speight,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
@@ -3340,7 +3340,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8411,X,Devon Allen,WR,,29,0,,WR-,0,0,0,0,0,0,0,0,0
 8413,X,Chris Oladokun,QB,KC,27,0,,QB-,0,0,0,0,0,0,0,0,0
 8414,X,Britain Covey,WR,LAR,28,0,,WR-,0,0,0,0,0,0,0,0,0
-8416,X,Jalen Virgil,WR,BUF,27,0,,WR-,0,0,0,0,0,0,0,0,0
+8416,X,Jalen Virgil,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8419,X,Stanley Berryhill,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 8420,X,Jack Sorenson,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8421,X,Mike Harley,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3521,7 +3521,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 9506,1400,Sean Tucker,RB,TB,23,2031,Luc,RB-Luc,88.30434783,2708,2708,2369.5,677,0,-338.5,0,0
 9508,1417,Tyjae Spears,RB,TEN,24,2864,Luc,RB-Luc,119.3333333,2864,2506,1790,0,-358,-716,0,0
 9509,1414,Bijan Robinson,RB,ATL,23,8892,Lucas,RB-Lucas,386.6086957,8892,8892,7780.5,0,0,-1111.5,0,0
-9510,X,Lew Nichols,RB,PIT,23,0,Luc,RB-Luc,0,0,0,0,0,0,0,0,0
+9510,X,Lew Nichols,RB,PIT,24,0,Luc,RB-Luc,0,0,0,0,0,0,0,0,0
 9511,1393,Keaton Mitchell,RB,BAL,23,2364,Jordan,RB-Jordan,102.7826087,3152,3152,2758,788,0,-394,0,0
 9512,X,DeWayne McBride,RB,,23,0,Luc,RB-Luc,0,0,0,0,0,0,0,0,0
 954,X,Cam Newton,QB,,32,0,,QB-,0,0,0,0,0,0,0,0,0
