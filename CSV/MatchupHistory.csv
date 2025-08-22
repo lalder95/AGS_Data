@@ -4606,7 +4606,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2023,15,null,5,2023-15-null-2,jwalwer81,137.16,8110,1258,10.4
 2023,15,null,5,2023-15-null-2,jwalwer81,137.16,8146,1270,5.9
 2023,15,null,5,2023-15-null-2,jwalwer81,137.16,9493,1426,10.3
-2023,15,null,5,2023-15-null-2,jwalwer81,137.16,8159,X,9.88
+2023,15,null,5,2023-15-null-2,jwalwer81,137.16,8159,1213,9.88
 2023,15,null,9,2023-15-null-3,LucDart,132.02,1234,257,19.52
 2023,15,null,9,2023-15-null-3,LucDart,132.02,5850,303,0
 2023,15,null,9,2023-15-null-3,LucDart,132.02,7561,1013,0
@@ -7260,7 +7260,7 @@ Year,Week,MatchupID,RosterID,LookupID,Manager,TeamTotalPoints,PlayerID,PlayerNam
 2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,7562,1078,12.5
 2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,5857,243,5.4
 2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,3321,286,12.9
-2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,5374,X,0
+2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,5374,178,0
 2024,5,2,4,2024-5-2-1,SnackDaddy2907,105.56,5870,87,26.08
 2024,5,2,5,2024-5-2-2,jwalwer81,151.3,9758,1403,17.94
 2024,5,2,5,2024-5-2-2,jwalwer81,151.3,8150,1226,15.5
