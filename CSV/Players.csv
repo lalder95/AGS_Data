@@ -91,7 +91,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11068,X,Mitchell Tinsley,WR,CIN,25,0,,WR-,0,0,0,0,0,0,0,0,0
 1107,X,Coby Fleener,TE,,31,0,,TE-,0,0,0,0,0,0,0,0,0
 11070,X,Kazmeir Allen,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
-11073,X,Thayer Thomas,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
+11073,X,Thayer Thomas,WR,DEN,27,0,,WR-,0,0,0,0,0,0,0,0,0
 11080,X,Malik Knowles,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 11081,X,Cephus Johnson,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 11082,X,Ben Sims,TE,GB,25,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -2513,7 +2513,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6115,X,Wes Hills,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
 6126,399,Irv Smith,TE,HOU,27,637,,TE-,23.59259259,534.2580645,493.1612903,410.9677419,-102.7419355,-41.09677419,-82.19354839,0,0
 613,X,Brandon LaFell,WR,,35,0,,WR-,0,0,0,0,0,0,0,0,0
-6130,238,Devin Singletary,RB,NYG,27,1218,Shane,RB-Shane,45.11111111,1071.84,584.64,487.2,-146.16,-487.2,-97.44,0,0
+6130,238,Devin Singletary,RB,NYG,28,1218,Shane,RB-Shane,43.5,664.3636364,553.6363636,276.8181818,-553.6363636,-110.7272727,-276.8181818,0,0
 6136,X,Jarrett Stidham,QB,DEN,29,0,Matt,QB-Matt,0,0,0,0,0,0,0,0,0
 6137,X,Tommy Sweeney,TE,,29,0,,TE-,0,0,0,0,0,0,0,0,0
 6139,X,Jace Sternberger,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -2554,7 +2554,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6209,X,Ishmael Hyman,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 621,X,Sam Bradford,QB,,33,0,,QB-,0,0,0,0,0,0,0,0,0
 622,X,Michael Hoomanawanui,TE,,32,0,,TE-,0,0,0,0,0,0,0,0,0
-6223,X,Juwann Winfree,WR,HOU,28,0,,WR-,0,0,0,0,0,0,0,0,0
+6223,X,Juwann Winfree,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 6227,X,Nick Easley,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 6231,X,John Lovett,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
 6233,X,Matt Sokol,TE,,29,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -2791,7 +2791,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6932,X,Charlie Taumoepeau,TE,,23,0,,TE-,0,0,0,0,0,0,0,0,0
 6938,531,Cam Akers,RB,,26,907,Matt,RB-Matt,34.88461538,647.8571429,570.1142857,310.9714286,-259.1428571,-77.74285714,-259.1428571,0,0
 6939,X,Binjimen Victor,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
-6943,X,Gabe Davis,WR,,26,0,Joe,WR-Joe,0,0,0,0,0,0,0,0,0
+6943,X,Gabe Davis,WR,BUF,26,0,Joe,WR-Joe,0,0,0,0,0,0,0,0,0
 6945,584,Antonio Gibson,RB,NE,27,1138,Alex,RB-Alex,42.14814815,1001.44,546.24,455.2,-136.56,-455.2,-91.04,0,0
 695,X,Ted Ginn,WR,,36,0,,WR-,0,0,0,0,0,0,0,0,0
 6951,X,Eno Benjamin,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -3346,7 +3346,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8408,1330,Jordan Mason,RB,MIN,26,3178,Ricky,RB-Ricky,122.2307692,2270,1997.6,1089.6,-908,-272.4,-908,0,0
 8409,X,Tyler Snead,WR,,22,0,,WR-,0,0,0,0,0,0,0,0,0
 8411,X,Devon Allen,WR,,29,0,,WR-,0,0,0,0,0,0,0,0,0
-8413,X,Chris Oladokun,QB,KC,27,0,,QB-,0,0,0,0,0,0,0,0,0
+8413,X,Chris Oladokun,QB,KC,28,0,,QB-,0,0,0,0,0,0,0,0,0
 8414,X,Britain Covey,WR,PHI,28,0,,WR-,0,0,0,0,0,0,0,0,0
 8416,X,Jalen Virgil,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8419,X,Stanley Berryhill,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
