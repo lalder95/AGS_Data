@@ -88,7 +88,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1106,X,Vick Ballard,RB,,30,0,,RB-,0,0,0,0,0,0,0,0,0
 11060,X,Robert Burns,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
 11065,X,Adrian Martinez,QB,SF,25,0,,QB-,0,0,0,0,0,0,0,0,0
-11068,X,Mitchell Tinsley,WR,CIN,25,0,,WR-,0,0,0,0,0,0,0,0,0
+11068,X,Mitchell Tinsley,WR,CIN,26,0,,WR-,0,0,0,0,0,0,0,0,0
 1107,X,Coby Fleener,TE,,31,0,,TE-,0,0,0,0,0,0,0,0,0
 11070,X,Kazmeir Allen,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 11073,X,Thayer Thomas,WR,DEN,27,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2471,7 +2471,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5919,X,Elijah Holyfield,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 592,X,Jahvid Best,RB,,29,0,,RB-,0,0,0,0,0,0,0,0,0
 5924,X,Emanuel Hall,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
-5927,328,Terry McLaurin,WR,WAS,29,4304,Joe,WR-Joe,148.4137931,2754.56,2238.08,1721.6,-1549.44,-516.48,-516.48,0,0
+5927,328,Terry McLaurin,WR,WAS,30,4304,Joe,WR-Joe,143.4666667,3497,2690,1345,-807,-807,-1345,0,0
 5929,X,Anthony Johnson,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 5937,338,Diontae Johnson,WR,,29,717,Matt,WR-Matt,24.72413793,458.88,372.84,286.8,-258.12,-86.04,-86.04,0,0
 5938,177,Lil'Jordan Humphrey,WR,NYG,27,559,Joe,WR-Joe,20.7037037,504.9032258,450.8064516,288.516129,-54.09677419,-54.09677419,-162.2903226,0,0
@@ -2567,7 +2567,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6178,X,Darwin Thompson,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
 618,X,Arrelious Benn,WR,,33,0,,WR-,0,0,0,0,0,0,0,0,0
 6181,X,Trevon Wesco,TE,,29,0,,TE-,0,0,0,0,0,0,0,0,0
-6185,X,Easton Stick,QB,ATL,29,0,,QB-,0,0,0,0,0,0,0,0,0
+6185,X,Easton Stick,QB,ATL,30,0,,QB-,0,0,0,0,0,0,0,0,0
 6187,X,Aca'Cedric Ware,RB,,24,0,,RB-,0,0,0,0,0,0,0,0,0
 6188,X,Sutton Smith,FB,,26,0,,FB-,0,0,0,0,0,0,0,0,0
 6195,X,Damon Sheehy-Guiseppi,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
