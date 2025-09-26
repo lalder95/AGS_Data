@@ -17,7 +17,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 10216,1385,Kenny McIntosh,RB,SEA,25,854,,RB-,34.16,747.25,533.75,469.7,-106.75,-213.5,-64.05,0,0
 10217,X,Clayton Tune,QB,GB,26,0,,QB-,0,0,0,0,0,0,0,0,0
 10218,1454,Xavier Hutchinson,WR,HOU,25,1547,Tristan,WR-Tristan,61.88,1643.6875,1498.65625,1353.625,96.6875,-145.03125,-145.03125,0,0
-10219,1389,Chris Rodriguez,RB,WAS,25,1890,Tom,RB-Tom,75.6,1653.75,1181.25,1039.5,-236.25,-472.5,-141.75,0,0
+10219,1389,Chris Rodriguez,RB,WAS,26,1890,Tom,RB-Tom,72.69230769,1350,1188,648,-540,-162,-540,0,0
 1022,X,Thaddeus Lewis,QB,,32,0,,QB-,0,0,0,0,0,0,0,0,0
 10220,X,Will Mallory,TE,IND,26,0,Matt,TE-Matt,0,0,0,0,0,0,0,0,0
 10221,X,Ronnie Bell,WR,DET,25,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -724,7 +724,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 13041,X,Jahmal Banks,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 13042,X,Xavier Guillory,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 13043,X,Chris Tyree,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
-13047,X,Jacardia Wright,RB,SEA,24,0,,RB-,0,0,0,0,0,0,0,0,0
+13047,X,Jacardia Wright,RB,SEA,25,0,,RB-,0,0,0,0,0,0,0,0,0
 1305,X,Patrick DiMarco,FB,,32,0,,FB-,0,0,0,0,0,0,0,0,0
 13053,X,Daniel Jackson,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 1306,X,Jeremy Ross,WR,,32,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2147,7 +2147,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5009,X,Chris Herndon,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 5010,86,Will Dissly,TE,LAC,29,1145,Alex,TE-Alex,39.48275862,954.1666667,429.375,381.6666667,-190.8333333,-524.7916667,-47.70833333,0,0
 5012,366,Mark Andrews,TE,BAL,30,2591,Tom,TE-Tom,86.36666667,1165.95,1036.4,906.85,-1425.05,-129.55,-129.55,0,0
-5013,X,Anthony Miller,WR,BAL,30,0,,WR-,0,0,0,0,0,0,0,0,0
+5013,X,Anthony Miller,WR,,30,0,,WR-,0,0,0,0,0,0,0,0,0
 502,X,Bear Pascoe,TE,,34,0,,TE-,0,0,0,0,0,0,0,0,0
 5022,382,Dallas Goedert,TE,PHI,30,2518,James,TE-James,83.93333333,1133.1,1007.2,881.3,-1384.9,-125.9,-125.9,0,0
 5024,X,James Washington,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2721,7 +2721,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6686,X,Joe Horn,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 669,X,Arian Foster,RB,,34,0,,RB-,0,0,0,0,0,0,0,0,0
 6692,X,Joe Horn,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
-6694,X,D'Ernest Johnson,RB,BAL,29,0,Tom,RB-Tom,0,0,0,0,0,0,0,0,0
+6694,X,D'Ernest Johnson,RB,,29,0,Tom,RB-Tom,0,0,0,0,0,0,0,0,0
 6697,X,Floyd Allen,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 6699,X,Gunner Olszewski,WR,NYG,28,0,,WR-,0,0,0,0,0,0,0,0,0
 670,X,Kassim Osgood,WR,,37,0,,WR-,0,0,0,0,0,0,0,0,0
