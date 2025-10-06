@@ -78,7 +78,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 7526,1007,Jaylen Waddle,WR,MIA,26,4298,Luc,WR-Luc,165.3076923,3918.764706,3539.529412,3160.294118,-379.2352941,-379.2352941,-379.2352941,0,0
 8144,1271,Chris Olave,WR,NO,25,4244,Lucas,WR-Lucas,169.76,4509.25,4111.375,3713.5,265.25,-397.875,-397.875,0,0
 12489,1768,RJ Harvey,RB,DEN,24,4209,,RB-,175.375,4209,3682.875,2630.625,0,-526.125,-1052.25,0,0
-7523,1094,Trevor Lawrence,QB,JAX,25,4197,Jordan,QB-Jordan,167.88,4519.846154,4842.692308,5004.115385,322.8461538,322.8461538,161.4230769,0,0
+7523,1094,Trevor Lawrence,QB,JAX,26,4197,Jordan,QB-Jordan,161.4230769,4496.785714,4646.678571,4796.571429,299.7857143,149.8928571,149.8928571,0,0
 7543,1030,Travis Etienne,RB,JAX,26,4151,James,RB-James,159.6538462,2965,2609.2,1423.2,-1186,-355.8,-1186,0,0
 7594,1014,Chuba Hubbard,RB,CAR,26,4103,Tom,RB-Tom,157.8076923,2930.714286,2579.028571,1406.742857,-1172.285714,-351.6857143,-1172.285714,0,0
 11589,1565,Trey Benson,RB,ARI,23,4050,Jordan,RB-Jordan,176.0869565,5400,5400,4725,1350,0,-675,0,0
@@ -109,7 +109,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4035,282,Alvin Kamara,RB,NO,30,3318,James,RB-James,110.6,1659,663.6,331.8,-1659,-995.4,-331.8,0,0
 6806,636,JK Dobbins,RB,DEN,26,3316,Shane,RB-Shane,127.5384615,2368.571429,2084.342857,1136.914286,-947.4285714,-284.2285714,-947.4285714,0,0
 2216,275,Mike Evans,WR,TB,32,3250,Ricky,WR-Ricky,101.5625,1625,1625,1300,-1625,0,-325,0,0
-7553,1051,Kyle Pitts,TE,ATL,24,3231,Jordan,TE-Jordan,134.625,5580.818182,4993.363636,4552.772727,2349.818182,-587.4545455,-440.5909091,0,0
+7553,1051,Kyle Pitts,TE,ATL,25,3231,Jordan,TE-Jordan,129.24,2890.894737,2635.815789,2210.684211,-340.1052632,-255.0789474,-425.1315789,0,0
 5872,383,Deebo Samuel,WR,WAS,29,3219,Tristan,WR-Tristan,111,2060.16,1673.88,1287.6,-1158.84,-386.28,-386.28,0,0
 5947,13,Jakobi Meyers,WR,LV,28,3213,Alex,WR-Alex,114.75,2868.75,1836,1491.75,-344.25,-1032.75,-344.25,0,0
 6783,545,Jerry Jeudy,WR,CLE,26,3176,Joe,WR-Joe,122.1538462,2895.764706,2615.529412,2335.294118,-280.2352941,-280.2352941,-280.2352941,0,0
@@ -490,7 +490,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 108,X,Steve Johnson,WR,,34,0,,WR-,0,0,0,0,0,0,0,0,0
 1082,X,Trent Richardson,RB,,29,0,,RB-,0,0,0,0,0,0,0,0,0
 1085,X,Brandon Weeden,QB,,38,0,,QB-,0,0,0,0,0,0,0,0,0
-10860,X,Malik Cunningham,WR,DET,26,0,,WR-,0,0,0,0,0,0,0,0,0
+10860,X,Malik Cunningham,WR,DET,27,0,,WR-,0,0,0,0,0,0,0,0,0
 10861,X,Xazavian Valladay,RB,,27,0,,RB-,0,0,0,0,0,0,0,0,0
 10862,X,Dorian Thompson-Robinson,QB,,25,0,Lucas,QB-Lucas,0,0,0,0,0,0,0,0,0
 10863,X,AT Perry,WR,DEN,25,0,Luc,WR-Luc,0,0,0,0,0,0,0,0,0
@@ -679,7 +679,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11605,X,Jaheim Bell,TE,,24,0,James,TE-James,0,0,0,0,0,0,0,0,0
 11606,X,Dallin Holker,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
 11607,X,Hayden Hatten,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
-11608,X,Isaiah Williams,WR,NYJ,24,0,,WR-,0,0,0,0,0,0,0,0,0
+11608,X,Isaiah Williams,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 11621,X,Brenden Rice,WR,,23,0,James,WR-James,0,0,0,0,0,0,0,0,0
 1164,X,Rueben Randle,WR,,29,0,,WR-,0,0,0,0,0,0,0,0,0
 11644,X,Cody Schrader,RB,JAX,26,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -873,7 +873,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12477,X,Kurtis Rourke,QB,SF,24,0,,QB-,0,0,0,0,0,0,0,0,0
 12478,X,Nick Nash,WR,ATL,25,0,,WR-,0,0,0,0,0,0,0,0,0
 12479,X,Ja'Quinden Jackson,RB,JAX,24,0,,RB-,0,0,0,0,0,0,0,0,0
-12480,X,Moliki Matavao,TE,NO,22,0,,TE-,0,0,0,0,0,0,0,0,0
+12480,X,Moliki Matavao,TE,,22,0,,TE-,0,0,0,0,0,0,0,0,0
 12491,X,Corey Kiner,RB,MIN,23,0,,RB-,0,0,0,0,0,0,0,0,0
 1250,X,Will Johnson,TE,,31,0,,TE-,0,0,0,0,0,0,0,0,0
 12509,X,Tre' Harris,WR,LAC,23,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -971,7 +971,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12946,X,Dontae Fleming,WR,MIN,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12950,X,Robert Lewis,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12953,X,Jalen White,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
-12954,X,Kye Robichaux,RB,DET,22,0,,RB-,0,0,0,0,0,0,0,0,0
+12954,X,Kye Robichaux,RB,DET,23,0,,RB-,0,0,0,0,0,0,0,0,0
 12959,X,Bryce Pierre,TE,CAR,24,0,,TE-,0,0,0,0,0,0,0,0,0
 1296,X,Cory Harkey,TE,,30,0,,TE-,0,0,0,0,0,0,0,0,0
 12965,X,Ethan Garbers,QB,,22,0,,QB-,0,0,0,0,0,0,0,0,0
@@ -2387,7 +2387,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5117,X,Jordan Thomas,TE,,28,0,,TE-,0,0,0,0,0,0,0,0,0
 5118,X,Tanner Lee,QB,,26,0,,QB-,0,0,0,0,0,0,0,0,0
 5120,X,Danny Etling,QB,,29,0,,QB-,0,0,0,0,0,0,0,0,0
-5121,X,Braxton Berrios,WR,HOU,29,0,,WR-,0,0,0,0,0,0,0,0,0
+5121,X,Braxton Berrios,WR,HOU,30,0,,WR-,0,0,0,0,0,0,0,0,0
 5122,X,Boston Scott,RB,,29,0,,RB-,0,0,0,0,0,0,0,0,0
 5123,X,Trenton Cannon,RB,,28,0,,RB-,0,0,0,0,0,0,0,0,0
 5124,X,Alex McGough,QB,,29,0,,QB-,0,0,0,0,0,0,0,0,0
@@ -3157,7 +3157,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 7503,X,Connor Davis,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 7509,X,Chris Owusu,WR,,30,0,,WR-,0,0,0,0,0,0,0,0,0
 7517,X,Duplicate Player,WR,,22,0,,WR-,0,0,0,0,0,0,0,0,0
-7521,X,Chris Blair,WR,ATL,27,0,,WR-,0,0,0,0,0,0,0,0,0
+7521,X,Chris Blair,WR,ATL,28,0,,WR-,0,0,0,0,0,0,0,0,0
 7522,X,Hunter Thedford,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 7529,X,Gary Brightwell,RB,CIN,27,0,,RB-,0,0,0,0,0,0,0,0,0
 7530,X,Frank Darby,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3334,7 +3334,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8153,X,Isaiah Spiller,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
 8157,X,Bailey Zappe,QB,CLE,26,0,Matt,QB-Matt,0,0,0,0,0,0,0,0,0
 8158,X,Carson Strong,QB,,23,0,,QB-,0,0,0,0,0,0,0,0,0
-8159,X,Desmond Ridder,QB,MIN,26,0,Matt,QB-Matt,0,0,0,0,0,0,0,0,0
+8159,X,Desmond Ridder,QB,,26,0,Matt,QB-Matt,0,0,0,0,0,0,0,0,0
 8164,X,Matt Corral,QB,,25,0,,QB-,0,0,0,0,0,0,0,0,0
 8166,X,Dontario Drummond,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 817,X,Jeremy Kerley,WR,,33,0,,WR-,0,0,0,0,0,0,0,0,0
