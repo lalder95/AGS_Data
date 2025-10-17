@@ -845,7 +845,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1237,X,Dominique Davis,QB,,29,0,,QB-,0,0,0,0,0,0,0,0,0
 12370,X,Praise Olatoke,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 12373,X,Peter LeBlanc,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
-12374,X,Brenden Bates,TE,HOU,25,0,,TE-,0,0,0,0,0,0,0,0,0
+12374,X,Brenden Bates,TE,HOU,26,0,,TE-,0,0,0,0,0,0,0,0,0
 12383,X,John Jiles,WR,NE,25,0,,WR-,0,0,0,0,0,0,0,0,0
 12389,X,Hayden Rucci,TE,MIA,24,0,,TE-,0,0,0,0,0,0,0,0,0
 12392,X,Tre Mosley,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -991,7 +991,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 13013,X,Mark Redman,TE,LAR,23,0,,TE-,0,0,0,0,0,0,0,0,0
 13017,X,Hajj-Malik Williams,QB,,25,0,,QB-,0,0,0,0,0,0,0,0,0
 1303,X,James Develin,FB,,33,0,,FB-,0,0,0,0,0,0,0,0,0
-13034,X,Tyrone Broden,WR,SEA,24,0,,WR-,0,0,0,0,0,0,0,0,0
+13034,X,Tyrone Broden,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 1304,X,Collin Mooney,FB,,31,0,,FB-,0,0,0,0,0,0,0,0,0
 13041,X,Jahmal Banks,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 13042,X,Xavier Guillory,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3523,7 +3523,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 891,X,Vincent Brown,WR,,31,0,,WR-,0,0,0,0,0,0,0,0,0
 8915,X,Drew Plitt,QB,,26,0,,QB-,0,0,0,0,0,0,0,0,0
 8921,X,Maurice Alexander,WR,CHI,28,0,,WR-,0,0,0,0,0,0,0,0,0
-8924,X,Thomas Odukoya,TE,,28,0,,TE-,0,0,0,0,0,0,0,0,0
+8924,X,Thomas Odukoya,TE,NE,28,0,,TE-,0,0,0,0,0,0,0,0,0
 8928,X,Daylen Baldwin,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 8931,X,Josh Ali,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8934,X,Clint Ratkovich,FB,,25,0,,FB-,0,0,0,0,0,0,0,0,0
