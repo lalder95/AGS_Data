@@ -97,7 +97,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 6819,536,Michael Pittman,WR,IND,28,3630,Alex,WR-Alex,129.6428571,3241.071429,2074.285714,1685.357143,-388.9285714,-1166.785714,-388.9285714,0,0
 5892,288,David Montgomery,RB,DET,28,3628,Tom,RB-Tom,129.5714286,1978.909091,1649.090909,824.5454545,-1649.090909,-329.8181818,-824.5454545,0,0
 5927,328,Terry McLaurin,WR,WAS,30,3584,Joe,WR-Joe,119.4666667,2912,2240,1120,-672,-672,-1120,0,0
-10236,1428,Dalton Kincaid,TE,BUF,25,3580,Joe,TE-Joe,143.2,3203.157895,2920.526316,2449.473684,-376.8421053,-282.6315789,-471.0526316,0,0
+10236,1428,Dalton Kincaid,TE,BUF,26,3580,Joe,TE-Joe,137.6923077,3264.117647,2737.647059,2527.058824,-315.8823529,-526.4705882,-210.5882353,0,0
 11637,1588,Keon Coleman,WR,BUF,22,3546,James,WR-James,161.1818182,7598.571429,8893.9,8893.9,4052.571429,1295.328571,0,0,0
 7591,1015,Justin Fields,QB,NYJ,26,3491,Joe,QB-Joe,134.2692308,3740.357143,3865.035714,3989.714286,249.3571429,124.6785714,124.6785714,0,0
 9753,1384,Zach Charbonnet,RB,SEA,24,3463,James,RB-James,144.2916667,3463,3030.125,2164.375,0,-432.875,-865.75,0,0
@@ -951,7 +951,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12897,X,Nathan Carter,RB,ATL,23,0,,RB-,0,0,0,0,0,0,0,0,0
 12898,X,Seth Henigan,QB,,22,0,,QB-,0,0,0,0,0,0,0,0,0
 1290,X,Jermaine Kearse,WR,,31,0,,WR-,0,0,0,0,0,0,0,0,0
-12901,X,Patrick Herbert,TE,JAX,24,0,,TE-,0,0,0,0,0,0,0,0,0
+12901,X,Patrick Herbert,TE,JAX,25,0,,TE-,0,0,0,0,0,0,0,0,0
 12906,X,Cam Camper,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 12907,X,Quentin Skinner,WR,NYJ,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12908,X,Chandler Brayboy,WR,JAX,24,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3325,7 +3325,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8120,X,Jerrion Ealy,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
 8122,X,Bam Knight,RB,ARI,24,0,,RB-,0,0,0,0,0,0,0,0,0
 8125,X,Calvin Austin,WR,PIT,26,0,Shane,WR-Shane,0,0,0,0,0,0,0,0,0
-8135,X,Treylon Burks,WR,,25,0,Alex,WR-Alex,0,0,0,0,0,0,0,0,0
+8135,X,Treylon Burks,WR,WAS,25,0,Alex,WR-Alex,0,0,0,0,0,0,0,0,0
 814,X,Shane Vereen,RB,,31,0,,RB-,0,0,0,0,0,0,0,0,0
 8140,X,Justyn Ross,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8149,X,Master Teague,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -3399,7 +3399,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8247,X,Gerrit Prince,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 8248,X,Kalil Pimpleton,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 8249,X,Lucas Krull,TE,DEN,27,0,,TE-,0,0,0,0,0,0,0,0,0
-8250,X,Tay Martin,WR,WAS,27,0,,WR-,0,0,0,0,0,0,0,0,0
+8250,X,Tay Martin,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8251,X,Calvin Jackson,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8253,X,Deven Thompkins,WR,ATL,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8255,X,Raheem Blackshear,RB,PIT,27,0,Lucas,RB-Lucas,0,0,0,0,0,0,0,0,0
