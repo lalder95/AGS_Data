@@ -503,7 +503,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 10983,X,Sean Clifford,QB,CIN,27,0,,QB-,0,0,0,0,0,0,0,0,0
 1102,X,Keshawn Martin,WR,,30,0,,WR-,0,0,0,0,0,0,0,0,0
 11024,X,Grant DuBose,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
-11034,X,Jalen Brooks,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
+11034,X,Jalen Brooks,WR,ARI,25,0,,WR-,0,0,0,0,0,0,0,0,0
 1104,X,DeVier Posey,WR,,31,0,,WR-,0,0,0,0,0,0,0,0,0
 11046,X,Colton Dowell,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 1105,X,Dwayne Allen,TE,,31,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -672,7 +672,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1158,X,Kellen Moore,QB,,32,0,,QB-,0,0,0,0,0,0,0,0,0
 11580,X,Dillon Johnson,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
 11582,X,Carson Steele,RB,KC,23,0,Lucas,RB-Lucas,0,0,0,0,0,0,0,0,0
-11588,X,Jawhar Jordan,RB,HOU,26,0,,RB-,0,0,0,0,0,0,0,0,0
+11588,X,Jawhar Jordan,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
 11590,X,Jase McClellan,RB,,23,0,Joe,RB-Joe,0,0,0,0,0,0,0,0,0
 11593,X,Brevyn Spann-Ford,TE,DAL,25,0,,TE-,0,0,0,0,0,0,0,0,0
 11598,X,Tanner McLachlan,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -790,7 +790,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1215,X,Jarius Wright,WR,,32,0,,WR-,0,0,0,0,0,0,0,0,0
 12150,X,Jarveon Howard,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 12151,X,Julian Hicks,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
-12154,X,Messiah Swinson,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
+12154,X,Messiah Swinson,TE,ARI,25,0,,TE-,0,0,0,0,0,0,0,0,0
 12165,X,Spencer Sanders,QB,,25,0,,QB-,0,0,0,0,0,0,0,0,0
 12168,X,Zach Mathis,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 1217,X,Laron Byrd,WR,,32,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -877,7 +877,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1250,X,Will Johnson,TE,,31,0,,TE-,0,0,0,0,0,0,0,0,0
 12509,X,Tre' Harris,WR,LAC,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12528,X,Ajou Ajou,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
-12532,X,Ja'Corey Brooks,WR,WAS,23,0,,WR-,0,0,0,0,0,0,0,0,0
+12532,X,Ja'Corey Brooks,WR,WAS,24,0,,WR-,0,0,0,0,0,0,0,0,0
 12538,X,Brady Cook,QB,NYJ,24,0,,QB-,0,0,0,0,0,0,0,0,0
 12546,X,Marcus Yarns,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
 12549,X,Jordan Petaia,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
