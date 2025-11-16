@@ -2055,7 +2055,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4111,X,D'Onta Foreman,RB,,28,0,Shane,RB-Shane,0,0,0,0,0,0,0,0,0
 4119,X,ArDarius Stewart,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 4125,X,Taywan Taylor,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
-4127,X,CJ Beathard,QB,DET,31,0,,QB-,0,0,0,0,0,0,0,0,0
+4127,X,CJ Beathard,QB,DET,32,0,,QB-,0,0,0,0,0,0,0,0,0
 4128,X,Chad Williams,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 4130,X,Brendan Langley,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 4131,X,Kenny Golladay,WR,,29,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2491,7 +2491,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5279,X,Quadree Henderson,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 5280,X,Pharoah McKever,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 5283,X,Ka'Raun White,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
-5284,X,Jeff Wilson,RB,MIA,29,0,Shane,RB-Shane,0,0,0,0,0,0,0,0,0
+5284,X,Jeff Wilson,RB,MIA,30,0,Shane,RB-Shane,0,0,0,0,0,0,0,0,0
 5285,X,Ross Dwelley,TE,DET,30,0,,TE-,0,0,0,0,0,0,0,0,0
 5286,X,Austin Allen,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
 5288,X,Donnie Ernsberger,TE,TEN,25,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -3294,7 +3294,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8038,X,Nick Guggemos,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 8039,X,Jibri Blount,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
 804,X,Clyde Gates,WR,,31,0,,WR-,0,0,0,0,0,0,0,0,0
-8041,X,Shane Zylstra,TE,DET,28,0,,TE-,0,0,0,0,0,0,0,0,0
+8041,X,Shane Zylstra,TE,DET,29,0,,TE-,0,0,0,0,0,0,0,0,0
 8051,X,Josh Johnson,RB,,24,0,,RB-,0,0,0,0,0,0,0,0,0
 8058,X,Nate McCrary,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 806,X,Daniel Thomas,RB,,30,0,,RB-,0,0,0,0,0,0,0,0,0
