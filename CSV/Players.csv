@@ -422,7 +422,6 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4351,206,Tim Patrick,WR,JAX,31,662,Alex,WR-Alex,21.35483871,509.2307692,254.6153846,254.6153846,-152.7692308,-254.6153846,0,0,0
 1234,257,Russell Wilson,QB,NYG,36,630,Luc,QB-Luc,17.5,495,360,225,-135,-135,-135,0,0
 12715,1827,Thomas Fidone,TE,NYG,23,626,,TE-,27.2173913,688.6,1189.4,1064.2,62.6,500.8,-125.2,0,0
-2197,307,Brandin Cooks,WR,NO,32,619,Shane,WR-Shane,19.34375,309.5,309.5,247.6,-309.5,0,-61.9,0,0
 6144,99,Trayveon Williams,RB,LAC,28,593,,RB-,21.17857143,323.4545455,269.5454545,134.7727273,-269.5454545,-53.90909091,-134.7727273,0,0
 5185,46,Allen Lazard,WR,NYJ,29,589,Tristan,WR-Tristan,20.31034483,376.96,306.28,235.6,-212.04,-70.68,-70.68,0,0
 12494,1738,Kyle McCord,QB,PHI,23,586,,QB-,25.47826087,771.0526316,801.8947368,863.5789474,185.0526316,30.84210526,61.68421053,0,0
@@ -1018,7 +1017,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 13116,X,Tre Watson,TE,KC,23,0,,TE-,0,0,0,0,0,0,0,0,0
 13119,X,Collin Schlee,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
 1312,X,Josh Bellamy,WR,,32,0,,WR-,0,0,0,0,0,0,0,0,0
-13120,X,Jacoby Jones,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
+13120,X,Jacoby Jones,WR,WAS,24,0,,WR-,0,0,0,0,0,0,0,0,0
 13121,X,Ben Yurosek,TE,MIN,23,0,,TE-,0,0,0,0,0,0,0,0,0
 13122,X,Carter Runyon,TE,LV,24,0,,TE-,0,0,0,0,0,0,0,0,0
 13124,X,Jeremiah Webb,WR,NE,24,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -1377,6 +1376,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 2191,X,Marcus Lucas,WR,,29,0,,WR-,0,0,0,0,0,0,0,0,0
 2193,X,Darrin Reaves,RB,,28,0,,RB-,0,0,0,0,0,0,0,0,0
 2196,X,Brandon Coleman,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
+2197,X,Brandin Cooks,WR,,32,0,Shane,WR-Shane,0,0,0,0,0,0,0,0,0
 2200,X,Timothy Flanders,RB,,33,0,,RB-,0,0,0,0,0,0,0,0,0
 2202,X,Je'Ron Hamm,TE,,29,0,,TE-,0,0,0,0,0,0,0,0,0
 2203,X,Nic Jacobs,TE,,28,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -2207,7 +2207,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 4563,X,Taylor McNamara,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 4569,X,Brian Brown,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 4571,X,Blake Jarwin,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
-4574,X,Cooper Rush,QB,BAL,31,0,Jordan,QB-Jordan,0,0,0,0,0,0,0,0,0
+4574,X,Cooper Rush,QB,BAL,32,0,Jordan,QB-Jordan,0,0,0,0,0,0,0,0,0
 4576,X,Jahad Thomas,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
 458,X,Justin Forsett,RB,,34,0,,RB-,0,0,0,0,0,0,0,0,0
 4585,X,Anthony Nash,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -2379,7 +2379,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 5107,X,Jaylen Samuels,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 5108,X,Luke Falk,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
 511,X,Marlon Moore,WR,,33,0,,WR-,0,0,0,0,0,0,0,0,0
-5110,X,Russell Gage,WR,SF,29,0,Luc,WR-Luc,0,0,0,0,0,0,0,0,0
+5110,X,Russell Gage,WR,,29,0,Luc,WR-Luc,0,0,0,0,0,0,0,0,0
 5111,X,Javon Wims,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 5112,X,Bo Scarbrough,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 5113,X,Cedrick Wilson,WR,MIA,30,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3416,7 +3416,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8411,X,Devon Allen,WR,,29,0,,WR-,0,0,0,0,0,0,0,0,0
 8413,X,Chris Oladokun,QB,KC,28,0,,QB-,0,0,0,0,0,0,0,0,0
 8414,X,Britain Covey,WR,PHI,28,0,,WR-,0,0,0,0,0,0,0,0,0
-8416,X,Jalen Virgil,WR,ARI,27,0,,WR-,0,0,0,0,0,0,0,0,0
+8416,X,Jalen Virgil,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8419,X,Stanley Berryhill,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 8420,X,Jack Sorenson,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8421,X,Mike Harley,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3487,7 +3487,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8747,X,Roger Carter,TE,,23,0,,TE-,0,0,0,0,0,0,0,0,0
 8749,X,Tyreik McAllister,RB,,27,0,,RB-,0,0,0,0,0,0,0,0,0
 8751,X,Dylan Parham,TE,,24,0,,TE-,0,0,0,0,0,0,0,0,0
-8755,X,Kaden Davis,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
+8755,X,Kaden Davis,WR,CLE,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8756,X,Brandon Johnson,WR,TB,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8757,X,Rodney Williams,TE,,26,0,,TE-,0,0,0,0,0,0,0,0,0
 8760,X,Dre Miller,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
