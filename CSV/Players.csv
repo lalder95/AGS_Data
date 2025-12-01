@@ -612,7 +612,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 11380,X,Johnny Lumpkin,TE,,27,0,,TE-,0,0,0,0,0,0,0,0,0
 11381,X,Travis Vokolek,TE,ARI,27,0,,TE-,0,0,0,0,0,0,0,0,0
 11382,X,Dontay Demus,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
-11384,X,Owen Wright,RB,TB,26,0,,RB-,0,0,0,0,0,0,0,0,0
+11384,X,Owen Wright,RB,,26,0,,RB-,0,0,0,0,0,0,0,0,0
 11385,X,Brian Walker,TE,,24,0,,TE-,0,0,0,0,0,0,0,0,0
 11387,X,Sean Ryan,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 11388,X,Nolan Henderson,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
@@ -840,7 +840,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12350,X,Anthony Grant,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
 12354,X,Easton Dean,TE,,20,0,,TE-,0,0,0,0,0,0,0,0,0
 12355,X,Treveyon Pratt,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
-12356,X,Jabari Small,RB,,24,0,,RB-,0,0,0,0,0,0,0,0,0
+12356,X,Jabari Small,RB,DET,24,0,,RB-,0,0,0,0,0,0,0,0,0
 12357,X,David Martin-Robinson,TE,TEN,25,0,,TE-,0,0,0,0,0,0,0,0,0
 1236,X,Joe Banyard,RB,,31,0,,RB-,0,0,0,0,0,0,0,0,0
 12360,X,Latreal Jones,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -849,7 +849,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 12373,X,Peter LeBlanc,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12374,X,Brenden Bates,TE,CLE,26,0,,TE-,0,0,0,0,0,0,0,0,0
 12383,X,John Jiles,WR,NE,25,0,,WR-,0,0,0,0,0,0,0,0,0
-12389,X,Hayden Rucci,TE,MIA,24,0,,TE-,0,0,0,0,0,0,0,0,0
+12389,X,Hayden Rucci,TE,,24,0,,TE-,0,0,0,0,0,0,0,0,0
 12392,X,Tre Mosley,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12395,X,Tanner Knue,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 12398,X,Jadon Janke,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
@@ -3057,7 +3057,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 7210,X,Kendall Hinton,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 7211,X,Zimari Manning,WR,,26,0,,WR-,0,0,0,0,0,0,0,0,0
 7212,X,Spencer Nigh,FB,,23,0,,FB-,0,0,0,0,0,0,0,0,0
-7216,X,Giovanni Ricci,FB,,28,0,,FB-,0,0,0,0,0,0,0,0,0
+7216,X,Giovanni Ricci,FB,DET,29,0,,FB-,0,0,0,0,0,0,0,0,0
 7217,X,Trevontae Hights,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 7218,X,Cam Sutton,TE,,25,0,,TE-,0,0,0,0,0,0,0,0,0
 7227,X,Artavis Pierce,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -3545,7 +3545,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 9220,X,Evan Hull,RB,NO,25,0,Luc,RB-Luc,0,0,0,0,0,0,0,0,0
 9222,X,Zach Evans,RB,,24,0,Matt,RB-Matt,0,0,0,0,0,0,0,0,0
 9223,X,Tiyon Evans,RB,,22,0,,RB-,0,0,0,0,0,0,0,0,0
-9227,X,Israel Abanikanda,RB,,22,0,Tristan,RB-Tristan,0,0,0,0,0,0,0,0,0
+9227,X,Israel Abanikanda,RB,DAL,23,0,Tristan,RB-Tristan,0,0,0,0,0,0,0,0,0
 9231,X,Jaren Hall,QB,,27,0,,QB-,0,0,0,0,0,0,0,0,0
 928,X,Randall Cobb,WR,,33,0,,WR-,0,0,0,0,0,0,0,0,0
 934,X,Ryan Taylor,TE,,29,0,,TE-,0,0,0,0,0,0,0,0,0
