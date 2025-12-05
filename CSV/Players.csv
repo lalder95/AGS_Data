@@ -1039,7 +1039,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 13189,X,Luke Floriea,WR,CLE,24,0,,WR-,0,0,0,0,0,0,0,0,0
 13190,X,Taylor Elgersma,QB,,23,0,,QB-,0,0,0,0,0,0,0,0,0
 13199,X,Montorie Foster,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
-13202,X,Dalevon Campbell,WR,LAC,23,0,,WR-,0,0,0,0,0,0,0,0,0
+13202,X,Dalevon Campbell,WR,LAC,24,0,,WR-,0,0,0,0,0,0,0,0,0
 13208,X,Kyrese Rowan,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 1321,X,Mike Brown,WR,,28,0,,WR-,0,0,0,0,0,0,0,0,0
 13210,X,Drake Dabney,TE,GB,23,0,,TE-,0,0,0,0,0,0,0,0,0
@@ -3303,7 +3303,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8068,X,CJ Saunders,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
 8070,X,Travis Toivonen,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 8074,X,Matt Seybert,TE,,24,0,,TE-,0,0,0,0,0,0,0,0,0
-8076,X,Michael Bandy,WR,DEN,27,0,,WR-,0,0,0,0,0,0,0,0,0
+8076,X,Michael Bandy,WR,DEN,28,0,,WR-,0,0,0,0,0,0,0,0,0
 8077,X,Otis Anderson,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
 8079,X,Craig Stevens,TE,,36,0,,TE-,0,0,0,0,0,0,0,0,0
 8085,X,Mekhi Sargent,RB,,25,0,,RB-,0,0,0,0,0,0,0,0,0
@@ -3366,7 +3366,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 8198,X,Charleston Rambo,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 8199,X,D'Eriq King,QB,,25,0,,QB-,0,0,0,0,0,0,0,0,0
 82,X,Brandon Jacobs,RB,,35,0,,RB-,0,0,0,0,0,0,0,0,0
-8200,X,Kevin Austin,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
+8200,X,Kevin Austin,WR,NO,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8201,X,Jack Coan,QB,,24,0,,QB-,0,0,0,0,0,0,0,0,0
 8202,X,Michael Woods,WR,,25,0,,WR-,0,0,0,0,0,0,0,0,0
 8206,X,Skylar Thompson,QB,PIT,28,0,,QB-,0,0,0,0,0,0,0,0,0
