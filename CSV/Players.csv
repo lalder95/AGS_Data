@@ -621,7 +621,7 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1139,X,Ladarius Green,TE,,30,0,,TE-,0,0,0,0,0,0,0,0,0
 11410,X,Braxton Burmeister,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 11413,X,Ronnie Brown,RB,,23,0,,RB-,0,0,0,0,0,0,0,0,0
-11415,X,Tanner Taula,TE,TB,26,0,,TE-,0,0,0,0,0,0,0,0,0
+11415,X,Tanner Taula,TE,TB,27,0,,TE-,0,0,0,0,0,0,0,0,0
 11418,X,Taye Barber,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 11419,X,Kade Warner,WR,,24,0,,WR-,0,0,0,0,0,0,0,0,0
 11421,X,Ryan Miller,WR,TB,25,0,Tristan,WR-Tristan,0,0,0,0,0,0,0,0,0
@@ -887,12 +887,12 @@ PlayerID,KTC ID,Name,Position,Team,Age,KTC Value,Owner,Position-Owner,Value/Age 
 1263,X,Bernard Pierce,RB,,29,0,,RB-,0,0,0,0,0,0,0,0,0
 1265,X,Daryl Richardson,RB,,30,0,,RB-,0,0,0,0,0,0,0,0,0
 12656,X,Robbie Ouzts,RB,SEA,23,0,,RB-,0,0,0,0,0,0,0,0,0
-12658,X,Jackson Hawes,TE,BUF,24,0,,TE-,0,0,0,0,0,0,0,0,0
+12658,X,Jackson Hawes,TE,BUF,25,0,,TE-,0,0,0,0,0,0,0,0,0
 12688,X,Cam Miller,QB,LV,24,0,,QB-,0,0,0,0,0,0,0,0,0
 1269,X,Bradley Sowell,TE,,32,0,,TE-,0,0,0,0,0,0,0,0,0
 12690,X,Tommy Mellott,WR,,23,0,,WR-,0,0,0,0,0,0,0,0,0
 12700,X,Gavin Bartholomew,TE,MIN,22,0,,TE-,0,0,0,0,0,0,0,0,0
-12705,X,Graham Mertz,QB,HOU,24,0,,QB-,0,0,0,0,0,0,0,0,0
+12705,X,Graham Mertz,QB,HOU,25,0,,QB-,0,0,0,0,0,0,0,0,0
 12721,X,Kaden Prather,WR,,22,0,,WR-,0,0,0,0,0,0,0,0,0
 12725,X,Luke Lachey,TE,HOU,24,0,,TE-,0,0,0,0,0,0,0,0,0
 1273,X,Francis Owusu,WR,,27,0,,WR-,0,0,0,0,0,0,0,0,0
